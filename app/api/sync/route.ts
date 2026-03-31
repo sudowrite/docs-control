@@ -32,8 +32,19 @@ const getHierarchy = async () => {
 
 const isVercel = !!process.env.VERCEL;
 
+/**
+ * Normalize content before hashing — strip ephemeral S3 signed URL params
+ * so that only real content changes trigger updates.
+ */
+function normalizeContent(content: string): string {
+  return content.replace(
+    /\?X-Amz-[^)\s]*/g,
+    ''
+  );
+}
+
 function hashContent(content: string): string {
-  return crypto.createHash('sha256').update(content).digest('hex');
+  return crypto.createHash('sha256').update(normalizeContent(content)).digest('hex');
 }
 
 export async function POST() {
