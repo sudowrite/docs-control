@@ -1,6 +1,10 @@
 /**
- * Sync API — triggers bidirectional Featurebase sync.
- * Runs the same logic as scripts/sync-from-featurebase-v2.js but callable via HTTP.
+ * Sync API — compares Featurebase articles with local repo state.
+ *
+ * On Vercel (read-only filesystem): runs in compare mode — fetches remote,
+ * reads deployed local files, and reports differences.
+ *
+ * Locally (next dev): runs full read/write sync.
  */
 
 import { NextResponse } from 'next/server';
@@ -17,6 +21,8 @@ const getSync = async (): Promise<any> => {
   const mod = await import('@/lib/featurebase-sync.js');
   return mod;
 };
+
+const isVercel = !!process.env.VERCEL;
 
 export async function POST() {
   const session = await auth();
@@ -70,15 +76,74 @@ export async function POST() {
     });
     const remoteArticles = remoteResponse?.data || [];
 
-    const syncState = await sync.loadSyncState();
+    // Scan local articles (readable on both Vercel and local)
+    let localArticles: any[] = [];
+    try {
+      localArticles = await sync.scanLocalArticles();
+    } catch {
+      // If local scan fails on Vercel, continue with empty
+    }
+
+    const localById = new Map<string, any>();
+    for (const a of localArticles) {
+      localById.set(a.id, a);
+    }
 
     const results = {
+      matched: 0,
+      changed: 0,
+      newRemote: 0,
+      details: [] as string[],
+      mode: isVercel ? 'compare' : 'full-sync',
+    };
+
+    if (isVercel) {
+      // === COMPARE MODE (Vercel — read-only) ===
+      for (const remoteArticle of remoteArticles) {
+        const collectionName = remoteArticle.parentId
+          ? collectionMap[remoteArticle.parentId] || 'Uncategorized'
+          : 'Uncategorized';
+
+        const local = localById.get(remoteArticle.id);
+
+        if (!local) {
+          results.newRemote++;
+          results.details.push(`New on Featurebase: ${remoteArticle.title} (${collectionName})`);
+          continue;
+        }
+
+        // Compare content by extracting remote markdown
+        const remoteContent = sync.extractArticleContent(remoteArticle);
+        const remoteHash = sync.hashContent(remoteContent);
+        const localHash = sync.hashContent(local.content);
+
+        if (remoteHash !== localHash) {
+          results.changed++;
+          results.details.push(`Changed: ${remoteArticle.title}`);
+        } else {
+          results.matched++;
+        }
+      }
+
+      return NextResponse.json({
+        success: true,
+        message: `Sync check: ${results.matched} matched, ${results.changed} changed on Featurebase, ${results.newRemote} new articles. Run locally to apply changes.`,
+        results,
+        remoteCount: remoteArticles.length,
+        localCount: localArticles.length,
+      });
+    }
+
+    // === FULL SYNC MODE (local dev — read/write) ===
+    const syncState = await sync.loadSyncState();
+
+    const fullResults = {
+      ...results,
       pulled: 0,
       created: 0,
       skipped: 0,
       conflicts: 0,
       errors: 0,
-      details: [] as string[],
     };
 
     for (const remoteArticle of remoteArticles) {
@@ -99,8 +164,8 @@ export async function POST() {
             sync_direction: 'pull',
             status: 'synced',
           };
-          results.created++;
-          results.details.push(`Created: ${article.title}`);
+          fullResults.created++;
+          fullResults.details.push(`Created: ${article.title}`);
           continue;
         }
 
@@ -116,8 +181,8 @@ export async function POST() {
             sync_direction: 'pull',
             status: 'synced',
           };
-          results.pulled++;
-          results.details.push(`Pulled: ${remoteArticle.title}`);
+          fullResults.pulled++;
+          fullResults.details.push(`Pulled: ${remoteArticle.title}`);
           continue;
         }
 
@@ -125,11 +190,10 @@ export async function POST() {
         const lastSyncedAt = new Date(lastSync.last_synced_at);
 
         if (remoteUpdatedAt <= lastSyncedAt) {
-          results.skipped++;
+          fullResults.skipped++;
           continue;
         }
 
-        // Remote changed — check for local changes
         const localHash = sync.hashContent(localArticle.content);
         const localChanged = localHash !== lastSync.last_synced_hash;
 
@@ -137,16 +201,16 @@ export async function POST() {
           const { report } = await sync.handleConflict(localArticle, remoteArticle, 'pull');
           syncState.conflicts = syncState.conflicts || [];
           syncState.conflicts.push(report);
-          results.conflicts++;
-          results.details.push(`Conflict: ${remoteArticle.title} (${report.resolution})`);
+          fullResults.conflicts++;
+          fullResults.details.push(`Conflict: ${remoteArticle.title} (${report.resolution})`);
 
           if (report.resolution === 'used_remote') {
             await sync.updateLocalArticle(localArticle.path, remoteArticle, collectionName);
           }
         } else {
           await sync.updateLocalArticle(localArticle.path, remoteArticle, collectionName);
-          results.pulled++;
-          results.details.push(`Pulled: ${remoteArticle.title}`);
+          fullResults.pulled++;
+          fullResults.details.push(`Pulled: ${remoteArticle.title}`);
         }
 
         syncState.articles[remoteArticle.id] = {
@@ -158,8 +222,8 @@ export async function POST() {
           status: localChanged ? 'conflict_resolved' : 'synced',
         };
       } catch (err) {
-        results.errors++;
-        results.details.push(`Error: ${remoteArticle.title} — ${(err as Error).message}`);
+        fullResults.errors++;
+        fullResults.details.push(`Error: ${remoteArticle.title} — ${(err as Error).message}`);
       }
     }
 
@@ -168,8 +232,8 @@ export async function POST() {
 
     return NextResponse.json({
       success: true,
-      message: `Sync complete: ${results.pulled} pulled, ${results.created} created, ${results.skipped} unchanged, ${results.conflicts} conflicts, ${results.errors} errors`,
-      results,
+      message: `Sync complete: ${fullResults.pulled} pulled, ${fullResults.created} created, ${fullResults.skipped} unchanged, ${fullResults.conflicts} conflicts, ${fullResults.errors} errors`,
+      results: fullResults,
       remoteCount: remoteArticles.length,
     });
   } catch (error) {
