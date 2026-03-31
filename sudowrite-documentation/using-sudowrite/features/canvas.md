@@ -4,15 +4,15 @@ slug: 2695461-canvas
 category: '5442133'
 collection_name: Features
 featurebase_id: '2695461'
-last_updated: '2026-01-21T16:17:46.774Z'
-synced_at: '2026-01-21T19:06:16.486Z'
+last_updated: '2026-03-31T13:55:45.343Z'
+synced_at: '2026-03-31T23:18:08.415Z'
 source: featurebase
 ---
 If you’re the type of author that works visually—say using index cards to map out an outline—you may want to use Sudowrite’s Canvas feature. Think of Canvas as a flexible digital whiteboard where you can drop notes, draft outlines, and freely rearrange everything in a 2D space.
 
 To access Canvas, find the **Canvas** option in the **More Tools** dropdown at the right of the top toolbar. Doing so will bring you into a fresh Canvas, where you’ll see the orientation information represented in the screenshot below. You can click and drag to select these cards in order to delete them all at once, or select something and delete it individually.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6abf75ca99492c5a3dbe/019be157-d870-7104-8e93-b909e208b141/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d721910498ac57a6bc7dfb00b4f0c7cd64e0eb0a89ea2c84f1cbcf1f72355825)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6abf75ca99492c5a3dbe/019be157-d870-7104-8e93-b909e208b141/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d0963bfcd1e0cab4ac299e97ec4a21bcde09b6cc36dd6178ff502840efce186a)
 
 The menu at the bottom of Canvas allows you to add a card, add text, or add an outline.
 

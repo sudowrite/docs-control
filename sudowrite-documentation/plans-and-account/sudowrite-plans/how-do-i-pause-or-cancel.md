@@ -4,13 +4,13 @@ slug: 6438230-how-do-i-pause-or-cancel
 category: '6550900'
 collection_name: Sudowrite Plans
 featurebase_id: '6438230'
-last_updated: '2026-01-21T15:29:01.468Z'
-synced_at: '2026-01-21T19:06:16.614Z'
+last_updated: '2026-03-31T15:22:59.610Z'
+synced_at: '2026-03-31T23:18:08.456Z'
 source: featurebase
 ---
 To pause or cancel your account, click on the Settings (⚙️) gear icon in the top right corner of Sudowrite, and select "Manage Membership." From there, you'll find options to either pause or cancel your subscription, manage your billing, or contact us.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6931c3bf18c3d82300a8/019be12c-3711-7b62-aa14-d7b5448c4cb0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=54d7ff314a99aab4bcc5455dfd9e2881cc4d99b70375631026900e518fcb233a)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6931c3bf18c3d82300a8/019be12c-3711-7b62-aa14-d7b5448c4cb0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0ed0988cd463586fcc16d5a120a3674e1df695d7f28ca6cd2a6d4d5b39f3bede)
 
 ## **What’s the difference between “pausing” and “canceling”?**
 

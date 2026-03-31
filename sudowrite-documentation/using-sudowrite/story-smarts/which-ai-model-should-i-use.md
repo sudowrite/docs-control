@@ -4,8 +4,8 @@ slug: 4046065-which-ai-model-should-i-use
 category: '5566496'
 collection_name: Story Smarts
 featurebase_id: '4046065'
-last_updated: '2026-01-21T18:30:49.074Z'
-synced_at: '2026-01-21T19:06:16.244Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.336Z'
 source: featurebase
 ---
 # Prose Modes and AI Models

@@ -4,8 +4,8 @@ slug: 8944320-privacy-policy
 category: '4964533'
 collection_name: The Fine Print
 featurebase_id: '8944320'
-last_updated: '2026-01-21T18:33:08.353Z'
-synced_at: '2026-01-21T19:06:16.119Z'
+last_updated: '2026-03-31T13:56:20.275Z'
+synced_at: '2026-03-31T23:18:08.281Z'
 source: featurebase
 ---
 This privacy policy ("Policy") describes how the personally identifiable information ("Personal Information") you may provide on the [sudowrite.com](https://www.sudowrite.com/) website ("Website" or "Service") and any of its related products and services (collectively, "Services") is collected, protected and used. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy is a legally binding agreement between you ("User", "you" or "your") and this Website operator ("Operator", "we", "us" or "our"). By accessing and using the Website and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
@@ -155,6 +155,6 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 ## Contacting us
 
-If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to [privacy@sudowrite.com](mailto:privacy@sudowrite.com).
+If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to [hi@sudowrite.com](mailto:hi@sudowrite.com).
 
 _This document was last updated on October 6, 2020_

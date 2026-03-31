@@ -4,8 +4,8 @@ slug: 5586039-chat-on-mobile
 category: '4553298'
 collection_name: Sudowrite's Mobile App
 featurebase_id: '5586039'
-last_updated: '2026-01-26T22:57:36.867Z'
-synced_at: '2026-01-26T22:59:52.236Z'
+last_updated: '2026-02-15T19:27:54.298Z'
+synced_at: '2026-03-31T23:18:08.236Z'
 source: featurebase
 ---
 The mobile app Chat is a unique feature that provides three different AI agents who can read, write, and manage your project content. It’s like working with a writing partner that can actually _do stuff_ for you right there in your projects.

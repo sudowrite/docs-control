@@ -4,8 +4,8 @@ slug: 4567979-intellectual-property-and-ownership
 category: '4964533'
 collection_name: The Fine Print
 featurebase_id: '4567979'
-last_updated: '2026-01-21T18:31:30.358Z'
-synced_at: '2026-01-21T19:06:16.133Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.285Z'
 source: featurebase
 ---
 ### Ownership Rights

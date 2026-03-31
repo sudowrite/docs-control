@@ -4,8 +4,8 @@ slug: 2487986-can-i-use-sudowrite-in-other-languages
 category: '4621459'
 collection_name: Frequently Asked Questions
 featurebase_id: '2487986'
-last_updated: '2026-01-21T18:23:30.302Z'
-synced_at: '2026-01-21T19:06:16.170Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.297Z'
 source: featurebase
 ---
 You can write text in almost any language, and Sudowrite’s Write button will (usually!) automatically match your language in its suggestions. When using other features, like the Draft tool or Plugins, you may have found that Sudowrite sometimes falls back on English.

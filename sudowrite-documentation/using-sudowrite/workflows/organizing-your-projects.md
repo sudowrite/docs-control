@@ -4,8 +4,8 @@ slug: 6639290-organizing-your-projects
 category: '5279540'
 collection_name: Workflows
 featurebase_id: '6639290'
-last_updated: '2026-01-21T16:47:58.662Z'
-synced_at: '2026-01-21T19:06:16.403Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.399Z'
 source: featurebase
 ---
 Everyone has their own system when it comes to organizing their work, and now you can bring yours to Sudowrite. **Project** **Folders** can be used to track your project status, group your work by series or pen name, or just keep your desktop tidy.

@@ -4,8 +4,8 @@ slug: 5511026-what-is-sudowrite
 category: '7475072'
 collection_name: Introduction
 featurebase_id: '5511026'
-last_updated: '2026-01-21T15:01:24.234Z'
-synced_at: '2026-01-21T19:06:16.682Z'
+last_updated: '2026-02-15T19:27:10.154Z'
+synced_at: '2026-03-31T23:18:08.479Z'
 source: featurebase
 ---
 Sudowrite is an AI toolkit for novelists that will help you plan, write, edit, and organize your work. It can offer suggestions, enhance prose, facilitate brainstorming and much, much more. You can focus on the parts of the writing process that you love, and get help from the AI with everything else.

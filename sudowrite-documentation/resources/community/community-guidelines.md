@@ -4,8 +4,8 @@ slug: 4486684-community-guidelines
 category: '8291256'
 collection_name: Community
 featurebase_id: '4486684'
-last_updated: '2026-01-21T18:21:34.040Z'
-synced_at: '2026-01-21T19:06:16.186Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.301Z'
 source: featurebase
 ---
 The [**Sudowrite Discord community**](https://discord.gg/sudowrite) is a place for authors and writers working with AI to hang out, share ideas, and learn from one another. There are people from all over the world and people of all ages in our community. Every day they’re experimenting and making discoveries that push the boundaries of just what you can do with AI—and the written word.

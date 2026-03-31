@@ -4,8 +4,8 @@ slug: 1726763-characters
 category: '9773420'
 collection_name: Story Bible
 featurebase_id: '1726763'
-last_updated: '2026-01-21T17:24:48.375Z'
-synced_at: '2026-01-21T19:06:16.327Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.374Z'
 source: featurebase
 ---
 The Characters section is where you define the characters in your story. This affects how the characters are described, how their dialogue is written, what choices they make, and how they interact with each other. Once you’ve completed your synopsis, Story Bible can create all of your characters for you.
@@ -24,7 +24,7 @@ Cards are how you keep track of each individual character and their details. Car
 
 The dropdown in the upper right allows you to set a Characters role (for example, protagonist, supporting character, etc.). You can see previous versions of the character in the card history—accessed from the clock icon up top—and you can delete a character card using the three dots on the right.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be192-8b27-7da9-b739-f8ce854a9fe4/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMDkuMjIgMkAyeC5wbmc.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c7eba4610a926802abf4d8ef1fac04e086c27b0dc7859df7bcabfbcb98386cba)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be192-8b27-7da9-b739-f8ce854a9fe4/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMDkuMjIgMkAyeC5wbmc.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=fa49046ee2f56d35d086cbf3a5cec4e909c4dcf579a2376179cac4f7b09e0676)
 
 By default, each Character card created includes the following traits: Pronouns, Groups, Other Names, Personality, Background, Physical Description, and Dialogue Style.
 
@@ -58,7 +58,7 @@ Traits aren’t set in stone. You can retitle existing traits, or even **create 
 
 **Want all of your characters—or even a specific character type—to have additional traits?** Click the **Customize** button under the **More menu (•••)** at the top of the Characters section and you can edit and rearrange your default traits for each Character type. You can even create brand new custom Character types with specific trait sets!
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be193-2662-7686-a246-9e905018fdd8/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMjQuMTdAMngucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c50c5fac3dc1d6af64ea916a29bb069cff5c740b2386a355a3435e24147eb78e)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be193-2662-7686-a246-9e905018fdd8/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMjQuMTdAMngucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=180f5849294f740940c2cd328b7c3ee015a85c6e8164f6dc82e464770b90afff)
 
 Just click **\+ Add** to add a new default trait, and all future characters will be created with that default trait included. This is ideal if you’d like to add your characters’ Enneagram types, core wounds, or story-specific details (like shifter form, for example).
 
@@ -80,7 +80,7 @@ Story Bible’s updated characters section has more structured character data th
 
 Your characters section is referenced by the Draft tool for the creation of both Scenes and prose generation. Characters are also referenced by the Write button’s Auto and Guided Write modes. And both Quick Edit and Chat can see your characters as well—try asking Chat about any of your character details.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-0304-7672-880f-e153ebb1247d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9105284b3e85f034e24be0ed1394b5a004bac34e4ab5bd13f5312be066e843e9)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-0304-7672-880f-e153ebb1247d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2295d500cc60682595d7bea9508fa2fd7485a82263742852d69e1385b0148f53)
 
 You can fit an absurd amount of data on each Character card, and Story Bible won’t ever stop you from adding new Characters. You may see the Characters section referred to as unlimited—but that’s not _entirely_ true. **If you try to add more than 2,000 different characters to your Story Bible you’ll actually hit the limit!** But if you have more than 2,000 characters… well, have you considered you may actually be writing _a phone book_?
 
@@ -90,11 +90,11 @@ Sometimes you want to pick up on a work in progress, or just create character ca
 
 The smart import feature in Story Bible’s Characters section can be used to instantly create Character cards from an existing text.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-4862-72bf-b271-36b9b017a0b2/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6e7c0d47f2b1f8fc3968d8cd41bb6493f8dac7ad4c2a91e7f8bdff251a3ef495)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-4862-72bf-b271-36b9b017a0b2/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=de55e51092d7ca90255cf74a50a70c4ca0e2d3d4d16435643bd95512cc9fa885)
 
 To use the smart import feature, navigate to the header of the Characters section of Story Bible and click the Import button in the three dots (•••) menu. Doing so opens the Import window.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-8967-74b8-a93c-9eb046a141e9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7b9e8d8889f54f77dcf5d22a9eab3be3d1b25c958bb28d7f60d5a2fcc2f53d8d)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-8967-74b8-a93c-9eb046a141e9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f86d4784dba978e87bd2856288448e963c5e2eb073fd18da83e58f46de7156cd)
 
 You have the option of importing characters from text or a file. This might be a list of characters, a chapter of your work, or in some cases an entire manuscript.
 

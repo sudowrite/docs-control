@@ -4,8 +4,8 @@ slug: 3568979-ambassadors
 category: '8291256'
 collection_name: Community
 featurebase_id: '3568979'
-last_updated: '2026-01-21T18:23:02.977Z'
-synced_at: '2026-01-21T19:06:16.179Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.299Z'
 source: featurebase
 ---
 Sudowrite’s Ambassador program is a way for our most active and passionate authors to shape, support, and grow our community alongside us. If you’re already one of the more active voices in the community and feel like you have exciting ideas for the future of Sudowrite, this may be for you!

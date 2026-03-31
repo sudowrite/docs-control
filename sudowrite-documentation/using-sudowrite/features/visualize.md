@@ -4,8 +4,8 @@ slug: 2540440-visualize
 category: '5442133'
 collection_name: Features
 featurebase_id: '2540440'
-last_updated: '2026-01-21T16:19:36.984Z'
-synced_at: '2026-01-21T19:06:16.478Z'
+last_updated: '2026-03-31T13:55:45.343Z'
+synced_at: '2026-03-31T23:18:08.414Z'
 source: featurebase
 ---
 Visualize is a feature that brings your writing to life by generating images based on your text. Whether you're describing a character, setting a scene, or painting a vivid landscape with your words, Visualize transforms your descriptions into beautiful images—giving you a new perspective on your work.

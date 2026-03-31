@@ -4,8 +4,8 @@ slug: 0051483-worldbuilding
 category: '9773420'
 collection_name: Story Bible
 featurebase_id: 0051483
-last_updated: '2026-01-21T17:32:29.161Z'
-synced_at: '2026-01-21T19:06:16.316Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.361Z'
 source: featurebase
 ---
 ## Worldbuilding
@@ -18,7 +18,7 @@ The Worldbuilding section of Story Bible is the place to create and store all of
 
 The Worldbuilding section is very open-ended. It provides a wide range of templates. No matter what you select, your Worldbuilding entry will be tracked on a collapsible, customizable card.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-6ac0-7e03-b35c-a321bf878c72/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e0bd6de7b17109d8d4fac5f1665e6162f018333342380dd2dd193d112b4fd803)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-6ac0-7e03-b35c-a321bf878c72/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=034fe10c5b4a72ea368d9dd855d4f9ad004a7dc6ffe80ed6e00b3aa232f3430c)
 
 ### Worldbuilding Cards
 
@@ -26,7 +26,7 @@ The Worldbuilding section is very open-ended. It provides a wide range of templa
 
 Cards are how you keep track of each entry, meaning that **a card may represent a clue, magic system, setting, or something else altogether**. You can select from the card templates available, or create an entirely custom entry using **\+ Custom** when creating a card (or in the trait customization).
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-c76e-7a8a-b1d5-bc96e0e5dc07/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f6e0b1613e93e0af790111ae1d000c7050b26205b3c44aaa038e57baba940c76)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-c76e-7a8a-b1d5-bc96e0e5dc07/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4ff9cee68041af38b7133eabd79242f964e204e6fcc97502abe488c95b311cc8)
 
 As with Characters, Worldbuilding entry cards can be collapsed using the arrow next to the element name, and dragged to your preferred order with the six-dot handle in the upper left.
 

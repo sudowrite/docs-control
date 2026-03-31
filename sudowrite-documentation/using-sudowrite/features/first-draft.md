@@ -4,8 +4,8 @@ slug: 0327513-first-draft
 category: '5442133'
 collection_name: Features
 featurebase_id: '0327513'
-last_updated: '2026-01-21T16:13:26.648Z'
-synced_at: '2026-01-21T19:06:16.502Z'
+last_updated: '2026-03-31T13:55:45.343Z'
+synced_at: '2026-03-31T23:18:08.417Z'
 source: featurebase
 ---
 First Draft is a feature that helps you get the ball rolling when you don’t know where to begin. Whether you’re working on a novel, blog post, article, or essay, First Draft will generate up to **3000 words** based on a prompt you provide—giving you a solid jumping-off point to work from.

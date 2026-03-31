@@ -4,8 +4,8 @@ slug: 0953803-what-are-plugins
 category: '2165317'
 collection_name: Plugins
 featurebase_id: 0953803
-last_updated: '2026-01-21T18:00:47.652Z'
-synced_at: '2026-01-21T19:06:16.233Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.326Z'
 source: featurebase
 ---
 ## What are Plugins?

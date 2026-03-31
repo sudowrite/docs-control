@@ -4,8 +4,8 @@ slug: 0063553-synopsis
 category: '9773420'
 collection_name: Story Bible
 featurebase_id: '0063553'
-last_updated: '2026-01-21T17:16:52.590Z'
-synced_at: '2026-01-21T19:06:16.334Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.375Z'
 source: featurebase
 ---
 Synopsis establishes the characters, their goals, the central conflict, how your story begins and how it ends. It also conveys your story's tone, themes, and unique elements.
@@ -34,7 +34,7 @@ Once you’ve typed the changes you want made, just click the **Go** button.
 
 🕓 **QUICK TIP**
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cb45b069893d4fb8adc/019be18e-847d-7e21-b126-5c4f01a16159/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a675909a50567403f0107c07ae6f737c537aba7066797523d561baf907e6bbc0)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cb45b069893d4fb8adc/019be18e-847d-7e21-b126-5c4f01a16159/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2226443679e3217a82154ef5a91cfe41e3902a254d0c9b2a7d36703e92d4f49d)
 
 ✏️ **Rewrite Examples**
 

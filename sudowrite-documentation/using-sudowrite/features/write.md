@@ -4,11 +4,11 @@ slug: 8378195-write
 category: '5442133'
 collection_name: Features
 featurebase_id: '8378195'
-last_updated: '2026-01-21T15:58:36.277Z'
-synced_at: '2026-01-21T19:06:16.548Z'
+last_updated: '2026-03-31T13:55:45.343Z'
+synced_at: '2026-03-31T23:18:08.443Z'
 source: featurebase
 ---
-![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/0198aeb7-16a6-7e2a-b6ef-6b8aefda57b6/b64u-MDE5OGFlYjctMTVhNC03NjQ0LWFjMDUtZmRiMDY1N2FhZjA5.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=72b1a16780595d9d9a2c45528e9d98dabebc261207a875a55aa11e6ca36fb915)
+![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/0198aeb7-16a6-7e2a-b6ef-6b8aefda57b6/b64u-MDE5OGFlYjctMTVhNC03NjQ0LWFjMDUtZmRiMDY1N2FhZjA5.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2db7cd3b306c7615e064da80f91e3b09c0d78ef367808415f4a7f653954c20d8)
 
 # **Write**
 
@@ -20,7 +20,7 @@ Write works best with a _minimum_ of 20 words (not counting the document’s tit
 
 Click the 🔽 toggle to the right of Write to expand the Write menu. There you’ll find three different versions of Write— ✨ Auto, ↔️ Guided, and 🥸 Tone Shift—and the Write settings, which is where you’ll control settings for these features.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be134-2e7f-7331-a6fd-929e19580e41/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=647814f0dbf8ee94082697a674d6038222d23a598ea3fdb75ddbc8cff6d1d46f)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be134-2e7f-7331-a6fd-929e19580e41/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7d3ed032b61c5d552eff1ffb5a4dff7283cce31f7a2cea3b2a9733b5f17f83a1)
 
 Once you’ve selected which Write mode you’d prefer, click the Write button within the text to use it. The suggestions will appear in the History column on the right. If you see a suggestion you like, click Insert to bring that prose into your document. This text will appear in **purple** until it's been edited by you. You’ll get the best results by regularly editing the purple text to make it your own, and fully incorporate it into your work.
 
@@ -40,7 +40,7 @@ Let’s keep the setting on ✨ **Auto** and click **Write.**
 
 Sudowrite created 2 cards on the right side. They begin unstacked, so you can read the possible paths available, but if you click on the top (prompt portion) of the card, Sudowrite will collapse them down into a stack.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be135-9823-7c2e-899d-e1bb1c5fcb36/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=88d8e51cb8c2a3972126b0e10f43cb8cd7ad466235e45f9f609ace2e5c8eea8a)Advanced Tool Techniques
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be135-9823-7c2e-899d-e1bb1c5fcb36/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=fcfa6385eac530d9789529df0ff064bf36942468f45f6c99a753372cce722e39)Advanced Tool Techniques
 
 Write looks at what you've written and _continues_ it in the same style, voice, and format. Taking this into account, Write can help you with a number of creative tasks in your writing, including outlining, suggesting character traits, story themes, and much more. (These techniques work best in **Auto** mode.)
 
@@ -118,23 +118,23 @@ Here is what we’ve entered into the editor:
 
 Click on the 🔽 down arrow next to **Write** in the top left corner and Select **Guided**.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13e-bf58-77c8-8cb7-9e5b8007bb76/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f494061efc95bdea129a337b98fdd3ba967705607798f7f4417515ad35589307)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13e-bf58-77c8-8cb7-9e5b8007bb76/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=42c8c23ee18aef5c498223ab9c97aaffe5b0d0d02169c14b9273885f03853a79)
 
 The Write button will then instead say Write Guided. Now place your cursor at the end of your text, and click **Write Guided** in the top left corner.
 
 **Guided Write** can offer 3 Suggestions of what could come next in the story. You turn on the Suggestions slider if you want Sudowrite to generate those Suggestions.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13f-18d4-793d-84dd-0f92d560bb42/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=76e8c7444a28fa7675e418fa3ece20770476adfef686df5a64db24bfb5afb69b)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13f-18d4-793d-84dd-0f92d560bb42/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=51af95c571dc4d32f7a9445ec7b7d11f2bae464037fadff33b79f4a42e907cac)
 
 If you click on one of the suggestions, Sudowrite will create the number of cards and approximate lengths you chose in **Write Settings**.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be141-9881-70ef-88eb-21623352f416/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzEuMzgucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=382586789e8714e9da1170729f1598dcc2fbfc99195a95d4bb4154baf52e005c)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be141-9881-70ef-88eb-21623352f416/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzEuMzgucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6e476e37d37de6d9eb364672f56ec2ad727d08ababab96038eba7ffc0c6daa08)
 
 Here is the prompt for the “Write you own” box in the image below:
 
 > there’s a bright flash, and then a loud, apocalyptic explosion outside
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be142-e463-79d5-8b01-722942651c43/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8051241c8d245482934af66f91275efc10cd9de2ad01bd5234b91eb3ffdade18)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be142-e463-79d5-8b01-722942651c43/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9ff246c8560e9937ee27f7b60b87766981e521175c58726f5c05ffc97f566196)
 
 ### Getting the most from Write’s Guided mode
 
@@ -164,13 +164,13 @@ Tone Shift works a lot like Write’s Auto setting with one key difference—it 
 
 After clicking the Write 🔽 toggle, choose Tone Shift and then select from any of the following tones: Ominous, Fantastical, Fast-Paced, Upbeat, Authoritative, Conflicted, Romantic, Sensual. Then just put the cursor where you’d like to pick up the story from, and click the Write button. You’ll see the story continues along the vibes of what you’d selected.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be143-d30b-70b6-9abe-a46c2ad8b965/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e4e48bafed7a46577c3c55c38cf688c73e0ff8bf76326eabfac09fd1c41584d0)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be143-d30b-70b6-9abe-a46c2ad8b965/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d51f136569b4a96383512f4bc55a3c61aa683df3a0767d8c9f1d5331324a0648)
 
 ## **Write Settings**
 
 The last button under Write is for the Write Settings, which let you dictate how each Write feature should work.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be144-e24e-7989-a104-dd2aa5fca297/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzguMTEucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=99744732fe21207ecc4bbcb7fcca049f74c728e0ec4fd085316fee47870f9e72)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be144-e24e-7989-a104-dd2aa5fca297/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzguMTEucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4a9c8e2ad4f00d5e644fe0ae598d11a77b9928c24d568dc519c78846dc221fb5)
 
 ### Creativity
 

@@ -4,8 +4,8 @@ slug: 6204120-chat
 category: '5442133'
 collection_name: Features
 featurebase_id: '6204120'
-last_updated: '2026-01-21T16:24:40.128Z'
-synced_at: '2026-01-21T19:06:16.421Z'
+last_updated: '2026-03-31T13:55:45.343Z'
+synced_at: '2026-03-31T23:18:08.403Z'
 source: featurebase
 ---
 There’s a new chat in town, and it lives in your project’s right bar. To use it, simply toggle your right bar from History (which is where all your “cards” are generated and stored) to Chat.

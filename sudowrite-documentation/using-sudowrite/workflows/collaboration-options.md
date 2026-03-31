@@ -4,8 +4,8 @@ slug: 7364030-collaboration-options
 category: '5279540'
 collection_name: Workflows
 featurebase_id: '7364030'
-last_updated: '2026-01-21T16:54:26.867Z'
-synced_at: '2026-01-21T19:06:16.378Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.389Z'
 source: featurebase
 ---
 Whether you're working with a collaborator, an editor, or you just want to share your work, Sudowrite offers powerful collaboration features to help you get feedback on your writing. You can effortlessly create and share links to your work and even collect comments from readers, all while maintaining control over the sharing process.

@@ -4,8 +4,8 @@ slug: 4733320-which-plan-should-i-get
 category: '6550900'
 collection_name: Sudowrite Plans
 featurebase_id: '4733320'
-last_updated: '2026-01-21T15:25:54.333Z'
-synced_at: '2026-01-21T19:06:16.629Z'
+last_updated: '2026-02-15T19:27:10.154Z'
+synced_at: '2026-03-31T23:18:08.458Z'
 source: featurebase
 ---
 Which plan you should choose **depends** entirely on your writing habits and goals. While we can’t say which plan is best for you without that, we can share some things you should consider:

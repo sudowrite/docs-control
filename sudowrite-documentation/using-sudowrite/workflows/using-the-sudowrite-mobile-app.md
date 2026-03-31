@@ -4,16 +4,11 @@ slug: 8875915-using-the-sudowrite-mobile-app
 category: '5279540'
 collection_name: Workflows
 featurebase_id: '8875915'
-last_updated: '2026-01-20T23:30:00.000Z'
-synced_at: '2026-01-20T23:30:00.000Z'
-source: local
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.387Z'
+source: featurebase
 ---
-
-# Using the Sudowrite Mobile App
-
-> **Note:** This article has been split into multiple detailed articles. For comprehensive mobile app documentation, please see the **Sudowrite's Mobile App** section.
-
-Sudowrite's iOS app is a companion app for iPhone that lets you work on your stories whenever and wherever inspiration strikes. Access your projects, write on the go, and even dictate new ideas with our mobile-exclusive feature: Smart Dictation.
+Sudowrite’s iOS app is a companion app for iPhone that lets you work on your stories whenever and wherever inspiration strikes. Access your projects, write on the go, and even dictate new ideas with our mobile-exclusive feature: Ramble mode.
 
 ## Getting Started
 

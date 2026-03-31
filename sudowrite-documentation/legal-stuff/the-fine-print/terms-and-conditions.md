@@ -4,8 +4,8 @@ slug: 5765112-terms-and-conditions
 category: '4964533'
 collection_name: The Fine Print
 featurebase_id: '5765112'
-last_updated: '2026-01-21T18:32:20.432Z'
-synced_at: '2026-01-21T19:06:16.127Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.284Z'
 source: featurebase
 ---
 These terms and conditions ("Agreement") sets forth the general terms and conditions of your use of the [sudowrite.com](http://sudowrite.com) website ("Website" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and this Website operator ("Operator", "we", "us" or "our"). By accessing and using the Website and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Website and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Website and Services.

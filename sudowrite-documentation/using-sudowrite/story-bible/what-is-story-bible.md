@@ -4,8 +4,8 @@ slug: 1671191-what-is-story-bible
 category: '9773420'
 collection_name: Story Bible
 featurebase_id: '1671191'
-last_updated: '2026-01-21T17:10:50.385Z'
-synced_at: '2026-01-21T19:06:16.363Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.381Z'
 source: featurebase
 ---
 Story Bible gathers the core elements of your story in one place so that you and Sudowrite’s AI can reference them as you develop your work. As a feature, it has two purposes:
@@ -25,7 +25,7 @@ Like any other Sudowrite tool, the resulting story is only as good as the writer
 
 You’ll find your Story Bible in the left bar of your Project, beneath your document list.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c7f628c454516ad35e2/019be187-fedb-725b-bb70-37bee4f3d785/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f7e010dedc030260713c6cd9680032498886bd95e915820510f82c6bac2363f1)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c7f628c454516ad35e2/019be187-fedb-725b-bb70-37bee4f3d785/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d347986c0de47e506a33dd56c97bae623e70b12ddfcef1cf9111919240fc3adc)
 
 ## How to move through Story Bible
 

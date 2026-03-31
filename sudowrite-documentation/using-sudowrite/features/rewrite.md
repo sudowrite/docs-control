@@ -4,11 +4,11 @@ slug: 0618507-rewrite
 category: '5442133'
 collection_name: Features
 featurebase_id: 0618507
-last_updated: '2026-01-21T16:02:30.593Z'
-synced_at: '2026-01-21T19:06:16.536Z'
+last_updated: '2026-03-31T13:55:45.343Z'
+synced_at: '2026-03-31T23:18:08.423Z'
 source: featurebase
 ---
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a5567df40e13a8b270b/019be149-0add-7626-93b8-62364966934f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=63d8a6b5d488dd402009118e07b90f155c1379ea6a6eddb8e831a6d88199127a)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a5567df40e13a8b270b/019be149-0add-7626-93b8-62364966934f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260331T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260331%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f43f532d3b963052f773d7fce6480c70e560c4cb878c534fd2d64474aea45f51)
 
 # Rewrite
 

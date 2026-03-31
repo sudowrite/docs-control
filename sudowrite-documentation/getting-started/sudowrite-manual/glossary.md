@@ -4,8 +4,8 @@ slug: 1326552-glossary
 category: '6149413'
 collection_name: Sudowrite Manual
 featurebase_id: '1326552'
-last_updated: '2026-01-21T15:22:43.615Z'
-synced_at: '2026-01-21T19:06:16.643Z'
+last_updated: '2026-02-15T19:27:10.154Z'
+synced_at: '2026-03-31T23:18:08.462Z'
 source: featurebase
 ---
 When you’re attending Sudowrite classes or reading documentation, there’s a good chance you’ll encounter some jargon along the way. This glossary is intended to clarify any terms that may be ambiguous—whether they’re related to Sudowrite, artificial intelligence, or writing craft.

@@ -4,8 +4,8 @@ slug: 4321134-curriculum-details
 category: '5844132'
 collection_name: Classes
 featurebase_id: '4321134'
-last_updated: '2026-01-21T18:19:41.309Z'
-synced_at: '2026-01-21T19:06:16.201Z'
+last_updated: '2026-02-15T19:27:10.222Z'
+synced_at: '2026-03-31T23:18:08.303Z'
 source: featurebase
 ---
 Sudowrite offers **free live classes** almost every day of the week. We cover a wide variety of topics, genres, and workflows, with sessions ranging from working with Sudowrite to writing craft in general.
