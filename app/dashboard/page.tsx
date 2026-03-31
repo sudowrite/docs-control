@@ -26,6 +26,7 @@ export default function DashboardPage() {
   const [isAuditing, setIsAuditing] = useState(false);
   const [log, setLog] = useState<string[]>([]);
   const [stats, setStats] = useState<Stats | null>(null);
+  const [changelogText, setChangelogText] = useState('');
 
   const addLog = (msg: string) => {
     setLog((prev) => [...prev, `[${new Date().toLocaleTimeString()}] ${msg}`]);
@@ -73,7 +74,11 @@ export default function DashboardPage() {
     setIsAuditing(true);
     addLog('Starting audit — analyzing latest changelog...');
     try {
-      const res = await fetch('/api/audit', { method: 'POST' });
+      const res = await fetch('/api/audit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ changelogText: changelogText || undefined }),
+      });
       const data = await res.json();
       if (data.success) {
         addLog(data.message);
@@ -324,13 +329,19 @@ export default function DashboardPage() {
             <FileSearch className="w-4 h-4 text-purple-400" />
             Documentation Audit
           </h3>
-          <p className="text-slate-400 text-sm mb-4 leading-relaxed">
-            Analyze recent changelogs against the current knowledge base to
-            identify contradictions or missing entries.
+          <p className="text-slate-400 text-sm mb-3 leading-relaxed">
+            Paste a changelog entry to check for doc contradictions.
           </p>
+          <textarea
+            value={changelogText}
+            onChange={(e) => setChangelogText(e.target.value)}
+            placeholder="Paste changelog content here..."
+            className="w-full bg-[#0f1923] border border-slate-600 rounded-lg p-3 text-sm text-slate-300 placeholder-slate-500 mb-3 resize-none focus:outline-none focus:border-purple-500 font-mono"
+            rows={3}
+          />
           <button
             onClick={handleAudit}
-            disabled={isAuditing || isSyncing}
+            disabled={isAuditing || isSyncing || !changelogText.trim()}
             className="bg-purple-600 hover:bg-purple-500 disabled:opacity-50 disabled:cursor-not-allowed text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors"
           >
             {isAuditing ? 'Auditing...' : 'Run Deep Audit'}

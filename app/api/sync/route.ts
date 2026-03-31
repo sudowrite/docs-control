@@ -1,14 +1,16 @@
 /**
- * Sync API — compares Featurebase articles with local repo state.
+ * Sync API — pulls latest from Featurebase and applies changes.
  *
- * On Vercel (read-only filesystem): runs in compare mode — fetches remote,
- * reads deployed local files, and reports differences.
+ * On Vercel: fetches remote articles, compares with deployed files,
+ * commits changes to GitHub repo via API (triggers redeploy).
  *
- * Locally (next dev): runs full read/write sync.
+ * Locally: runs full filesystem read/write sync.
  */
 
 import { NextResponse } from 'next/server';
 import { auth } from '@/lib/auth';
+import { commitFiles, buildRepoPath } from '@/lib/github-sync';
+import matter from 'gray-matter';
 
 export const maxDuration = 300;
 
@@ -20,6 +22,11 @@ const getClient = async () => {
 const getSync = async (): Promise<any> => {
   const mod = await import('@/lib/featurebase-sync.js');
   return mod;
+};
+
+const getHierarchy = async () => {
+  const mod = await import('@/lib/collection-hierarchy.js');
+  return mod.COLLECTION_HIERARCHY;
 };
 
 const isVercel = !!process.env.VERCEL;
@@ -46,6 +53,7 @@ export async function POST() {
   try {
     const FeaturebaseClient = await getClient();
     const sync = await getSync();
+    const hierarchy = await getHierarchy();
 
     const client = new FeaturebaseClient(apiKey);
 
@@ -58,7 +66,7 @@ export async function POST() {
       );
     }
 
-    // Fetch collections
+    // Fetch collections for name mapping
     const collectionsResponse = await client.getCollections({
       help_center_id: helpCenterId,
       limit: 100,
@@ -69,7 +77,7 @@ export async function POST() {
       collectionMap[col.id] = col.name || col.translations?.en?.name || 'Uncategorized';
     });
 
-    // Fetch remote articles
+    // Fetch all remote articles
     const remoteResponse = await client.getArticles({
       help_center_id: helpCenterId,
       limit: 100,
@@ -81,7 +89,7 @@ export async function POST() {
     try {
       localArticles = await sync.scanLocalArticles();
     } catch {
-      // If local scan fails on Vercel, continue with empty
+      // Empty on first deploy
     }
 
     const localById = new Map<string, any>();
@@ -90,61 +98,14 @@ export async function POST() {
     }
 
     const results = {
-      matched: 0,
-      changed: 0,
-      newRemote: 0,
-      details: [] as string[],
-      mode: isVercel ? 'compare' : 'full-sync',
-    };
-
-    if (isVercel) {
-      // === COMPARE MODE (Vercel — read-only) ===
-      for (const remoteArticle of remoteArticles) {
-        const collectionName = remoteArticle.parentId
-          ? collectionMap[remoteArticle.parentId] || 'Uncategorized'
-          : 'Uncategorized';
-
-        const local = localById.get(remoteArticle.id);
-
-        if (!local) {
-          results.newRemote++;
-          results.details.push(`New on Featurebase: ${remoteArticle.title} (${collectionName})`);
-          continue;
-        }
-
-        // Compare content by extracting remote markdown
-        const remoteContent = sync.extractArticleContent(remoteArticle);
-        const remoteHash = sync.hashContent(remoteContent);
-        const localHash = sync.hashContent(local.content);
-
-        if (remoteHash !== localHash) {
-          results.changed++;
-          results.details.push(`Changed: ${remoteArticle.title}`);
-        } else {
-          results.matched++;
-        }
-      }
-
-      return NextResponse.json({
-        success: true,
-        message: `Sync check: ${results.matched} matched, ${results.changed} changed on Featurebase, ${results.newRemote} new articles. Run locally to apply changes.`,
-        results,
-        remoteCount: remoteArticles.length,
-        localCount: localArticles.length,
-      });
-    }
-
-    // === FULL SYNC MODE (local dev — read/write) ===
-    const syncState = await sync.loadSyncState();
-
-    const fullResults = {
-      ...results,
-      pulled: 0,
+      updated: 0,
       created: 0,
-      skipped: 0,
-      conflicts: 0,
-      errors: 0,
+      matched: 0,
+      details: [] as string[],
     };
+
+    // Files to commit via GitHub API (Vercel) or write locally
+    const filesToCommit: { path: string; content: string }[] = [];
 
     for (const remoteArticle of remoteArticles) {
       try {
@@ -152,90 +113,119 @@ export async function POST() {
           ? collectionMap[remoteArticle.parentId] || 'Uncategorized'
           : 'Uncategorized';
 
-        const localArticle = await sync.findLocalArticleById(remoteArticle.id);
+        // Extract and convert remote content
+        const remoteMarkdown = sync.extractArticleContent(remoteArticle);
+        const remoteHash = sync.hashContent(remoteMarkdown);
 
-        if (!localArticle) {
-          const { article, filePath } = await sync.createLocalArticle(remoteArticle, collectionName);
-          syncState.articles[article.id] = {
-            local_path: filePath,
-            remote_id: article.id,
-            last_synced_at: new Date().toISOString(),
-            last_synced_hash: sync.hashContent(article.content),
-            sync_direction: 'pull',
-            status: 'synced',
-          };
-          fullResults.created++;
-          fullResults.details.push(`Created: ${article.title}`);
+        const local = localById.get(remoteArticle.id);
+
+        if (!local) {
+          // New article — needs to be created
+          const repoPath = buildRepoPath(
+            hierarchy,
+            remoteArticle.parentId,
+            remoteArticle.title
+          );
+
+          const fileContent = matter.stringify(remoteMarkdown, {
+            title: remoteArticle.title,
+            slug: remoteArticle.slug,
+            category: remoteArticle.parentId || '',
+            collection_name: collectionName,
+            featurebase_id: remoteArticle.id,
+            last_updated: remoteArticle.updatedAt || remoteArticle.updated_at || new Date().toISOString(),
+            synced_at: new Date().toISOString(),
+            source: 'featurebase',
+          });
+
+          filesToCommit.push({ path: repoPath, content: fileContent });
+          results.created++;
+          results.details.push(`New: ${remoteArticle.title}`);
           continue;
         }
 
-        const lastSync = syncState.articles[remoteArticle.id];
+        // Existing article — check if changed
+        const localHash = sync.hashContent(local.content);
 
-        if (!lastSync) {
-          await sync.updateLocalArticle(localArticle.path, remoteArticle, collectionName);
-          syncState.articles[remoteArticle.id] = {
-            local_path: localArticle.path,
-            remote_id: remoteArticle.id,
-            last_synced_at: new Date().toISOString(),
-            last_synced_hash: sync.hashContent(localArticle.content),
-            sync_direction: 'pull',
-            status: 'synced',
-          };
-          fullResults.pulled++;
-          fullResults.details.push(`Pulled: ${remoteArticle.title}`);
+        if (remoteHash === localHash) {
+          results.matched++;
           continue;
         }
 
-        const remoteUpdatedAt = new Date(remoteArticle.updatedAt || remoteArticle.updated_at);
-        const lastSyncedAt = new Date(lastSync.last_synced_at);
+        // Content differs — update
+        const repoPath = local.path.replace(/^.*?sudowrite-documentation/, 'sudowrite-documentation');
 
-        if (remoteUpdatedAt <= lastSyncedAt) {
-          fullResults.skipped++;
-          continue;
-        }
+        const fileContent = matter.stringify(remoteMarkdown, {
+          ...local.frontmatter,
+          last_updated: remoteArticle.updatedAt || remoteArticle.updated_at || new Date().toISOString(),
+          synced_at: new Date().toISOString(),
+          source: 'featurebase',
+        });
 
-        const localHash = sync.hashContent(localArticle.content);
-        const localChanged = localHash !== lastSync.last_synced_hash;
-
-        if (localChanged) {
-          const { report } = await sync.handleConflict(localArticle, remoteArticle, 'pull');
-          syncState.conflicts = syncState.conflicts || [];
-          syncState.conflicts.push(report);
-          fullResults.conflicts++;
-          fullResults.details.push(`Conflict: ${remoteArticle.title} (${report.resolution})`);
-
-          if (report.resolution === 'used_remote') {
-            await sync.updateLocalArticle(localArticle.path, remoteArticle, collectionName);
-          }
-        } else {
-          await sync.updateLocalArticle(localArticle.path, remoteArticle, collectionName);
-          fullResults.pulled++;
-          fullResults.details.push(`Pulled: ${remoteArticle.title}`);
-        }
-
-        syncState.articles[remoteArticle.id] = {
-          local_path: localArticle.path,
-          remote_id: remoteArticle.id,
-          last_synced_at: new Date().toISOString(),
-          last_synced_hash: sync.hashContent(localArticle.content),
-          sync_direction: 'pull',
-          status: localChanged ? 'conflict_resolved' : 'synced',
-        };
+        filesToCommit.push({ path: repoPath, content: fileContent });
+        results.updated++;
+        results.details.push(`Updated: ${remoteArticle.title}`);
       } catch (err) {
-        fullResults.errors++;
-        fullResults.details.push(`Error: ${remoteArticle.title} — ${(err as Error).message}`);
+        results.details.push(`Error: ${remoteArticle.title} — ${(err as Error).message}`);
       }
     }
 
-    syncState.last_sync = new Date().toISOString();
-    await sync.saveSyncState(syncState);
+    // Apply changes
+    if (filesToCommit.length === 0) {
+      return NextResponse.json({
+        success: true,
+        message: `All ${results.matched} articles are in sync. No changes needed.`,
+        results,
+        remoteCount: remoteArticles.length,
+        localCount: localArticles.length,
+      });
+    }
 
-    return NextResponse.json({
-      success: true,
-      message: `Sync complete: ${fullResults.pulled} pulled, ${fullResults.created} created, ${fullResults.skipped} unchanged, ${fullResults.conflicts} conflicts, ${fullResults.errors} errors`,
-      results: fullResults,
-      remoteCount: remoteArticles.length,
-    });
+    if (isVercel) {
+      // Commit via GitHub API
+      if (!process.env.GITHUB_TOKEN) {
+        return NextResponse.json({
+          success: false,
+          error: `Found ${filesToCommit.length} changes but GITHUB_TOKEN not configured. Cannot commit.`,
+          results,
+        }, { status: 500 });
+      }
+
+      const commit = await commitFiles(
+        filesToCommit,
+        `Sync ${results.updated} updated, ${results.created} new articles from Featurebase`
+      );
+
+      return NextResponse.json({
+        success: true,
+        message: `Synced ${results.updated} updated + ${results.created} new articles. Committed to GitHub — redeploy will follow.`,
+        results,
+        commit: commit.url,
+        remoteCount: remoteArticles.length,
+        localCount: localArticles.length,
+      });
+    } else {
+      // Local dev — write files directly
+      const syncState = await sync.loadSyncState();
+
+      for (const file of filesToCommit) {
+        const fullPath = require('path').resolve(file.path);
+        const dir = require('path').dirname(fullPath);
+        await require('fs/promises').mkdir(dir, { recursive: true });
+        await require('fs/promises').writeFile(fullPath, file.content, 'utf-8');
+      }
+
+      syncState.last_sync = new Date().toISOString();
+      await sync.saveSyncState(syncState);
+
+      return NextResponse.json({
+        success: true,
+        message: `Synced ${results.updated} updated + ${results.created} new articles locally.`,
+        results,
+        remoteCount: remoteArticles.length,
+        localCount: localArticles.length,
+      });
+    }
   } catch (error) {
     console.error('Sync error:', error);
     return NextResponse.json(
