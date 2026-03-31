@@ -1,16 +1,17 @@
 /**
  * Sync API — pulls latest from Featurebase and applies changes.
  *
- * On Vercel: fetches remote articles, compares with deployed files,
- * commits changes to GitHub repo via API (triggers redeploy).
+ * On Vercel: reads existing articles from GitHub repo API, compares with
+ * Featurebase, commits changes via Git Data API (triggers redeploy).
  *
- * Locally: runs full filesystem read/write sync.
+ * Locally: reads/writes files directly on disk.
  */
 
 import { NextResponse } from 'next/server';
 import { auth } from '@/lib/auth';
-import { commitFiles, buildRepoPath } from '@/lib/github-sync';
+import { commitFiles, buildRepoPath, fetchRepoArticles } from '@/lib/github-sync';
 import matter from 'gray-matter';
+import crypto from 'crypto';
 
 export const maxDuration = 300;
 
@@ -30,6 +31,10 @@ const getHierarchy = async () => {
 };
 
 const isVercel = !!process.env.VERCEL;
+
+function hashContent(content: string): string {
+  return crypto.createHash('sha256').update(content).digest('hex');
+}
 
 export async function POST() {
   const session = await auth();
@@ -77,24 +82,34 @@ export async function POST() {
       collectionMap[col.id] = col.name || col.translations?.en?.name || 'Uncategorized';
     });
 
-    // Fetch all remote articles
+    // Fetch all remote articles from Featurebase
     const remoteResponse = await client.getArticles({
       help_center_id: helpCenterId,
       limit: 100,
     });
     const remoteArticles = remoteResponse?.data || [];
 
-    // Scan local articles (readable on both Vercel and local)
-    let localArticles: any[] = [];
-    try {
-      localArticles = await sync.scanLocalArticles();
-    } catch {
-      // Empty on first deploy
-    }
+    // Get existing articles — on Vercel, read from GitHub API; locally, read from disk
+    let localById: Map<string, { path: string; content: string; frontmatter: any }>;
 
-    const localById = new Map<string, any>();
-    for (const a of localArticles) {
-      localById.set(a.id, a);
+    if (isVercel) {
+      if (!process.env.GITHUB_TOKEN) {
+        return NextResponse.json(
+          { success: false, error: 'GITHUB_TOKEN not configured' },
+          { status: 500 }
+        );
+      }
+      localById = await fetchRepoArticles();
+    } else {
+      localById = new Map();
+      try {
+        const localArticles = await sync.scanLocalArticles();
+        for (const a of localArticles) {
+          localById.set(a.id, { path: a.path, content: a.content, frontmatter: a.frontmatter });
+        }
+      } catch {
+        // Empty on first run
+      }
     }
 
     const results = {
@@ -104,7 +119,6 @@ export async function POST() {
       details: [] as string[],
     };
 
-    // Files to commit via GitHub API (Vercel) or write locally
     const filesToCommit: { path: string; content: string }[] = [];
 
     for (const remoteArticle of remoteArticles) {
@@ -113,19 +127,14 @@ export async function POST() {
           ? collectionMap[remoteArticle.parentId] || 'Uncategorized'
           : 'Uncategorized';
 
-        // Extract and convert remote content
         const remoteMarkdown = sync.extractArticleContent(remoteArticle);
-        const remoteHash = sync.hashContent(remoteMarkdown);
+        const remoteHash = hashContent(remoteMarkdown);
 
         const local = localById.get(remoteArticle.id);
 
         if (!local) {
-          // New article — needs to be created
-          const repoPath = buildRepoPath(
-            hierarchy,
-            remoteArticle.parentId,
-            remoteArticle.title
-          );
+          // New article
+          const repoPath = buildRepoPath(hierarchy, remoteArticle.parentId, remoteArticle.title);
 
           const fileContent = matter.stringify(remoteMarkdown, {
             title: remoteArticle.title,
@@ -144,17 +153,15 @@ export async function POST() {
           continue;
         }
 
-        // Existing article — check if changed
-        const localHash = sync.hashContent(local.content);
+        // Existing — compare content
+        const localHash = hashContent(local.content);
 
         if (remoteHash === localHash) {
           results.matched++;
           continue;
         }
 
-        // Content differs — update
-        const repoPath = local.path.replace(/^.*?sudowrite-documentation/, 'sudowrite-documentation');
-
+        // Content changed — update
         const fileContent = matter.stringify(remoteMarkdown, {
           ...local.frontmatter,
           last_updated: remoteArticle.updatedAt || remoteArticle.updated_at || new Date().toISOString(),
@@ -162,7 +169,7 @@ export async function POST() {
           source: 'featurebase',
         });
 
-        filesToCommit.push({ path: repoPath, content: fileContent });
+        filesToCommit.push({ path: local.path, content: fileContent });
         results.updated++;
         results.details.push(`Updated: ${remoteArticle.title}`);
       } catch (err) {
@@ -170,27 +177,17 @@ export async function POST() {
       }
     }
 
-    // Apply changes
     if (filesToCommit.length === 0) {
       return NextResponse.json({
         success: true,
         message: `All ${results.matched} articles are in sync. No changes needed.`,
         results,
         remoteCount: remoteArticles.length,
-        localCount: localArticles.length,
+        localCount: localById.size,
       });
     }
 
     if (isVercel) {
-      // Commit via GitHub API
-      if (!process.env.GITHUB_TOKEN) {
-        return NextResponse.json({
-          success: false,
-          error: `Found ${filesToCommit.length} changes but GITHUB_TOKEN not configured. Cannot commit.`,
-          results,
-        }, { status: 500 });
-      }
-
       const commit = await commitFiles(
         filesToCommit,
         `Sync ${results.updated} updated, ${results.created} new articles from Featurebase`
@@ -198,21 +195,23 @@ export async function POST() {
 
       return NextResponse.json({
         success: true,
-        message: `Synced ${results.updated} updated + ${results.created} new articles. Committed to GitHub — redeploy will follow.`,
+        message: `Synced ${results.updated} updated + ${results.created} new articles. Committed to GitHub.`,
         results,
         commit: commit.url,
         remoteCount: remoteArticles.length,
-        localCount: localArticles.length,
+        localCount: localById.size,
       });
     } else {
       // Local dev — write files directly
+      const path = require('path');
+      const fs = require('fs/promises');
       const syncState = await sync.loadSyncState();
 
       for (const file of filesToCommit) {
-        const fullPath = require('path').resolve(file.path);
-        const dir = require('path').dirname(fullPath);
-        await require('fs/promises').mkdir(dir, { recursive: true });
-        await require('fs/promises').writeFile(fullPath, file.content, 'utf-8');
+        const fullPath = path.resolve(file.path);
+        const dir = path.dirname(fullPath);
+        await fs.mkdir(dir, { recursive: true });
+        await fs.writeFile(fullPath, file.content, 'utf-8');
       }
 
       syncState.last_sync = new Date().toISOString();
@@ -223,7 +222,7 @@ export async function POST() {
         message: `Synced ${results.updated} updated + ${results.created} new articles locally.`,
         results,
         remoteCount: remoteArticles.length,
-        localCount: localArticles.length,
+        localCount: localById.size,
       });
     }
   } catch (error) {

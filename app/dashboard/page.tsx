@@ -223,12 +223,17 @@ export default function DashboardPage() {
               </div>
             </div>
 
-            {/* Git Node */}
-            <div className="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 flex flex-col items-center z-10">
+            {/* Git Node — clickable link to repo */}
+            <a
+              href="https://github.com/mcstew/sw-docs-control"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 flex flex-col items-center z-10 group"
+            >
               <div className="text-[#88ccdd] font-mono text-xs mb-2 uppercase tracking-widest bg-[#113338] px-2">
                 Storage
               </div>
-              <div className={`w-24 h-24 rounded-lg flex flex-col items-center justify-center border-2 transition-colors duration-300 relative ${
+              <div className={`w-24 h-24 rounded-lg flex flex-col items-center justify-center border-2 transition-colors duration-300 relative cursor-pointer group-hover:border-green-400 group-hover:shadow-[0_0_10px_rgba(74,222,128,0.3)] ${
                 isSyncing
                   ? 'bg-green-900/60 border-green-400 shadow-[0_0_15px_rgba(74,222,128,0.3)]'
                   : 'bg-[#1a2c35] border-[#2a4a55]'
@@ -236,10 +241,10 @@ export default function DashboardPage() {
                 <GitBranch className={`w-10 h-10 ${isSyncing ? 'text-green-300' : 'text-green-400'}`} />
                 <span className="font-mono text-white mt-2 font-bold">GIT</span>
               </div>
-              <div className="mt-3 text-sm text-slate-300 font-medium bg-[#113338] px-2">
+              <div className="mt-3 text-sm text-slate-300 font-medium bg-[#113338] px-2 group-hover:text-green-400 transition-colors">
                 Repository
               </div>
-            </div>
+            </a>
 
             {/* AI Node */}
             <div className="absolute left-[80%] top-[50%] -translate-x-1/2 -translate-y-1/2 flex flex-col items-center z-10">

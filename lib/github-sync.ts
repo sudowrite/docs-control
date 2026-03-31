@@ -4,6 +4,7 @@
  */
 
 import { Octokit } from '@octokit/rest';
+import matter from 'gray-matter';
 
 const REPO_OWNER = 'mcstew';
 const REPO_NAME = 'sw-docs-control';
@@ -120,6 +121,63 @@ export async function commitFiles(
     sha: newCommit.sha,
     url: `https://github.com/${REPO_OWNER}/${REPO_NAME}/commit/${newCommit.sha}`,
   };
+}
+
+/**
+ * Fetch all markdown files from the repo's sudowrite-documentation/ tree.
+ * Returns a map of featurebase_id → { path, content, frontmatter }.
+ */
+export async function fetchRepoArticles(): Promise<
+  Map<string, { path: string; content: string; frontmatter: any }>
+> {
+  const octokit = getOctokit();
+  const articles = new Map<string, { path: string; content: string; frontmatter: any }>();
+
+  // Get the full tree recursively
+  const headSha = await getHeadSha(octokit);
+  const { data: tree } = await octokit.git.getTree({
+    owner: REPO_OWNER,
+    repo: REPO_NAME,
+    tree_sha: headSha,
+    recursive: 'true',
+  });
+
+  // Filter to markdown files in sudowrite-documentation/
+  const mdFiles = tree.tree.filter(
+    (item) =>
+      item.type === 'blob' &&
+      item.path?.startsWith(DOCS_PREFIX + '/') &&
+      item.path?.endsWith('.md') &&
+      !item.path?.includes('/.') &&
+      !item.path?.endsWith('INDEX.md')
+  );
+
+  // Fetch each file's content
+  for (const file of mdFiles) {
+    if (!file.sha || !file.path) continue;
+    try {
+      const { data: blob } = await octokit.git.getBlob({
+        owner: REPO_OWNER,
+        repo: REPO_NAME,
+        file_sha: file.sha,
+      });
+
+      const raw = Buffer.from(blob.content, 'base64').toString('utf-8');
+      const { data: fm, content: body } = matter(raw);
+
+      if (fm.featurebase_id) {
+        articles.set(String(fm.featurebase_id), {
+          path: file.path,
+          content: body,
+          frontmatter: fm,
+        });
+      }
+    } catch {
+      // Skip files that fail to parse
+    }
+  }
+
+  return articles;
 }
 
 /**
