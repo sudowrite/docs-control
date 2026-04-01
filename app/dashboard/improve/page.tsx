@@ -72,21 +72,39 @@ export default function ImprovePage() {
   };
 
   const handleAction = async (id: string, action: 'approve' | 'reject') => {
+    const proposal = proposals.find((p) => p.id === id);
+    if (action === 'approve') {
+      addLog(`Applying edit to "${proposal?.articleTitle}"...`);
+    }
+
     try {
       const res = await fetch('/api/improve/proposals', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ id, action }),
+        // Send full proposal so it works on Vercel (no persistent storage)
+        body: JSON.stringify({ id, action, proposal }),
       });
       const data = await res.json();
       if (data.success) {
+        const newStatus = data.status || (action === 'approve' ? 'approved' : 'rejected');
         setProposals((prev) =>
-          prev.map((p) => (p.id === id ? { ...p, status: action === 'approve' ? 'approved' : 'rejected' } : p))
+          prev.map((p) => (p.id === id ? { ...p, status: newStatus } : p))
         );
-        addLog(`${action === 'approve' ? 'Approved' : 'Rejected'}: ${proposals.find((p) => p.id === id)?.articleTitle}`);
+        if (action === 'approve' && data.applied) {
+          const applied = data.applied;
+          if (applied.github) addLog(`  Committed to GitHub: ${applied.githubUrl}`);
+          if (applied.featurebase) addLog(`  Updated in Featurebase`);
+          if (applied.errors?.length) {
+            applied.errors.forEach((e: string) => addLog(`  Warning: ${e}`));
+          }
+        } else {
+          addLog(`${action === 'approve' ? 'Approved' : 'Rejected'}: ${proposal?.articleTitle}`);
+        }
+      } else {
+        addLog(`Error: ${data.error}`);
       }
-    } catch {
-      addLog(`Failed to ${action} proposal`);
+    } catch (err) {
+      addLog(`Failed to ${action} proposal: ${err}`);
     }
   };
 
