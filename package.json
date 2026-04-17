@@ -1,5 +1,5 @@
 {
-  "name": "sw-docs-control",
+  "name": "docs-control",
   "version": "0.1.0",
   "description": "AI-powered documentation control system for Sudowrite",
   "type": "module",

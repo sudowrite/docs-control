@@ -42,7 +42,7 @@ ANTHROPIC_API_KEY=sk-ant-...  # Your Anthropic API key
 Optional (for GitHub issue creation):
 ```bash
 GITHUB_TOKEN=ghp_...  # Your GitHub personal access token
-GITHUB_REPO=owner/repo  # e.g., "sudowrite/docs"
+GITHUB_REPO=owner/repo  # e.g., "sudowrite/docs-control"
 ```
 
 ## 🧪 Testing

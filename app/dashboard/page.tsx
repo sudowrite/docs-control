@@ -230,7 +230,7 @@ export default function DashboardPage() {
 
             {/* Git Node — clickable link to repo */}
             <a
-              href="https://github.com/mcstew/sw-docs-control"
+              href="https://github.com/sudowrite/docs-control"
               target="_blank"
               rel="noopener noreferrer"
               className="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 flex flex-col items-center z-10 group"

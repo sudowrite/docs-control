@@ -25,14 +25,14 @@ export async function GET() {
 
       // Count articles by listing the tree
       const { data: ref } = await octokit.git.getRef({
-        owner: 'mcstew',
-        repo: 'sw-docs-control',
+        owner: 'sudowrite',
+        repo: 'docs-control',
         ref: 'heads/main',
       });
 
       const { data: tree } = await octokit.git.getTree({
-        owner: 'mcstew',
-        repo: 'sw-docs-control',
+        owner: 'sudowrite',
+        repo: 'docs-control',
         tree_sha: ref.object.sha,
         recursive: 'true',
       });
@@ -48,8 +48,8 @@ export async function GET() {
 
       // Get last sync time from recent commits
       const { data: commits } = await octokit.repos.listCommits({
-        owner: 'mcstew',
-        repo: 'sw-docs-control',
+        owner: 'sudowrite',
+        repo: 'docs-control',
         per_page: 10,
       });
 

@@ -1,4 +1,4 @@
-# SW Docs Control
+# Docs Control
 
 AI-powered documentation control system for Sudowrite. Automatically detects documentation updates needed when product changes are announced, with bidirectional sync between local git repository and Featurebase help center.
 
@@ -44,8 +44,8 @@ Updated Live Documentation
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/mcstew/sw-docs-control.git
-cd sw-docs-control
+git clone https://github.com/sudowrite/docs-control.git
+cd docs-control
 npm install
 ```
 
@@ -127,7 +127,7 @@ npm run audit
 ## 📁 Project Structure
 
 ```
-sw-docs-control/
+docs-control/
 ├── api/
 │   └── webhooks/
 │       └── changelog.js          # Webhook endpoint (Vercel)
@@ -205,11 +205,11 @@ To test the sync workflow:
    git push
    ```
 
-4. **Check GitHub**: https://github.com/mcstew/sw-docs-control/commits/main
+4. **Check GitHub**: https://github.com/sudowrite/docs-control/commits/main
 
 ## 🔗 Links
 
-- **GitHub Repo**: https://github.com/mcstew/sw-docs-control
+- **GitHub Repo**: https://github.com/sudowrite/docs-control
 - **Vercel Deployment**: https://sw-docs-control.vercel.app
 - **Webhook Endpoint**: https://sw-docs-control.vercel.app/api/webhooks/changelog
 

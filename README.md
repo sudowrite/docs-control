@@ -123,7 +123,7 @@ Both files auto-regenerate after any sync operation and are committed to git.
 ## Architecture
 
 ```
-sw-docs-control/
+docs-control/
 ├── sudowrite-documentation/       # Main documentation folder (nested structure)
 │   ├── getting-started/
 │   │   ├── introduction/

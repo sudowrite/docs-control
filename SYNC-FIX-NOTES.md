@@ -112,7 +112,7 @@ sudowrite-documentation/
 ### 💾 Git Status
 - **Commit:** `7f8d55c` - "Fix Featurebase sync: Pull ALL articles with full content"
 - **Files Changed:** 66 files, 4,315 insertions
-- **Pushed to GitHub:** ✅ https://github.com/mcstew/sw-docs-control
+- **Pushed to GitHub:** ✅ https://github.com/sudowrite/docs-control
 
 ---
 
@@ -377,7 +377,7 @@ git push
 
 ## Contact & Resources
 
-**GitHub Repo:** https://github.com/mcstew/sw-docs-control
+**GitHub Repo:** https://github.com/sudowrite/docs-control
 **Vercel Deploy:** https://sw-docs-control.vercel.app
 **Webhook URL:** https://sw-docs-control.vercel.app/api/webhooks/changelog
 **Featurebase API Docs:** https://docs.featurebase.app/rest-api/help-centers

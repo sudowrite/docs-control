@@ -206,7 +206,7 @@ User can manually merge later
 
 ### Current State (Jan 15, 2026)
 
-**GitHub Repository**: https://github.com/mcstew/sw-docs-control
+**GitHub Repository**: https://github.com/sudowrite/docs-control
 - Latest commit: `7f8d55c` - "Fix Featurebase sync: Pull ALL articles with full content"
 - 66 files changed, 4,315 insertions
 - All documentation now on GitHub with proper structure
