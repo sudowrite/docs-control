@@ -3006,7 +3006,7 @@ This is what the model selector window looks like. Click “Use Muse” to selec
 
 ### Here’s how to select Muse in Draft
 
-Open the Draft tool in the text editor’s top toolbar and scroll to the bottom. Click on the dropdown arrow to the right of Generate, and select Muse from the Prose Mode selector that appears.
+Open the Draft tool in the text editor’s top toolbar and scroll to the bottom. Click on the dropdown arrow to the right of Prose Mode, and select Muse from the Prose Mode selector that appears.
 
 ![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be170-7838-71f5-974a-8743f04c5de8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9986e1a016b89f098c4f587a772324678f460f4341569c44babd8238d892277b)
 
