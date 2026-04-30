@@ -23,8 +23,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@anthropic-ai/claude-agent-sdk": "^0.2.121",
-    "@anthropic-ai/sdk": "^0.33.0",
+    "@anthropic-ai/sdk": "^0.91.1",
     "@google/generative-ai": "^0.24.1",
     "@octokit/rest": "^22.0.1",
     "@tailwindcss/postcss": "^4.2.2",
