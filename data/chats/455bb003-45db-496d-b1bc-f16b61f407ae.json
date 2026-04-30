@@ -3,13 +3,19 @@
   "title": "hello",
   "user": "michael@sudowrite.com",
   "createdAt": "2026-04-30T15:29:35.423Z",
-  "updatedAt": "2026-04-30T15:30:09.935Z",
+  "updatedAt": "2026-04-30T15:30:53.867Z",
   "messages": [
     {
       "id": "28b5a30c-b47c-4c17-b253-3f4dd0e69d81",
       "role": "user",
       "text": "hello",
       "createdAt": "2026-04-30T15:29:35.423Z"
+    },
+    {
+      "id": "11fd2dcf-667a-4ffe-a675-9b2fad8fe474",
+      "role": "user",
+      "text": "we changed how you tag characters and docs and such in Chat—it's now a # instead of an @. Can you update the article in the docs with this blurb to say this instead:\n\nWant to direct Chat’s attention to something or someone in particular? **Chat supports # mentions** that can provide additional context. You can tag a specific Character or Worldbuilding element by using the # tag. You can even use the # tag to reference another document in the same project—for example, if you wanted Chat’s help comparing different versions of a chapter, or creating an interstitial chapter.",
+      "createdAt": "2026-04-30T15:30:20.994Z"
     }
   ],
   "totalCostUsd": 0
