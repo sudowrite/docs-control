@@ -142,6 +142,8 @@ export async function POST(req: NextRequest) {
       let workspaceCwd: string | null = null;
       const assistantTextBuffer: string[] = [];
       const toolCallsThisTurn: ChatMessage[] = [];
+      let resultSummary = '';
+      const seenMessageTypes = new Set<string>();
 
       try {
         send('thread', { id: thread.id, title: thread.title });
@@ -176,6 +178,17 @@ export async function POST(req: NextRequest) {
         });
 
         for await (const sdkMessage of agentQuery) {
+          // Diagnostic: log every SDK message type seen this turn (server-side
+          // only). Helps confirm the streaming wiring on Vercel.
+          if (!seenMessageTypes.has(sdkMessage.type)) {
+            seenMessageTypes.add(sdkMessage.type);
+            console.log(
+              `[chat] SDK message type: ${sdkMessage.type}` +
+                ((sdkMessage as any).subtype
+                  ? ` (subtype=${(sdkMessage as any).subtype})`
+                  : '')
+            );
+          }
           // Map SDK message types onto SSE events the client cares about.
           switch (sdkMessage.type) {
             case 'system': {
@@ -188,7 +201,15 @@ export async function POST(req: NextRequest) {
               break;
             }
             case 'assistant': {
-              const blocks = (sdkMessage as any).message?.content || [];
+              const am = sdkMessage as any;
+              const blocks = am.message?.content || [];
+              if (blocks.length === 0) {
+                console.log(
+                  `[chat] assistant message had no content blocks. keys=${Object.keys(
+                    am.message || {}
+                  ).join(',')}`
+                );
+              }
               for (const block of blocks) {
                 if (block.type === 'text') {
                   assistantTextBuffer.push(block.text);
@@ -237,6 +258,9 @@ export async function POST(req: NextRequest) {
             }
             case 'result': {
               const result = sdkMessage as any;
+              if (typeof result.result === 'string' && result.result.trim()) {
+                resultSummary = result.result;
+              }
               send('result', {
                 isError: result.is_error,
                 summary: result.result,
@@ -251,6 +275,22 @@ export async function POST(req: NextRequest) {
             }
           }
         }
+
+        // Fallback: if the SDK never streamed any assistant text but the
+        // result message has a final answer, surface it now so the user
+        // always sees a reply.
+        if (assistantTextBuffer.length === 0 && resultSummary) {
+          console.log(
+            `[chat] no streamed text — falling back to result.result (${resultSummary.length} chars)`
+          );
+          assistantTextBuffer.push(resultSummary);
+          send('text', { text: resultSummary });
+        }
+        console.log(
+          `[chat] turn complete. types=${[...seenMessageTypes].join(',')} text=${assistantTextBuffer.join(
+            ''
+          ).length}ch tools=${toolCallsThisTurn.length}`
+        );
 
         // Snapshot the assistant turn into the persisted thread
         const assistantText = assistantTextBuffer.join('').trim();
