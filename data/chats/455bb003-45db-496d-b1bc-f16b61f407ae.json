@@ -1,0 +1,16 @@
+{
+  "id": "455bb003-45db-496d-b1bc-f16b61f407ae",
+  "title": "hello",
+  "user": "michael@sudowrite.com",
+  "createdAt": "2026-04-30T15:29:35.423Z",
+  "updatedAt": "2026-04-30T15:30:09.935Z",
+  "messages": [
+    {
+      "id": "28b5a30c-b47c-4c17-b253-3f4dd0e69d81",
+      "role": "user",
+      "text": "hello",
+      "createdAt": "2026-04-30T15:29:35.423Z"
+    }
+  ],
+  "totalCostUsd": 0
+}
