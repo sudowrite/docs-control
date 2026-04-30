@@ -1,0 +1,22 @@
+{
+  "id": "e1e689ab-5877-4a78-8a91-c3d79e0c8b9b",
+  "title": "hello world",
+  "user": "michael@sudowrite.com",
+  "createdAt": "2026-04-30T16:02:24.334Z",
+  "updatedAt": "2026-04-30T16:02:42.755Z",
+  "messages": [
+    {
+      "id": "1269750c-d386-4828-9cac-a1638c601396",
+      "role": "user",
+      "text": "hello world",
+      "createdAt": "2026-04-30T16:02:24.334Z"
+    },
+    {
+      "id": "35de0cb0-607b-4d35-8fed-34d0f7a7e4fb",
+      "role": "assistant",
+      "text": "Hello! 👋 \n\nI'm here to help you review, audit, and edit the Sudowrite documentation. I can:\n\n- Search and read articles from the local repo\n- Check what's live on Featurebase\n- Make edits and commit changes to GitHub\n- Run changelog audits to find docs that need updating\n- Fetch external web pages\n- Spin up subagents for big multi-part tasks\n\nWhat would you like to work on today?",
+      "createdAt": "2026-04-30T16:02:42.755Z"
+    }
+  ],
+  "totalCostUsd": 0
+}
