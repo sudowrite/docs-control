@@ -1,9 +1,7 @@
 # Sudowrite Documentation - Complete Knowledge Base
 
-> Generated: 2026-01-21T21:52:09.367Z
-> Total Articles: 78
-
-This file contains the complete Sudowrite documentation in a single document for AI training and reference purposes.
+> Generated: 2026-04-30T15:20:46.595Z
+> Total Articles: 79
 
 ---
 
@@ -13,153 +11,14 @@ This file contains the complete Sudowrite documentation in a single document for
 
 ---
 
-## Introduction
-
-### The Basics
-
-**Collection:** Getting Started > Introduction
-**Slug:** 8701784-the-basics
-**ID:** 8701784
-**Last Updated:** 2026-01-21T15:03:23.452Z
-
-The world of AI-assisted writing has come a long way over the past few years. If you’re here, you’re probably wondering, how does this thing work and how can I get the most out of it?
-
-Like any creative tool, the person wielding it is ultimately responsible for the quality of results. This is great, because it means the writing you get from Sudowrite will be different from what everyone else gets, and there’s no limit to what you can create.
-
-## 1.) Sudowrite works by reading your text, and then generating text based on what it sees
-
-This has a couple of important implications:
-
--   **The more specific stuff you put in your document the better** - Sudowrite needs to see enough to understand what story you’re trying to tell in order to give you good results. Try writing, or pasting in, _at least a few paragraphs_ to get it started in the right direction.
-    
--   **Junk in, junk out** - Sudowrite assumes that everything you’ve included (in your document, Story Bible, etc.) is _something that you like_. That means that if you _leave_ AI-generated stuff you’re not crazy about in your doc, Sudowrite will keep giving you more suggestions you’re not crazy about. To get better suggestions, make sure the substance and form of what’s in your project is at a level you like.
-    
--   **Different features see different things** - If there’s important information you want Write to take into account before generating text, make sure it’s in your document, the Key Details box in Write Settings, or your Story Bible. Or, in Guided mode, _tell_ Sudowrite what to write and it will follow your instructions. Click the drop down arrow directly to the right of the Write button to find these options. Meanwhile, the History card in the right column will displays “chiclets” that highlight what context Sudowrite took into account while doing its thing.
-    
-
-## 2.) Sudowrite is kind of random (on purpose)
-
--   Think of Sudowrite suggestions as pitches from a writing partner. You can take them, leave them, or improve them to get the best result. A “yes, and” mindset is ideal for working with AI (just like with humans)!
-    
--   Sometimes Sudowrite will say something that seems super random. That doesn’t mean you did anything wrong, or that there’s a problem with Sudowrite—but it does mean you should try to understand why the AI made that choice. Try a second time, and see if you get better results. If not, or if you find you have to press the button 3-5 times to get a result you like… 👇
-    
-
-## 3.) There’s always a way to improve your results
-
--   Choosing the right feature can help you get better results
-    
-    -   **Write**
-        
-        -   _Auto_ is for when you don’t know what should come next and you just want to see what the AI comes up with.
-            
-        -   _Guided_ is for when you have an idea of what should happen but want Sudowrite to draft it for you.
-            
-    -   **Describe** gives you suggestions for rich sensory details—sight, sound, smell, touch, and taste—that you can add to any moment or object.
-        
-    -   **Rewrite** improves phrasing, flow, or tone in an existing passage.
-        
-    -   **Brainstorm** helps generate lists of ideas: names, powers, plot twists, worldbuilding elements, and more.
-        
-    -   **First Draft** generates an extended scene (typically 800–1,000+ words) based on an outline or set of notes.
-        
-    -   **Expand** adds length to your draft—whether that means slowing pacing or fleshing out a moment. _(Tip: Use Describe if what you need is added detail.)_
-        
-    -   **Plugins** are customizable tools that extend Sudowrite’s core functionality. Use them to tweak tone, change POV, enhance dialogue, or build your own custom tool by describing what you want Sudowrite to do.
-        
-    -   **Scenes** (found in the Draft tool) are a structured way to outline and generate your chapters. Each scene focuses on a specific time, place, or POV, and supports **Extra Instructions** to guide tone, pacing, and style. (Note: Scenes replaced the older _Beats_ system.)
-        
-    -   **Draft** is a way to generate an entire chapter of 3,000-5,000+ words at a time, based on the Scenes you’ve established.
-        
--   If you’re not getting the kind of results you want after trying a few times - look at the input you gave Sudowrite. Ask yourself **_“Why would Sudowrite think this is OK?”._** You will probably be able to find a reason, or an opportunity to clarify.
-    
-    -   _Example:_ You are writing a werewolf story and you wrote that the moon is showing, but Sudowrite’s Write feature is not suggesting that the character turn into a werewolf. Isn’t it obvious that should happen? Solution: Inspect the Write card’s chiclets (in the History column) and make sure Sudowrite looked at your Character card… if it did, make sure the detail that the character is a wereworlf is included!
-        
--   If the writing you’re getting is not in your voice, look at your document and remove anything that isn’t a match to what you’d like Sudowrite to write for you. Or, use Rewrite to improve it.
-
-
----
-
-### What is Sudowrite?
-
-**Collection:** Getting Started > Introduction
-**Slug:** 5511026-what-is-sudowrite
-**ID:** 5511026
-**Last Updated:** 2026-01-21T15:01:24.234Z
-
-Sudowrite is an AI toolkit for novelists that will help you plan, write, edit, and organize your work. It can offer suggestions, enhance prose, facilitate brainstorming and much, much more. You can focus on the parts of the writing process that you love, and get help from the AI with everything else.
-
-When getting started on Sudowrite, you can spin up a Story Bible from your notes, or use the Import tools to bring in a work-in-progress or finished book (in case you’d like to write the sequel). Here’s a video that quickly runs down some of what Sudowrite is capable of.
-
-📓 What does Sudowrite do transcript
-
-While the visuals in the video above are _sort of_ essential, a transcript is available by expanding this toggle.
-
-Sudowrite is the AI writing partner of your dreams, full of tools that help you get your ideas out of your head and onto the page.
-
-Whether you want to start a new project or bring in a half-finished work, you can use Sudowrite for every step of your writing process—from brainstorming and planning to writing, editing, and beyond.
-
-Use the Brainstorm tools to generate and collect fresh ideas, or just pop open chat to discuss your story.
-
-Throw your unstructured ideas into Story Bible’s Braindump section and gradually expand that into a fully developed outline. Fill out these boxes manually, let Sudowrite do it for you, or collaborate with the AI.
-
-With your Story Bible complete, you can generate Scenes, and after making sure they reflect your vision, turn those into full chapters of prose using the Chapter Generator.
-
-If you’re more of a pantser than a plotter, use the Write button to get unstuck with inspired suggestions. And then use Expand to flesh things out, or Describe to add rich sensory details.
-
-Finally, use Rewrite to dial in your voice—or Quick Edit to transform your prose according to specific instructions.
-
-When you’re done, you can even find Plugins that will help you write a query letter—so you can line up an agent to help you sell your masterpiece.
-
-Planning, writing, revising, editing… No matter where you could use support in your writing process, Sudowrite is there for you. Try it today for free at [sudowrite.com](http://sudowrite.com)
-
-
----
-
 ## Sudowrite Manual
-
-### Features
-
-**Collection:** Getting Started > Sudowrite Manual
-**Slug:** 0901853-features
-**ID:** 0901853
-**Last Updated:** 2026-01-21T15:21:59.666Z
-
-Here’s a quick look at some of the main AI features available within Sudowrite’s editor.
-
--   **Write**
-    
-    -   _Auto_ is for when you don’t know what should come next and you just want to see what the AI comes up with.
-        
-    -   _Guided_ is for when you have an idea of what should happen but want Sudowrite to draft it for you.
-        
--   **Describe** gives you suggestions for rich sensory details—sight, sound, smell, touch, and taste—that you can add to any moment or object.
-    
--   **Rewrite** improves phrasing, flow, or tone in an existing passage.
-    
--   **Brainstorm** helps generate lists of ideas: names, powers, plot twists, worldbuilding elements, and more.
-    
--   **First Draft** generates an extended scene (typically 800–1,000+ words) based on an outline or set of notes.
-    
--   **Expand** adds length to your draft—whether that means slowing pacing or fleshing out a moment. _(Tip: Use Describe if what you need is added detail.)_
-    
--   **Plugins** are customizable tools that extend Sudowrite’s core functionality. Use them to tweak tone, change POV, enhance dialogue, or build your own custom tool by describing what you want Sudowrite to do.
-    
--   **Scenes** (found in the Draft tool) are a structured way to outline and generate your chapters. Each scene focuses on a specific time, place, or POV, and supports **Extra Instructions** to guide tone, pacing, and style. (Note: Scenes replaced the older _Beats_ system.)
-    
--   **Draft** is a way to generate an entire chapter of 3,000-5,000+ words at a time, based on the Scenes you’ve established.
-    
-
-For a detailed look at how each of these features works, see the **Features** section of **Using Sudowrite** here in the Documentation.
-
-
----
 
 ### Glossary
 
 **Collection:** Getting Started > Sudowrite Manual
 **Slug:** 1326552-glossary
 **ID:** 1326552
-**Last Updated:** 2026-01-21T15:22:43.615Z
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
 When you’re attending Sudowrite classes or reading documentation, there’s a good chance you’ll encounter some jargon along the way. This glossary is intended to clarify any terms that may be ambiguous—whether they’re related to Sudowrite, artificial intelligence, or writing craft.
 
@@ -238,6 +97,41 @@ When you’re attending Sudowrite classes or reading documentation, there’s a 
 
 Have a suggestion for an addition, or a question about a term not mentioned here? Let us know—or raise it in our helpful community Discord server here: [https://discord.gg/sudowrite](https://discord.gg/sudowrite)
 
+---
+
+### Features
+
+**Collection:** Getting Started > Sudowrite Manual
+**Slug:** 0901853-features
+**ID:** 0901853
+**Last Updated:** 2026-02-15T19:27:10.154Z
+
+Here’s a quick look at some of the main AI features available within Sudowrite’s editor.
+
+-   **Write**
+    
+    -   _Auto_ is for when you don’t know what should come next and you just want to see what the AI comes up with.
+        
+    -   _Guided_ is for when you have an idea of what should happen but want Sudowrite to draft it for you.
+        
+-   **Describe** gives you suggestions for rich sensory details—sight, sound, smell, touch, and taste—that you can add to any moment or object.
+    
+-   **Rewrite** improves phrasing, flow, or tone in an existing passage.
+    
+-   **Brainstorm** helps generate lists of ideas: names, powers, plot twists, worldbuilding elements, and more.
+    
+-   **First Draft** generates an extended scene (typically 800–1,000+ words) based on an outline or set of notes.
+    
+-   **Expand** adds length to your draft—whether that means slowing pacing or fleshing out a moment. _(Tip: Use Describe if what you need is added detail.)_
+    
+-   **Plugins** are customizable tools that extend Sudowrite’s core functionality. Use them to tweak tone, change POV, enhance dialogue, or build your own custom tool by describing what you want Sudowrite to do.
+    
+-   **Scenes** (found in the Draft tool) are a structured way to outline and generate your chapters. Each scene focuses on a specific time, place, or POV, and supports **Extra Instructions** to guide tone, pacing, and style. (Note: Scenes replaced the older _Beats_ system.)
+    
+-   **Draft** is a way to generate an entire chapter of 3,000-5,000+ words at a time, based on the Scenes you’ve established.
+    
+
+For a detailed look at how each of these features works, see the **Features** section of **Using Sudowrite** here in the Documentation.
 
 ---
 
@@ -246,7 +140,7 @@ Have a suggestion for an addition, or a question about a term not mentioned here
 **Collection:** Getting Started > Sudowrite Manual
 **Slug:** 2044890-interface
 **ID:** 2044890
-**Last Updated:** 2026-01-21T15:21:11.104Z
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
 # **Sudowrite Main Interface**
 
@@ -254,7 +148,7 @@ Sudowrite’s main writing interface inside of a project is divided into 3 colum
 
 In the left column you have the Project’s Document organization. The primary writing area, your text editor, comprises the middle section. Finally, to the right is the Chat bar, where you’ll also find a History section that stores results from AI tools as “cards.”
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be120-f4e4-7999-883a-0dbf2414e258/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9d666b74946797b865f40e48a760467c25f734fef1ccb6fde34b3b26f3864df5)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be120-f4e4-7999-883a-0dbf2414e258/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=68966fbb70b4e6a1b6a2915b5b39b08f1bd88e0bf788e24abff410d7b66a03c7)
 
 ## Projects, Docs and Folders
 
@@ -266,14 +160,13 @@ Meanwhile, each of Sudowrite’s AI functions (highlighted below) outputs result
 
 Most Sudowrite features will place your responses into a **Card** in the History section on the right side of the screen. (First Draft, and Quick Edit do not.)
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be122-935a-742c-94f8-47a75865580e/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5bb451aa784522f010d9930e63ad170b086cbdd208db764ef1d8897e2c25a268)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be122-935a-742c-94f8-47a75865580e/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c14677e70ec3c797ead2e1167f748283d31d99e83665f5107a7e061cb91b91d9)
 
 Click anywhere on the white card to collapse the response, and click again to expand it and view the full context of the prompt and response. The top of every card pile will have the _Prompt_ in italics: this is what Sudowrite took into consideration in order to generate the cards. You’ll also get “chiclets” which showcase the context the AI took into consideration while doing its work. The card will be labeled with the name of the feature you used. In the example below, it was Write.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be123-c0b4-7b25-bab6-02cfe949b256/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d1ff0d12d9a94da5e3525d6307aef833d49b60770c2296b087de6ff0a4ae0333)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be123-c0b4-7b25-bab6-02cfe949b256/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ef4d396b1b8217ef05637a414382cdd223e1294fcc39233fd11d8467320bb84e)
 
 The last part of the interface to be aware of is the Toolbar that sits along the top of those three columns. The Toolbar is where you’ll find several of Sudowrite’s core AI features, which you can read more about next.
-
 
 ---
 
@@ -282,7 +175,7 @@ The last part of the interface to be aware of is the Toolbar that sits along the
 **Collection:** Getting Started > Sudowrite Manual
 **Slug:** 1283278-quick-start
 **ID:** 1283278
-**Last Updated:** 2026-01-21T15:23:06.235Z
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
 ## Looking to get up and running fast?
 
@@ -300,7 +193,7 @@ When you first sign up for Sudowrite you’re dropped directly into a product to
 
 To do so, just click on the question mark icon (❓) up in the top right corner of the interface to access your **Resources**, then select **Quickstart Tour**.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6817df8d39c440bbcaf4/019be11b-48ff-7512-9ccf-ae3edb10f89c/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=46713f1e663cfd17290eb4989d3a6a57035723c353f0afaabbfedf0b4f80c2ff)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6817df8d39c440bbcaf4/019be11b-48ff-7512-9ccf-ae3edb10f89c/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7ecf75c9143f2a30c4a7e797c2727862003cb6b9a31ecc9f7e4e3a8b40a587dc)
 
 The upper right corner of Sudowrite on your homepage. The question mark icon reveals resources, and the gear icon is your Account Settings.
 
@@ -364,12 +257,139 @@ Story Bible is powerful, and quick to learn, but more difficult to master. For a
 
 That’s it for our introduction, but let us know what questions you might have in the comments here. See you in the Discord, and Happy Writing.
 
+---
+
+## Introduction
+
+### The Basics
+
+**Collection:** Getting Started > Introduction
+**Slug:** 8701784-the-basics
+**ID:** 8701784
+**Last Updated:** 2026-02-15T19:27:10.154Z
+
+The world of AI-assisted writing has come a long way over the past few years. If you’re here, you’re probably wondering, how does this thing work and how can I get the most out of it?
+
+Like any creative tool, the person wielding it is ultimately responsible for the quality of results. This is great, because it means the writing you get from Sudowrite will be different from what everyone else gets, and there’s no limit to what you can create.
+
+## 1.) Sudowrite works by reading your text, and then generating text based on what it sees
+
+This has a couple of important implications:
+
+-   **The more specific stuff you put in your document the better** - Sudowrite needs to see enough to understand what story you’re trying to tell in order to give you good results. Try writing, or pasting in, _at least a few paragraphs_ to get it started in the right direction.
+    
+-   **Junk in, junk out** - Sudowrite assumes that everything you’ve included (in your document, Story Bible, etc.) is _something that you like_. That means that if you _leave_ AI-generated stuff you’re not crazy about in your doc, Sudowrite will keep giving you more suggestions you’re not crazy about. To get better suggestions, make sure the substance and form of what’s in your project is at a level you like.
+    
+-   **Different features see different things** - If there’s important information you want Write to take into account before generating text, make sure it’s in your document, the Key Details box in Write Settings, or your Story Bible. Or, in Guided mode, _tell_ Sudowrite what to write and it will follow your instructions. Click the drop down arrow directly to the right of the Write button to find these options. Meanwhile, the History card in the right column will displays “chiclets” that highlight what context Sudowrite took into account while doing its thing.
+    
+
+## 2.) Sudowrite is kind of random (on purpose)
+
+-   Think of Sudowrite suggestions as pitches from a writing partner. You can take them, leave them, or improve them to get the best result. A “yes, and” mindset is ideal for working with AI (just like with humans)!
+    
+-   Sometimes Sudowrite will say something that seems super random. That doesn’t mean you did anything wrong, or that there’s a problem with Sudowrite—but it does mean you should try to understand why the AI made that choice. Try a second time, and see if you get better results. If not, or if you find you have to press the button 3-5 times to get a result you like… 👇
+    
+
+## 3.) There’s always a way to improve your results
+
+-   Choosing the right feature can help you get better results
+    
+    -   **Write**
+        
+        -   _Auto_ is for when you don’t know what should come next and you just want to see what the AI comes up with.
+            
+        -   _Guided_ is for when you have an idea of what should happen but want Sudowrite to draft it for you.
+            
+    -   **Describe** gives you suggestions for rich sensory details—sight, sound, smell, touch, and taste—that you can add to any moment or object.
+        
+    -   **Rewrite** improves phrasing, flow, or tone in an existing passage.
+        
+    -   **Brainstorm** helps generate lists of ideas: names, powers, plot twists, worldbuilding elements, and more.
+        
+    -   **First Draft** generates an extended scene (typically 800–1,000+ words) based on an outline or set of notes.
+        
+    -   **Expand** adds length to your draft—whether that means slowing pacing or fleshing out a moment. _(Tip: Use Describe if what you need is added detail.)_
+        
+    -   **Plugins** are customizable tools that extend Sudowrite’s core functionality. Use them to tweak tone, change POV, enhance dialogue, or build your own custom tool by describing what you want Sudowrite to do.
+        
+    -   **Scenes** (found in the Draft tool) are a structured way to outline and generate your chapters. Each scene focuses on a specific time, place, or POV, and supports **Extra Instructions** to guide tone, pacing, and style. (Note: Scenes replaced the older _Beats_ system.)
+        
+    -   **Draft** is a way to generate an entire chapter of 3,000-5,000+ words at a time, based on the Scenes you’ve established.
+        
+-   If you’re not getting the kind of results you want after trying a few times - look at the input you gave Sudowrite. Ask yourself **_“Why would Sudowrite think this is OK?”._** You will probably be able to find a reason, or an opportunity to clarify.
+    
+    -   _Example:_ You are writing a werewolf story and you wrote that the moon is showing, but Sudowrite’s Write feature is not suggesting that the character turn into a werewolf. Isn’t it obvious that should happen? Solution: Inspect the Write card’s chiclets (in the History column) and make sure Sudowrite looked at your Character card… if it did, make sure the detail that the character is a wereworlf is included!
+        
+-   If the writing you’re getting is not in your voice, look at your document and remove anything that isn’t a match to what you’d like Sudowrite to write for you. Or, use Rewrite to improve it.
+
+---
+
+### What is Sudowrite?
+
+**Collection:** Getting Started > Introduction
+**Slug:** 5511026-what-is-sudowrite
+**ID:** 5511026
+**Last Updated:** 2026-02-15T19:27:10.154Z
+
+Sudowrite is an AI toolkit for novelists that will help you plan, write, edit, and organize your work. It can offer suggestions, enhance prose, facilitate brainstorming and much, much more. You can focus on the parts of the writing process that you love, and get help from the AI with everything else.
+
+When getting started on Sudowrite, you can spin up a Story Bible from your notes, or use the Import tools to bring in a work-in-progress or finished book (in case you’d like to write the sequel). Here’s a video that quickly runs down some of what Sudowrite is capable of.
+
+📓 What does Sudowrite do transcript
+
+While the visuals in the video above are _sort of_ essential, a transcript is available by expanding this toggle.
+
+Sudowrite is the AI writing partner of your dreams, full of tools that help you get your ideas out of your head and onto the page.
+
+Whether you want to start a new project or bring in a half-finished work, you can use Sudowrite for every step of your writing process—from brainstorming and planning to writing, editing, and beyond.
+
+Use the Brainstorm tools to generate and collect fresh ideas, or just pop open chat to discuss your story.
+
+Throw your unstructured ideas into Story Bible’s Braindump section and gradually expand that into a fully developed outline. Fill out these boxes manually, let Sudowrite do it for you, or collaborate with the AI.
+
+With your Story Bible complete, you can generate Scenes, and after making sure they reflect your vision, turn those into full chapters of prose using the Chapter Generator.
+
+If you’re more of a pantser than a plotter, use the Write button to get unstuck with inspired suggestions. And then use Expand to flesh things out, or Describe to add rich sensory details.
+
+Finally, use Rewrite to dial in your voice—or Quick Edit to transform your prose according to specific instructions.
+
+When you’re done, you can even find Plugins that will help you write a query letter—so you can line up an agent to help you sell your masterpiece.
+
+Planning, writing, revising, editing… No matter where you could use support in your writing process, Sudowrite is there for you. Try it today for free at [sudowrite.com](http://sudowrite.com)
 
 ---
 
 
 
 # Plans And Account
+
+---
+
+## Your Account
+
+### Can I change my email address?
+
+**Collection:** Plans And Account > Your Account
+**Slug:** 1304446-can-i-change-my-email-address
+**ID:** 1304446
+**Last Updated:** 2026-02-15T19:27:10.154Z
+
+Sure! To change your email address you’ll need to reach out to us from the email currently associated with your Sudowrite account, as well as the email that you’d like us to switch your account over to.
+
+You can email us here: [hi@sudowrite.com](mailto:hi@sudowrite.com)
+
+---
+
+### Can I set a password?
+
+**Collection:** Plans And Account > Your Account
+**Slug:** 3328136-can-i-set-a-password
+**ID:** 3328136
+**Last Updated:** 2026-02-15T19:27:10.154Z
+
+For security purposes, we do not currently authenticate accounts with passwords. Instead, we use passwordless authentication, which is accomplished via an emailed magic link. It means that only the holder of the email account will ever be able to access your Sudowrite account.
+
+We do, however, support other login methods like logging in via Google! If you like, you can click "Log in with Google" via the login screen, and this will allow you to enter Sudowrite without checking your email for that magic link.
 
 ---
 
@@ -380,10 +400,26 @@ That’s it for our introduction, but let us know what questions you might have 
 **Collection:** Plans And Account > Credits
 **Slug:** 3620968-can-i-track-my-credit-usage
 **ID:** 3620968
-**Last Updated:** 2026-01-21T15:33:41.871Z
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
 Your credit usage can be tracked through the Recent Activity log, accessible via the Settings menu. Just click the (⚙️) gear icon in the upper right of Sudowrite, and select **Show Recent Activity** from the Settings panel. This log provides a detailed list of the features you've used most recently and the credits consumed by each, helping you monitor and manage your credit use.
 
+---
+
+### What if I need more credits?
+
+**Collection:** Plans And Account > Credits
+**Slug:** 9958048-what-if-i-need-more-credits
+**ID:** 9958048
+**Last Updated:** 2026-02-15T19:27:10.154Z
+
+If you’ve exhausted your monthly credit allotment but would like to keep using Sudowrite’s AI features, you can make one-time purchases of extra credits as necessary. You’ll receive a banner with a link in the event you run out of your monthly credits, but you can also find this option at any time inside of your Settings—just click the (⚙️) gear icon in the upper right, and then select Buy More Credits.
+
+> **Note:** In order to purchase additional credits, you must have an active Sudowrite subscription.
+
+Purchased credits do not expire. They remain associated with your account until they are used up—even if you pause or cancel—but do note that you need to have an active account in order to use them.
+
+It’s also worth noting that Sudowrite will always default to using monthly credits first. That means that if you’ve purchased credits and then see your monthly credits refresh hit your account, Sudowrite will automatically start using the credits that will expire at the end of the month. This helps you reserve the non-expiring purchased credits for the future, in the event that you exhaust your monthly credits again.
 
 ---
 
@@ -392,7 +428,7 @@ Your credit usage can be tracked through the Recent Activity log, accessible via
 **Collection:** Plans And Account > Credits
 **Slug:** 8376305-do-credits-roll-over
 **ID:** 8376305
-**Last Updated:** 2026-01-21T15:33:15.378Z
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
 Only credits on the **Max** plan will roll over. Otherwise, unused credits expire at the end of each monthly refresh cycle on both the **Hobby & Student** and **Professional** plans.
 
@@ -404,7 +440,6 @@ Rollover credits are reserved for **Max** plan subscribers. As long as you maint
 
 There is actually one other exception to credits expiring, and that’s _purchased_ credits on any plan\*.\* If you run out of credits _before_ your monthly refresh, you do have the option of purchasing more. Purchased credits never expire, and will remain on your account indefinitely in case you exhaust your monthly allotment again in the future.
 
-
 ---
 
 ### How many credits do features use?
@@ -412,7 +447,7 @@ There is actually one other exception to credits expiring, and that’s _purchas
 **Collection:** Plans And Account > Credits
 **Slug:** 6362317-how-many-credits-do-features-use
 **ID:** 6362317
-**Last Updated:** 2026-01-21T18:51:22.509Z
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
 Since credit use is calculated based on a task’s complexity, **different features on Sudowrite use different numbers of credits**. Simple, targeted features like Rewrite or Describe are often very credit-efficient—whereas asking Sudowrite to generate a full chapter of prose from your Scenes is complex, and will consume quite a few credits.
 
@@ -420,16 +455,15 @@ Where it gets complicated is… there’s no way to predict how many credits fea
 
 Here’s an example using the Write button. I’ve asked Sudowrite to generate 200 words that continue my story, once with Muse, once with Claude 4.1 Opus, and once with GPT-5 Nano.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f696667df40e13a88b842/019be12e-beec-78e0-8133-9c5757b8c9ca/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=463b3c6ca129e0b622b2c361cf08a5b8c8058280beadd8fdbd0bdeb720d49098)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f696667df40e13a88b842/019be12e-beec-78e0-8133-9c5757b8c9ca/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b726fc5190627eb4fa723923b1bab58f75a8a5df307a41462521c9b8d8e6a864)
 
 Each time, Sudowrite read the exact same stuff—some context from Story Bible, including Character and Worldbuilding details, as well as a chapter and a half of my existing work. But the credits used varied wildly. I can view my credit use by clicking the gear icon (⚙️) in the upper right and choosing “**Show Recent Activity**.”
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f696667df40e13a88b842/019be12f-1eda-7a10-9d5f-e630833de169/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c5b2c7c9adab1b42e6e260f996a28447faf51ed9591879b3f1ca975696d5ee3f)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f696667df40e13a88b842/019be12f-1eda-7a10-9d5f-e630833de169/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=da4e6e0cd22c2faa33c4a2bde0cfceb9318dc88c728c2dd905f5dd0825669fa0)
 
 In this case, the super efficient GPT 5 Nano model used only about 70 credits, whereas the costly Claude 4.1 Opus model used over 8,000 credits—that’s over a 100x difference to Write the same number of words! Whether it’s “worth it” is ultimately a matter of taste. Do you prefer the voice of one AI model over another?
 
 Prose Modes are intended to simplify things and maximize value, giving you great quality prose for reasonable credit use. Also, while credits do power Sudowrite’s AI features, not _every_ feature of Sudowrite uses up credits. **Our Quick Edit and Chat features are included with your Sudowrite plan, and free to use by default.** (Though an optional High Quality mode, which _will_ use credits, is available in both.) We’ve also been known to introduce free-to-use models and free beta tests on a time-limited basis.
-
 
 ---
 
@@ -438,7 +472,7 @@ Prose Modes are intended to simplify things and maximize value, giving you great
 **Collection:** Plans And Account > Credits
 **Slug:** 3330910-what-are-credits
 **ID:** 3330910
-**Last Updated:** 2026-01-21T15:30:37.916Z
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
 Each Sudowrite plan tier receives a set amount of credits each month, and those credits are then used towards Sudowrite’s AI features.
 
@@ -446,39 +480,33 @@ Think of credits like arcade tokens. You’ll redeem some credits each time you 
 
 All this means is **there’s no 1:1 relationship between the words you generate and the number of credits used**. By way of an example, the 1 million credits of the Professional plan might allow you to generate anywhere from 50,000 to 500,000 AI words in a month (depending entirely on how you go about it).
 
-
----
-
-### What if I need more credits?
-
-**Collection:** Plans And Account > Credits
-**Slug:** 9958048-what-if-i-need-more-credits
-**ID:** 9958048
-**Last Updated:** 2025-09-03T16:16:13.915Z
-
-If you’ve exhausted your monthly credit allotment but would like to keep using Sudowrite’s AI features, you can make one-time purchases of extra credits as necessary. You’ll receive a banner with a link in the event you run out of your monthly credits, but you can also find this option at any time inside of your Settings—just click the (⚙️) gear icon in the upper right, and then select Buy More Credits.
-
-> **Note:** In order to purchase additional credits, you must have an active Sudowrite subscription.
-
-Purchased credits do not expire. They remain associated with your account until they are used up—even if you pause or cancel—but do note that you need to have an active account in order to use them.
-
-It’s also worth noting that Sudowrite will always default to using monthly credits first. That means that if you’ve purchased credits and then see your monthly credits refresh hit your account, Sudowrite will automatically start using the credits that will expire at the end of the month. This helps you reserve the non-expiring purchased credits for the future, in the event that you exhaust your monthly credits again.
-
-
 ---
 
 ## Sudowrite Plans
+
+### Is there a trial?
+
+**Collection:** Plans And Account > Sudowrite Plans
+**Slug:** 6391080-is-there-a-trial
+**ID:** 6391080
+**Last Updated:** 2026-02-17T23:03:18.811Z
+
+You can try Sudowrite absolutely risk free. After signing up, if you decide that Sudowrite isn’t for you, just let us know within the first 7 days and we’ll not only cancel your plan but also refund you.
+
+And don’t worry—you’ll always be able to access and export your documents, even without an active plan!
+
+---
 
 ### How do I pause or cancel?
 
 **Collection:** Plans And Account > Sudowrite Plans
 **Slug:** 6438230-how-do-i-pause-or-cancel
 **ID:** 6438230
-**Last Updated:** 2026-01-21T15:29:01.468Z
+**Last Updated:** 2026-03-31T15:22:59.610Z
 
 To pause or cancel your account, click on the Settings (⚙️) gear icon in the top right corner of Sudowrite, and select "Manage Membership." From there, you'll find options to either pause or cancel your subscription, manage your billing, or contact us.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6931c3bf18c3d82300a8/019be12c-3711-7b62-aa14-d7b5448c4cb0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=54d7ff314a99aab4bcc5455dfd9e2881cc4d99b70375631026900e518fcb233a)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6931c3bf18c3d82300a8/019be12c-3711-7b62-aa14-d7b5448c4cb0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3f7089659298be3a6f5b220c37d6e4942278d84f7c6ac68ef00e15b8748d1220)
 
 ## **What’s the difference between “pausing” and “canceling”?**
 
@@ -496,7 +524,6 @@ In short, pausing is a temporary suspension for monthly users, while canceling f
 
 We recognize that sometimes things come up that require special consideration! If you have questions about pausing or canceling your plan, please drop us a note at: [hi@sudowrite.com](mailto:hi@sudowrite.com)
 
-
 ---
 
 ### How do I upgrade?
@@ -504,55 +531,15 @@ We recognize that sometimes things come up that require special consideration! I
 **Collection:** Plans And Account > Sudowrite Plans
 **Slug:** 3173600-how-do-i-upgrade
 **ID:** 3173600
-**Last Updated:** 2026-01-21T15:27:45.690Z
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
 We make it easy to pause, cancel or switch plans. If you decide to change plans, your billing will be adjusted accordingly. If moving to a higher-tier plan, you’ll receive a prorated refund for the unused portion of your current plan, and your billing cycle will restart immediately under the new plan.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6903ad16f2bb98ef5dcb/019be12a-73f7-77a7-9f16-d307da75c737/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5ef001c3e8faf960d67a23e46d98c5a5467ab1311679a0b381ca31d6244d4c68)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6903ad16f2bb98ef5dcb/019be12a-73f7-77a7-9f16-d307da75c737/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9526d5f7720ca1c7478eb22a30731d6a6d21b1c8d7b12de351b1bb15159ec1d3)
 
 To change your plan, click on the Settings (⚙️) gear icon in the upper right of Sudowrite. Then just select Manage Membership, and you’ll be presented with the plan options available to you.
 
 (_Heads up: Legacy plan members switching plans will forfeit their legacy status and any associated bonuses!_)
-
-
----
-
-### Is there a free trial?
-
-**Collection:** Plans And Account > Sudowrite Plans
-**Slug:** 6391080-is-there-a-free-trial
-**ID:** 6391080
-**Last Updated:** 2026-01-21T15:29:29.900Z
-
-Yes! You can get started with a free trial, after which you will need an active plan to use any of Sudowrite’s features. The free trial is not time-limited—you’re free to tinker and experiment with Sudowrite’s features until you exhaust the 10,000 trial credits included.
-
-Oh, and don’t worry—you’ll always be able to access and export your documents, even without an active plan!
-
-
----
-
-### What plans are available?
-
-**Collection:** Plans And Account > Sudowrite Plans
-**Slug:** 2690807-what-plans-are-available
-**ID:** 2690807
-**Last Updated:** 2026-01-21T15:24:44.934Z
-
-Sudowrite offers three subscription tiers—so whether you’re a hobbyist or a working professional, there’s an appropriate option for you. All plans have full access to _all_ of Sudowrite’s features. The difference between them is simply the number of credits included each month, and whether or not those credits expire.
-
-The plans are:
-
--   **Hobby & Student:** 225,000 credits - Price: $10/mo (paid annually) or $19/mo (paid monthly)
-    
--   **Professional:** 1,000,000 credits - Price: $22/mo (paid annually) or $29/mo (paid monthly)
-    
--   **Max:** 2,000,000 _rollover_ credits - Price: $44/mo (paid annually) or $59/mo (paid monthly)
-    
-
-As outlined above, discounts are available to those who opt to subscribe annually rather than a monthly. We make it very easy to upgrade, downgrade, take a break, try it again, or cancel forever—and if you’re not 100% satisfied, email us anytime in the first week of your plan, and we’ll refund you.
-
-[**Full details regarding Sudowrite’s plans are available on our pricing page**](https://www.sudowrite.com/app/plans?ref=docs)**.**
-
 
 ---
 
@@ -561,7 +548,7 @@ As outlined above, discounts are available to those who opt to subscribe annuall
 **Collection:** Plans And Account > Sudowrite Plans
 **Slug:** 4733320-which-plan-should-i-get
 **ID:** 4733320
-**Last Updated:** 2026-01-21T15:25:54.333Z
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
 Which plan you should choose **depends** entirely on your writing habits and goals. While we can’t say which plan is best for you without that, we can share some things you should consider:
 
@@ -584,36 +571,29 @@ If you want some help picking, join our community Discord server at: [https://di
 
 > 📌 **Note:** Using any of Sudowrite’s AI features requires an active Sudowrite plan.
 
-
 ---
 
-## Your Account
+### What plans are available?
 
-### Can I change my email address?
+**Collection:** Plans And Account > Sudowrite Plans
+**Slug:** 2690807-what-plans-are-available
+**ID:** 2690807
+**Last Updated:** 2026-02-15T19:27:10.154Z
 
-**Collection:** Plans And Account > Your Account
-**Slug:** 1304446-can-i-change-my-email-address
-**ID:** 1304446
-**Last Updated:** 2026-01-21T15:34:35.975Z
+Sudowrite offers three subscription tiers—so whether you’re a hobbyist or a working professional, there’s an appropriate option for you. All plans have full access to _all_ of Sudowrite’s features. The difference between them is simply the number of credits included each month, and whether or not those credits expire.
 
-Sure! To change your email address you’ll need to reach out to us from the email currently associated with your Sudowrite account, as well as the email that you’d like us to switch your account over to.
+The plans are:
 
-You can email us here: [hi@sudowrite.com](mailto:hi@sudowrite.com)
+-   **Hobby & Student:** 225,000 credits - Price: $10/mo (paid annually) or $19/mo (paid monthly)
+    
+-   **Professional:** 1,000,000 credits - Price: $22/mo (paid annually) or $29/mo (paid monthly)
+    
+-   **Max:** 2,000,000 _rollover_ credits - Price: $44/mo (paid annually) or $59/mo (paid monthly)
+    
 
+As outlined above, discounts are available to those who opt to subscribe annually rather than a monthly. We make it very easy to upgrade, downgrade, take a break, try it again, or cancel forever—and if you’re not 100% satisfied, email us anytime in the first week of your plan, and we’ll refund you.
 
----
-
-### Can I set a password?
-
-**Collection:** Plans And Account > Your Account
-**Slug:** 3328136-can-i-set-a-password
-**ID:** 3328136
-**Last Updated:** 2026-01-21T15:34:14.673Z
-
-For security purposes, we do not currently authenticate accounts with passwords. Instead, we use passwordless authentication, which is accomplished via an emailed magic link. It means that only the holder of the email account will ever be able to access your Sudowrite account.
-
-We do, however, support other login methods like logging in via Google! If you like, you can click "Log in with Google" via the login screen, and this will allow you to enter Sudowrite without checking your email for that magic link.
-
+[**Full details regarding Sudowrite’s plans are available on our pricing page**](https://www.sudowrite.com/app/plans?ref=docs)**.**
 
 ---
 
@@ -625,296 +605,60 @@ We do, however, support other login methods like logging in via Google! If you l
 
 ## Features
 
-### Brainstorm
+### Find and Replace
 
 **Collection:** Using Sudowrite > Features
-**Slug:** 7767950-brainstorm
-**ID:** 7767950
-**Last Updated:** 2026-01-21T16:13:19.745Z
+**Slug:** 7559793-find-and-replace
+**ID:** 7559793
+**Last Updated:** 2026-03-31T13:58:15.881Z
 
-![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a8875ca99492c59ba6a/0198aeb8-7cc6-7808-8dbf-5813734a7e1d/b64u-MDE5OGFlYjgtN2M5MS03YzljLThkNDQtNjIxYTkyMWEwMWQ4.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=caa7a3a67cd443d29bbb3e576500215abaff885bbd78555fc006a2f7bc63494a)
+Find and Replace lets you search for and replace text across your project — whether you need to rename a character, fix a recurring typo, or update a setting name across dozens of chapters and Story Bible entries.
 
-# Brainstorm
+## How to Open Find and Replace
 
-Sometimes you have a good idea of what you need—a new setting for your fantasy epic perhaps—but are tapped out on creative names or fresh angles. That’s where Brainstorm comes in. With Brainstorm, you bring the seed of an idea and get rapid-fire inspiration in the form of a list.
+There are two ways to open Find and Replace:
 
-To get started, click the Brainstorm button, and choose from:
-
--   Dialogue
+-   **Magnifying glass icon** — Click the 🔍 icon at the top left of the editor.
     
--   Characters
-    
--   World building
-    
--   Plot points
-    
--   Names
-    
--   Places
-    
--   Objects
-    
--   Descriptions
-    
--   Article ideas
-    
--   Tweets
-    
--   Something else
+-   **Keyboard shortcut** — Press **Cmd + F** (Mac) or **Ctrl + F** (Windows/Linux). If that shortcut triggers your browser's built-in search, press it a second time to access Sudowrite's Find and Replace instead.
     
 
-Then enter your seed. Maybe it’s “Names and descriptions of spaceships”
+## Choosing a Scope
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a8875ca99492c59ba6a/019be152-d3b8-7340-98e7-7558ca88b3e8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8843153fe9366f4ec66edc59876f315a4bc0affc57e9a872eeca35ef4cac96f6)
+Find and Replace includes a **scope dropdown** that lets you control where your search runs. There are three scopes:
 
-Click Start and you’ll have a fresh list of spaceship concepts generated for you. You can use the Thumbs Up (👍) to save the ones you like to your Keepers List, and the Thumbs Down (👎) to clear that suggestion from your list (to make space for a new one). When you’re satisfied with your choices, click Save & Exit, and your Keepers List will be saved to a card in your History panel on the right.
+### Project-Wide
 
-Note that Brainstorm works independently, exclusively using the context and examples you provide in the Brainstorm panel. That means it doesn’t see your Story Bible details.
+Searches across **every document _and_ your entire Story Bible** in the current project. This is the most powerful scope — ideal for renaming a character or setting that appears throughout your manuscript. The tool shows how many matches were found across all documents, with a clear breakdown of where each reference appears.
 
-📓 **Brainstorm transcript**
+### Story Bible Only
 
-While the visuals in the video above are _sort of_ essential, a transcript of the Brainstorm video above is available by expanding this toggle.
+Searches **exclusively within your Story Bible** — including Characters, Worldbuilding, Synopsis, Outline, Style, and Genre fields. Use this when you need to update Story Bible entries without touching your chapter prose.
 
-Welcome to the next installment in our Quick Start series. Today, we're exploring the Brainstorm button—a tool designed to get you unstuck and fuel your creativity.
+### Current Document
 
-Sometimes, you're on the brink of a great idea but need a spark to ignite it. Whether you're dreaming up a new setting for your fantasy saga or searching for the perfect name for your protagonist, Brainstorm can be your creative partner in that process.
+Searches **only within the document you currently have open** in the editor. Best for quick, targeted edits within a single chapter or section.
 
-Getting started is simple:
+## Using Find and Replace
 
-Click on the Brainstorm button to unveil a variety of brainstorming categories, including Dialogue, Characters, World Building, Names, and more. Select the category that fits your current need.
-
-Next, input your seed idea. For instance, if you're looking for "Names and descriptions of spaceships," to fill the infinite void of space in your Sci-Fi novel, just type that in.
-
-Hit Start, and like magic, you're presented with a list of inspired suggestions. Found something you love? Give it a Thumbs Up to add it to your Keepers List. Not quite right? A Thumbs Down clears the way for new ideas.
-
-Once you've curated a collection of ideas that spark joy, click Save & Exit. Your Keepers List is then neatly stored in a card within your document’s History panel, ready for you to revisit and incorporate into your masterpiece.
-
-Here’s a little secret about brainstorm—no matter which category you select, the tool functions identically. You’re essentially choosing from pre-populated suggestions and reference material that will help the AI generations along. You can use this little refresh button for fresh suggestions, and you can always use Something Else to start entirely from scratch.
-
-In closing, the Brainstorm button isn’t just a feature… it’s a creative partner standing by to jumpstart your imagination.
-
-There is actually one other way you may go about brainstorming on Sudowrite… but we’ll cover that next time, when we look at the editor’s Selection Menu and Quick Tools.Brainstorm
-
-
----
-
-### Canvas
-
-**Collection:** Using Sudowrite > Features
-**Slug:** 2695461-canvas
-**ID:** 2695461
-**Last Updated:** 2026-01-21T16:17:46.774Z
-
-If you’re the type of author that works visually—say using index cards to map out an outline—you may want to use Sudowrite’s Canvas feature. Think of Canvas as a flexible digital whiteboard where you can drop notes, draft outlines, and freely rearrange everything in a 2D space.
-
-To access Canvas, find the **Canvas** option in the **More Tools** dropdown at the right of the top toolbar. Doing so will bring you into a fresh Canvas, where you’ll see the orientation information represented in the screenshot below. You can click and drag to select these cards in order to delete them all at once, or select something and delete it individually.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6abf75ca99492c5a3dbe/019be157-d870-7104-8e93-b909e208b141/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d721910498ac57a6bc7dfb00b4f0c7cd64e0eb0a89ea2c84f1cbcf1f72355825)
-
-The menu at the bottom of Canvas allows you to add a card, add text, or add an outline.
-
-**Adding a card** gives you a blank card, where you can type anything you’d like to keep track of: some character information, some notes on a scene, or freeform ideas you don’t want to forget.
-
-**Adding text** lets you throw text directly onto the Canvas, which is helpful when you want to label a cluster of cards or otherwise leave annotations for yourself.
-
-**Adding an outline** will place a complete outline directly onto your canvas—represented as a series of linked cards. The outline types available in canvas are The Hero’s Journey, Hollywood Beats, Story Circle, and Romance Outline. Each outline is represented with distinct visuals.
-
-📌Canvas outlines are a bit different from those in Story Bible. In Canvas you can generate a full outline from your idea, whether it’s a single sentence or several paragraphs. You can also use the three dot (•••) menu to copy that outline to your clipboard if you want to bring it back into a Sudowrite document or even import it into your Story Bible.
-
-**Canvas keyboard shortcuts** include:
-
-`⌘ A` – Select all
-
-`Del` – Deletes a card
-
-`Space + Click + Drag` – Pan the canvas
-
-`⌘ Z` – Undo
-
-`⌘ + SHIFT + Z` – Redo
-
-`⌘ +` – Zoom in
-
-`⌘ -` – Zoom out
-
-`*⌘* \\` – Reset to center
-
-`⌘ 0` – Reset zoom
-
-
----
-
-### Chat
-
-**Collection:** Using Sudowrite > Features
-**Slug:** 6204120-chat
-**ID:** 6204120
-**Last Updated:** 2026-01-21T16:24:40.128Z
-
-There’s a new chat in town, and it lives in your project’s right bar. To use it, simply toggle your right bar from History (which is where all your “cards” are generated and stored) to Chat.
-
-You never have to brief Chat, or bring it up to speed, because it can see your entire Story Bible and documents. You can ask it basically anything about your characters or story—or highlight a particular section of text if you want it to focus on that.
-
-It’s also a _chat_, which means you can use it for feedback, brainstorming, edits, and other questions—sort of like ChatGPT, only better because it’s unfiltered and it’s built right into Sudowrite. Did we mention Chat is free to Sudowrite subscribers by default?
-
-### How does chat work?
-
-Chat is **story aware**, which means it can see your existing work in order to be as helpful as possible.
-
-Specifically, when your Story Bible is turned on and filled in, **Chat can see your Genre, Synopsis, Characters, Worldbuilding, and Outline**. It also sees **the full text of the current document**, and it will focus on anything that you’ve **highlighted** in that document (while still seeing the full doc).
-
-Want to direct Chat’s attention to something or someone in particular? **Chat supports @ mentions** that can provide additional context. You can tag a specific Character or Worldbuilding element by using the @ tag. You can even use the @ tag to reference another document in the same project—for example, if you wanted Chat’s help comparing different versions of a chapter, or creating an interstitial chapter.
-
-### Are there limits?
-
-You can have as many chats as you’d like, and you'll find prior conversations when clicking the little folder icon in the upper right. You can create a new chat thread by clicking the plus (**+**) sign. If you’ve been working in one Chat for a _long_ time, you may eventually hit a limit where the oldest chats in your thread become invisible to that Chat (because its context is full). Creating a new Chat will give you a fresh start.
-
-Note that chats are project-specific, which means A.) Chat can’t see documents in a different project, and B.) You can’t access chats that you’ve had in another project.
-
-While Chat is free by default, you also have the option of enabling the High Quality mode. Chat’s High Quality mode uses a smarter AI model, capable of more logically demanding tasks, and it does use credits. Toggle off High Quality to return to the Standard free Chat.
-
-
----
-
-### Describe
-
-**Collection:** Using Sudowrite > Features
-**Slug:** 5156739-describe
-**ID:** 5156739
-**Last Updated:** 2026-01-21T16:09:06.564Z
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a71647f8c5b22973cb5/019be14f-e3bd-7b5b-bf58-a375d618ee9f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4039f5bfcdf0971aa23ce7d7c8a486edad8cd3b3b3b2767ab73ca8e4425168b7)
-
-# Describe
-
-Feeling stuck on the details? Describe is a way to very quickly get inspired with some super detailed sensory descriptions of… whatever it is you highlighted. Describe will provide responses broken out by the five senses (Sight, Sound, Touch, Taste, and Smell), as well as a couple of metaphors. Like other features, you’ll find the results in the History column on the right.
-
-To use it, highlight a specific word or phrase and click Describe. It often works best when highlighting a short-to-medium length phrase within a paragraph. It can also work at the paragraph level, if you’d like descriptions for a broader set of objects in your scene. Writing a Young Adult novel set in a High School? You might not be thinking about how the smells from the locker room intrude on your hallway scenes, but Describe will.
-
-And hey, maybe after that you don’t ever want to know what something smells like! In that case, click the dropdown 🔽 toggle to the right of the Describe button to disable or enable sensory descriptions you’d like Describe to respond with when you use it. Turn as many on or off as you like. (You always need at least one sense enabled though!)
-
-_Note: Describe looks at the paragraph where the highlighted phrase resides, as well as up to 200 words prior to the selection for context._
-
-📓 **Describe transcript**
-
-While the visuals in the video above are _sort of_ essential, a transcript of the Describe video above is available by expanding this toggle.
-
-Welcome back to our Quick Start series. Today we're exploring the Describe button, a tool that can add depth and detail to your writing with ease.
-
-Sometimes as writers we know the impression we’re trying to create, but we have a difficult time finding the exact words for it. The Describe button provides instant suggestions for sensory descriptions and metaphors for anything we’ve highlighted.
-
-To see what I mean, just click the dropdown arrow to the right of the Describe button. When you do, you’re presented with a list of toggles—one for each of the senses that Describe can output. You can certainly leave them all toggled on, but you can also toggle off the options you know you won’t use. Say your young adult novel has a scene in a locker room—you could go ahead and toggle off smell, for example. Doing so will prevent the AI from generating that sensory detail until you toggle it back on—and it will save you a few credits in the process.
-
-Once you’ve identified a section of your text you’d like enhance with some sensory detail, highlight it and press the Describe button—either from the Selection Menu or the Toolbar. A card will be created in the History column on the right for each of the enabled senses. So you can see here that we have sight, touch, taste, and so on.
-
-Now since Describe works a bit differently than either Write or Rewrite, you probably won’t use the card’s Insert button to insert the entire text of a card. Instead, you can simply highlight what works for you, and then Copy and Paste whatever you like into the body of your document.
-
-As with all cards, you can also Star any of these descriptions to refer back to later.
-
-One final note on Describe. Like the other tools we’ve mentioned, Describe only works on selections made within your document’s editor. That means—as of right now—you’re not able to use the Describe button on something in your Story Bible fields. Not directly, anyway, since you could simply copy paste the thing you’re trying to get descriptions of into your editor before clicking Describe. Just be aware that if you get this error, that’s why.
-
-That about covers it for Describe. Let us know what questions you have in the comments, and join us next time when we look at Brainstorm.
-
-
----
-
-### Expand
-
-**Collection:** Using Sudowrite > Features
-**Slug:** 3974925-expand
-**ID:** 3974925
-**Last Updated:** 2026-01-21T16:15:15.846Z
-
-When you have a scene you know would benefit from some added detail, you can use the **Expand** tool. Expand takes the passage you’ve highlighted and draws that out, adding substance and color as organically as possible. Practically speaking, it can turn one sentence into several.
-
-For example, if you were to highlight “Michael got out of bed and made himself breakfast” and use Expand, you might get back a card in the History column that says, “Michael swung his legs over the side of the bed, and stepped onto the cozy wool rug. He walked to the kitchen, where he moved through his morning routine like a robot, reaching for the market sourdough loaf and loading two thick slices into the toaster. He opened the fridge. His eyes scanned the shelves, and locked in on the blueberry jam. Behind him, the toaster popped prematurely, ejecting the underdone bread to the counter.”
-
-To use it, highlight a sentence or paragraph and choose Expand from the Selection Menu that appears. **Expand requires at least 3 three words be selected, and can be used on up to 1,000 words at a time.**
-
-### What Does Expand See?
-
-Expand is focused on your highlighted selection, but it will read prose in your document that both precedes and follows that selection.
-
-Expand also gets context from your Story Bible, to make sure that it remains faithful to your vision for the story. That context includes, Genre, Style, Characters, Worldbuilding, the linked chapter summary from your Outline, and any POV/Tense that you may have set.
-
-
----
-
-### First Draft
-
-**Collection:** Using Sudowrite > Features
-**Slug:** 0327513-first-draft
-**ID:** 0327513
-**Last Updated:** 2026-01-21T16:13:26.648Z
-
-First Draft is a feature that helps you get the ball rolling when you don’t know where to begin. Whether you’re working on a novel, blog post, article, or essay, First Draft will generate up to **3000 words** based on a prompt you provide—giving you a solid jumping-off point to work from.
-
-It’s intended for that early, idea-spark moment, before you’ve written anything in the document. First Draft offers a substantial foundation you can then edit, refine, or build on.
-
-## How to use First Draft
-
-**First Draft only appears when your document is completely empty.** Here’s how to find it:
-
-1.  **Open a blank document** inside any Sudowrite project.
+1.  Open Find and Replace using the magnifying glass icon or keyboard shortcut.
     
-2.  Click on the **Plugins** dropdown in the toolbar.
+2.  Type your search term in the **Find** field. Matches will be highlighted in your text, and you'll see a count of how many were found.
     
-3.  Select **First Draft** from the list.
+3.  By default you’ll be presented Project-Wide search results, but you can use the **scope dropdown** to target your Story Bible or Current Document exclusively.
+    
+4.  To replace matches, type your replacement text in the **Replace** field.
+    
+5.  Click **Replace** to replace the currently highlighted match, or **Replace All** to replace every match within your selected scope at once.
     
 
-You’ll see a field appear with some example prompts to inspire you below. Just complete that field and click Go!
+## Tips
 
-> **ICYMI:** First Draft only appears in totally blank documents. You won’t find it in the Plugins menu if you’re working in a document you’ve already written in.
-
-### For best results from First Draft
-
-The more detail you provide, the better the draft will be. Here are a few tips:
-
--   **Fiction?** Include character names, settings, and key events.
+-   **Renaming characters:** Use the Project-Wide scope with Replace All to rename a character across your entire manuscript and Story Bible in one step.
     
--   **Non-fiction?** Share the structure or argument you want to make.
+-   **Be specific:** If your search term is short or common (like a character named "Al"), review matches before using Replace All to avoid unintended replacements.
     
--   **Something else?** Mention tone, style, or any specific quirks you’d like to see.
-    
-
-We recommend giving as much detail as you can here. A sentence or two is fine, but a full paragraph is better. As you type, First Draft gives you feedback on how to improve your prompt—think of it as a writing coach guiding you toward a stronger start.
-
-## What you can expect from First Draft
-
-Once you submit your prompt, Sudowrite will stream a first draft directly into the editor. The draft is:
-
--   Tailored to the type of content you asked for (fiction or non-fiction)
-    
--   Inserted as regular text, ready for immediate editing
-    
--   Generated with beautiful sparkles—so you can follow along as it appears!
-    
-
-Whether it’s a moody short story opening or a structured blog article, First Draft gives you something real to react to.
-
-## When you should use it
-
-First Draft is perfect if you:
-
--   Don’t know how to start your story or essay
-    
--   Want a quick spark of inspiration
-    
--   Prefer editing and shaping over generating from scratch
-    
--   Need to experiment with tone, structure, or POV without starting from zero
-    
-
-Some common use cases include:
-
--   Fiction scenes and character intros
-    
--   Personal essays or blog entries
-    
--   Opinion pieces or structured arguments
-    
--   Genre-specific prompts like thrillers, romance, or historical fiction
-
+-   **Large projects:** Project-wide searches across very large projects with many documents or extensive Story Bibles may take a moment to complete. The tool will still work — it just needs a bit more time to scan everything.
 
 ---
 
@@ -923,7 +667,7 @@ Some common use cases include:
 **Collection:** Using Sudowrite > Features
 **Slug:** 1042041-my-voice-beta
 **ID:** 1042041
-**Last Updated:** 2025-09-03T17:43:17.545Z
+**Last Updated:** 2026-03-31T13:55:45.343Z
 
 Ever wish it was easier to make prose sound more like _you_?
 
@@ -949,7 +693,7 @@ Ever wish it was easier to make prose sound more like _you_?
 
 Avoid using AI-generated text as your training data; it can reduce the quality of the resulting model.
 
-![Notion Image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b8fb7a5382a87e11257/0198f1a0-def8-7b08-a8a4-d32d6a2d96f6/b64u-MDE5OGYxYTAtZGU0Yi03ZDgxLTkzYTQtMzU2NGIxMmFmNTcx.png?X-Amz-Expires=3600&X-Amz-Date=20260115T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260115%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=235aa540c648126fa6aaba308f01d56061f42c97e8e8696e04d12ec3f3bce2e6)
+![Notion Image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b8fb7a5382a87e11257/0198f1a0-def8-7b08-a8a4-d32d6a2d96f6/b64u-MDE5OGYxYTAtZGU0Yi03ZDgxLTkzYTQtMzU2NGIxMmFmNTcx.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1a27e74f8e5ff279ebd6f0d082bff3fb877eb3397da5272223053dae636e54c3)
 
 ## How to train your My Voice model
 
@@ -989,7 +733,7 @@ Think of My Voice primarily as an **editing** tool that helps you take a first d
         
 3.  A card will appear in the History section on the right with your rewritten prose.
     
-    ![Notion Image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b8fb7a5382a87e11257/0198f1a1-22a8-71c1-9f02-10b94c76b694/b64u-MDE5OGYxYTEtMjBjOS03YzliLTg2ZGItYmZlYWE4ZDdlOTM1.png?X-Amz-Expires=3600&X-Amz-Date=20260115T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260115%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7feea49f2e10c1e04d48d2ce56ce50e752596318115e8dd135935495aaa3fc82)
+    ![Notion Image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b8fb7a5382a87e11257/0198f1a1-22a8-71c1-9f02-10b94c76b694/b64u-MDE5OGYxYTEtMjBjOS03YzliLTg2ZGItYmZlYWE4ZDdlOTM1.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=823e000a2576d4674ab3ad86dc8668dd960250b45ea4f1f28ec8a16577e09cfe)
 
 ## Controlling the My Voice intensity
 
@@ -1037,6 +781,150 @@ You may find that the first time you use My Voice to rewrite a passage, the styl
     
     -   Check that your training sample matches your project’s **POV and tense**, and avoid AI-generated training text.
 
+---
+
+### Chat
+
+**Collection:** Using Sudowrite > Features
+**Slug:** 6204120-chat
+**ID:** 6204120
+**Last Updated:** 2026-03-31T13:55:45.343Z
+
+There’s a new chat in town, and it lives in your project’s right bar. To use it, simply toggle your right bar from History (which is where all your “cards” are generated and stored) to Chat.
+
+You never have to brief Chat, or bring it up to speed, because it can see your entire Story Bible and documents. You can ask it basically anything about your characters or story—or highlight a particular section of text if you want it to focus on that.
+
+It’s also a _chat_, which means you can use it for feedback, brainstorming, edits, and other questions—sort of like ChatGPT, only better because it’s unfiltered and it’s built right into Sudowrite. Did we mention Chat is free to Sudowrite subscribers by default?
+
+### How does chat work?
+
+Chat is **story aware**, which means it can see your existing work in order to be as helpful as possible.
+
+Specifically, when your Story Bible is turned on and filled in, **Chat can see your Genre, Synopsis, Characters, Worldbuilding, and Outline**. It also sees **the full text of the current document**, and it will focus on anything that you’ve **highlighted** in that document (while still seeing the full doc).
+
+Want to direct Chat’s attention to something or someone in particular? **Chat supports @ mentions** that can provide additional context. You can tag a specific Character or Worldbuilding element by using the @ tag. You can even use the @ tag to reference another document in the same project—for example, if you wanted Chat’s help comparing different versions of a chapter, or creating an interstitial chapter.
+
+### Are there limits?
+
+You can have as many chats as you’d like, and you'll find prior conversations when clicking the little folder icon in the upper right. You can create a new chat thread by clicking the plus (**+**) sign. If you’ve been working in one Chat for a _long_ time, you may eventually hit a limit where the oldest chats in your thread become invisible to that Chat (because its context is full). Creating a new Chat will give you a fresh start.
+
+Note that chats are project-specific, which means A.) Chat can’t see documents in a different project, and B.) You can’t access chats that you’ve had in another project.
+
+While Chat is free by default, you also have the option of enabling the High Quality mode. Chat’s High Quality mode uses a smarter AI model, capable of more logically demanding tasks, and it does use credits. Toggle off High Quality to return to the Standard free Chat.
+
+---
+
+### Series Support
+
+**Collection:** Using Sudowrite > Features
+**Slug:** 1251175-series-support
+**ID:** 1251175
+**Last Updated:** 2026-03-31T13:55:45.343Z
+
+Whether you currently write a book series or you aspire to, you can take advantage of **Series** support in Sudowrite to share important information between projects. Projects created in or moved into a **Series Folder** will share Characters, Worldbuilding, and Outline visibility so that your books’ shared universe, character arcs, and plot lines remain consistent.
+
+### Create a Series
+
+Create a new Series in Sudowrite by clicking the **\+ New** button in the upper lefthand corner of the homepage and selecting **Series** from the dropdown menu. This will create a project folder with a special Series icon and label. Name it as you would with any other folder.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16a-d2f6-7fd9-910d-fc60ede921e5/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=075111e29947834fab9e879b5bc4e42e9c1eb19147cb8e4f09e2cd4e88f372bb)
+
+Series folders can be created either on the main homepage or within another folder.
+
+☝Series will only share Story Bible data between projects in the same hierarchy—meaning if you create a sub-folder inside of a Series folder with additional projects, the data from those projects will not be visible to the projects one level up in the primary Series folder.
+
+## How Series Works
+
+### Characters and Worldbuilding
+
+**Projects within a Series share Characters and Worldbuilding elements.** That means that if I create characters Jane, John, and Jerry in Book 1, I’ll still be able to see and edit those characters in Book 2 just so long as both Projects (Book 1 and Book 2) are in the same Series folder.
+
+Further, changes made to Characters and Worldbuilding elements will be reflected across all books in that Series Folder. This is not just for your reference either; Sudowrite’s AI also has access to all of your Characters and Worldbuilding elements in a Series. Plus, it will remember (and show you!) which book your characters were originally created in.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16c-254a-7ee3-a4f5-6173f8cded53/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6621181b1b8c37062e98e35f5e3d87e09d657fe93139543ec9120a2212bb0165)
+
+### **Best Practices**
+
+Because Sudowrite’s AI has access to all of your Characters and Worldbuilding elements in a Series, it’s a good idea to keep them up to date for whichever volume you’re currently working on. For example, if I have a character Liam who is the protagonist of Book 1, but more of a supporting character in Book 2, I can change his type to reflect whichever Book I am working on.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16c-8102-7729-bf08-41af988ae508/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c3b66a410a2f3174b9f5b2ed03dfbf0e4ee2e76b4a690a133f33c441f0d03184)
+
+If you have characters that only appear in one book, and you don’t want them showing up in others, it may be a good idea to “hide” them from the AI when working on a volume in which they do not play a part. Toggle the eyeball icon that appears when hovering over a Character or Worldbuilding card, and that card is hidden from Sudowrite entirely. (You can always change it back.)
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16d-340b-79df-a796-0349bafce978/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d8c8e8d9284aa85ba6c78f8357b48da2959eb589e27dbe36830d7cb4b990d8ea)
+
+For more complex character arcs or development of Worldbuilding elements, it may be beneficial to create multiple versions of a card—one for each book, or at least for dramatic milestones—and simply hide/show the most relevant version as your work progresses across a series. Alternatively, you can have a single canonical Character card or Worldbuilding element that is shared and used across the series, updating it as you go, or using the visibility settings on individual traits.
+
+### Outlines
+
+Projects in a Series automatically use Sudowrite’s Outline Unlimited. The structured nature of Outline Unlimited allows other projects to have quick access to any outline in the Series folder.
+
+To access Outlines from different projects, use the dropdown menu in the Outline header section of Story Bible to select the outline you wish to view.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16d-8ed7-7279-91c5-c161537ac274/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f330b3c5431bd65ba2d1bc3f61e3fb774c1cb7aeb6067ada89257654b435b77d)
+
+When viewing an Outline from a different project than the currently open project, **you can both make edits and generations with that Outline**. These changes will persist and be reflected in that project’s Outline moving forward.
+
+Note that when viewing an Outline from a different project, you will not be able to link documents in the current project to chapters in that Outline. You may currently only link chapter summaries in the open project’s outline to documents in that project.
+
+## Adding a Project to a Series
+
+Once you have created your Series Folder, there are a couple of ways to add a project to that series.
+
+-   Drag and drop an existing project on the homepage into the Series Folder
+    
+-   Use the **More (•••) menu** and select **Move to…** to select the Series Folder from a list of available folders, and move it over
+    
+-   Creating a new Project using the **\+ New** button when you’re inside of a Series Folder will create a blank project that instantly has access to shared Series information
+    
+-   Importing a project with the **Import Novel** button from within a Series Folder automatically adds that project to the series, and any Characters or Worldbuilding elements that are detected as part of the import process will be shared across the series.
+    
+
+When you add an existing project to a Series Folder:
+
+-   All of that projects Characters and Worldbuilding elements are automatically shared with the rest of the projects in that Series Folder.
+    
+-   Any duplicates are preserved, and added to the shared Characters and Worldbuilding. This allows authors to create different “versions” of Characters/Worldbuilding elements across volumes in their Series.
+    
+    -   If you do not wish to have different versions, we recommend reviewing your shared Characters and Worldbuilding after adding an existing project and deleting (or hiding from the AI) any duplicates that are superfluous.
+        
+-   If the project moved into a Series Folder is using Story Bible’s old Outline format—the plain text box version—it will be upgraded into the Outline Unlimited version. (The old version will remain available as a deleted document in your project following this upgrade.)
+    
+-   All other projects in the same Series Folder will have access to that project’s outline
+    
+-   Sudowrite will add the project to your **Series Timeline**
+    
+
+### Series Timeline
+
+Every Series Folder has a collapsible Series Timeline section at the top. As projects are added to the Series Folder, they will always be added to the “end” of the Series Timeline. (You can always grab the little handles beside the project title to drag it into its proper sequence.) Sudowrite uses this sequence information to assemble a timeline based on your project outlines, which will be used in subsequent generations inside of the series.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16e-1dc2-7072-865a-c1326eec78ef/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a9aabc1a15d690339c7970deb270290d67da56aed20f57cc6898c34f6a9b8c17)
+
+You should only have to set this order once. Sudowrite will remember this order when generating content thereafter.
+
+### Removing a Project from a Series
+
+To remove a project from a Series simply move it out of the Series Folder, using the ••• menu and selecting the Move to… option. Alternatively, just drag the project up to the word Home (or the preferred folder name) in the File Path that appears above the series title.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16e-6002-77a1-b7d8-dece67514ca4/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8f1fea0e85774cd6e7b57021b8f015908f5040834d608c000c7bba4a7ed0d016)
+
+When a project is removed from a Series, it loses real-time access to the shared Story Bible information… but we want to make sure that you don’t lose any hard work you’ve done, either in that Project or the rest of the series. So removing a project from a series works like this:
+
+-   The project that is removed from the Series gets a copy of all shared Characters and Worldbuilding elements from the Series. Those are now specific to that project however, and changes to them will only be reflected within it.
+    
+-   The Series retains all of the shared Characters and Worldbuilding elements it had before the project was removed, regardless of whether they originated in the removed project or elsewhere.
+    
+-   The removed project loses access to Outlines from other books in the Series.
+    
+-   The series loses access to the Outline of the removed project.
+    
+-   The removed project will also be removed from the Series Timeline.
+    
+
+🚨**Warning!** Because projects retain shared Characters and Worldbuilding elements even when removed from a Series, you should avoid moving those projects _back_ into the same Series.
+
+While identically-matched Characters and Worldbuilding elements will not be re-added, even nominally changed cards _would_ be re-added—which could potentially create a confusing mess of near-duplicates.
 
 ---
 
@@ -1045,7 +933,7 @@ You may find that the first time you use My Voice to rewrite a passage, the styl
 **Collection:** Using Sudowrite > Features
 **Slug:** 2549305-prose-modes-and-models
 **ID:** 2549305
-**Last Updated:** 2026-01-21T16:34:58.952Z
+**Last Updated:** 2026-03-31T13:55:45.343Z
 
 Sudowrite allows you to select from a wide range of Prose Modes and AI models. Choosing different models effectively changes the AI performing the work, impacting output style, creativity, precision, and credit usage.
 
@@ -1160,6 +1048,52 @@ Not sure which Prose Mode or AI model is best for your needs? We have a handy br
 
 [Which AI model should I use?](https://www.notion.so/Which-AI-model-should-I-use-ecc5add0574d4209becf7363d0fff934?pvs=21)
 
+---
+
+### Selection Menu
+
+**Collection:** Using Sudowrite > Features
+**Slug:** 8443420-selection-menu
+**ID:** 8443420
+**Last Updated:** 2026-03-31T13:55:45.343Z
+
+# Selection Menu
+
+One of the most powerful tools on Sudowrite is hidden until you highlight something—and it’s called the Selection Menu.
+
+This smart menu will appear, hovering over your document, once you’ve selected text. It will change based on what exactly you’ve highlighted. For example, highlight a _single_ word and you’ll have the option to use Comment, Describe, open Quick Edit, or select from Related Words. Meanwhile, choose a longer selection of text and you’ll get options such as Comment, Rewrite, Expand, or Visualize as well.
+
+In some cases the Selection Menu is a quicker and easier way to access the toolbar tools—like Rewrite or Describe. But in other cases, the Selection Menu is the primary (or exclusive) way to access a feature. The features that are primarily accessed via the Selection Menu are:
+
+**Related Words** - This feature is a smart thesaurus. A handful of related words will appear in the Selection Menu when you’ve selected a single word, but you also have the option to expand and view a full Related Words word cloud.
+
+**Comment** - Annotate your work, leaving a comment on a highlighted passage.
+
+**Expand** - Take a selection of text and make it longer and more detailed.
+
+**Visualize** - Visualize can be used to generate an image from a passage of text.
+
+**Quick Edit** - Quick Edit allows you to make fast, custom inline edits in your document. Quick Edit is available by a keyboard shortcut, but it will also always appear as an option in the Selection Menu—whether you’re selecting a single word or an extended passage.
+
+📓 **Selection Menu partial transcript**
+
+While the visuals in the video above are _sort of_ essential, a partial transcript specific to the Selection Menu is available by expanding this toggle.
+
+Welcome back to our Quick Start series. Today, we'll be diving in on Sudowrite’s Selection Menu and Quick Tools.
+
+Did you know there are a few secret features on Sudowrite? They’re not really secret, but they are sort of hidden in plain sight. They live in what we call the Selection Menu. The Selection Menu appears when you’ve highlighted a selection of text.
+
+It’s actually a pretty smart menu—it will only ever be populated with options that are appropriate for the text that you’ve highlighted. Here’s what I mean: Highlight a single word, and you’ll see a few alternatives that you might find in a Thesaurus. Click on 15 More, and you’ll open a panel that we call Related Words, with even more suggestions available. You can select another word—either directly from the Selection Menu or from Related Words here—for a quick inline replacement.
+
+With a single word selected, you also have the option to either Describe or Quick Edit. We’ve already reviewed the Describe function, and I’m sure you can imagine how getting some sensory details might be applicable to a single word. We’ll look at Quick Edit in just a moment—
+
+But first… notice how when you highlight a full paragraph, the Selection Menu changes. Joining Describe and Quick Edit are Rewrite—which we’ve already covered—Expand, and Visualize.
+
+Clicking Visualize will generate an image inspired by your selected prose. Just like all of Sudowrite’s other AI features, the results of Visualize will show up in a card in the History column on the right.
+
+q
+
+Meanwhile, Expand will take a selection of text and make it longer while adding some new details. As you can see with my selection here, I had a very brief paragraph where someone left the orchard for home, and after Expanding this it has slowed the action into a more methodical and detailed journey.
 
 ---
 
@@ -1168,7 +1102,7 @@ Not sure which Prose Mode or AI model is best for your needs? We have a handy br
 **Collection:** Using Sudowrite > Features
 **Slug:** 7484270-quick-edit
 **ID:** 7484270
-**Last Updated:** 2026-01-21T16:20:14.252Z
+**Last Updated:** 2026-03-31T13:55:45.343Z
 
 ### Quick Edit
 
@@ -1190,6 +1124,313 @@ One of the biggest benefits of Quick Edit is that **it is story aware**. That me
 
 Quick Edit will focus on the highlighted text you’d like transformed, but it will also take into account your Genre, Style, Synopsis, Worldbuilding elements, and other context-dependent things like matching Characters or a linked chapter summary from your Outline.
 
+---
+
+### Visualize
+
+**Collection:** Using Sudowrite > Features
+**Slug:** 2540440-visualize
+**ID:** 2540440
+**Last Updated:** 2026-03-31T13:55:45.343Z
+
+Visualize is a feature that brings your writing to life by generating images based on your text. Whether you're describing a character, setting a scene, or painting a vivid landscape with your words, Visualize transforms your descriptions into beautiful images—giving you a new perspective on your work.
+
+### How to use Visualize
+
+Visualize appears in the **More Tools** dropdown menu when you have text selected in your document. To use it, just select a passage of text (minimum 10 words, maximum 500) that contains descriptive content, click on More Tools and select **Visualize** from the list. Like other features, the AI will create a card in your History column on the right where you can see your results.
+
+Once that image appears, you can click Insert to insert it directly into your document wherever your cursor is, Favorite it for future reference, or just right click and save it to your computer.
+
+🔍**ICYMI:** Visualize only appears when you have text selected. Make sure your selection contains enough descriptive detail (at least 10 words) for the best results. Visualize works on up to a 500 word selection.
+
+### What Does Visualize See?
+
+Visualize looks first and foremost at the text that you’ve selected—but to improve your results, it will now also look at your Story Bible’s Character section if the operative passage mentions specific characters. Visualize tries to make sure that the images that it is generating match the Physical Description trait fields for any mentioned characters (though it will look at the _entire_ character card for broader context if a Physical Description trait is not detected).
+
+### For best results from Visualize
+
+The quality of your generated images depends a bit on the detail in your text. Here are some tips:
+
+-   **Be specific:** Include colors, textures, lighting, and other visual details
+    
+-   **Set the scene:** Describe the environment and atmosphere
+    
+-   **Focus on the most important elements:** What do you want to stand out?
+    
+-   **Keep it cohesive:** Conflicting descriptions might result in unusual images
+    
+
+For example, instead of: "A castle on a hill."
+
+Try: "A gothic stone castle perched on a misty green hill, its dark spires piercing the dawn sky, with stained glass windows glinting in the morning light."
+
+Essentially, use the same descriptive language you’d use when trying to conjure an image in your reader’s mind for best results.
+
+### Visualize Details
+
+-   Generating an image with Visualize uses 2500 credits
+    
+-   Standard image resolution is 1024x1024 pixels
+    
+-   Minimum text selection: 10 words
+    
+-   Maximum text selection: 500 words
+
+---
+
+### Canvas
+
+**Collection:** Using Sudowrite > Features
+**Slug:** 2695461-canvas
+**ID:** 2695461
+**Last Updated:** 2026-03-31T13:55:45.343Z
+
+If you’re the type of author that works visually—say using index cards to map out an outline—you may want to use Sudowrite’s Canvas feature. Think of Canvas as a flexible digital whiteboard where you can drop notes, draft outlines, and freely rearrange everything in a 2D space.
+
+To access Canvas, find the **Canvas** option in the **More Tools** dropdown at the right of the top toolbar. Doing so will bring you into a fresh Canvas, where you’ll see the orientation information represented in the screenshot below. You can click and drag to select these cards in order to delete them all at once, or select something and delete it individually.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6abf75ca99492c5a3dbe/019be157-d870-7104-8e93-b909e208b141/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1ef925d5706a63ac1c9d37cbe374850cd6b7ac05ec91a0145538c15d89498c2b)
+
+The menu at the bottom of Canvas allows you to add a card, add text, or add an outline.
+
+**Adding a card** gives you a blank card, where you can type anything you’d like to keep track of: some character information, some notes on a scene, or freeform ideas you don’t want to forget.
+
+**Adding text** lets you throw text directly onto the Canvas, which is helpful when you want to label a cluster of cards or otherwise leave annotations for yourself.
+
+**Adding an outline** will place a complete outline directly onto your canvas—represented as a series of linked cards. The outline types available in canvas are The Hero’s Journey, Hollywood Beats, Story Circle, and Romance Outline. Each outline is represented with distinct visuals.
+
+📌Canvas outlines are a bit different from those in Story Bible. In Canvas you can generate a full outline from your idea, whether it’s a single sentence or several paragraphs. You can also use the three dot (•••) menu to copy that outline to your clipboard if you want to bring it back into a Sudowrite document or even import it into your Story Bible.
+
+**Canvas keyboard shortcuts** include:
+
+`⌘ A` – Select all
+
+`Del` – Deletes a card
+
+`Space + Click + Drag` – Pan the canvas
+
+`⌘ Z` – Undo
+
+`⌘ + SHIFT + Z` – Redo
+
+`⌘ +` – Zoom in
+
+`⌘ -` – Zoom out
+
+`*⌘* \\` – Reset to center
+
+`⌘ 0` – Reset zoom
+
+---
+
+### Expand
+
+**Collection:** Using Sudowrite > Features
+**Slug:** 3974925-expand
+**ID:** 3974925
+**Last Updated:** 2026-03-31T13:55:45.343Z
+
+When you have a scene you know would benefit from some added detail, you can use the **Expand** tool. Expand takes the passage you’ve highlighted and draws that out, adding substance and color as organically as possible. Practically speaking, it can turn one sentence into several.
+
+For example, if you were to highlight “Michael got out of bed and made himself breakfast” and use Expand, you might get back a card in the History column that says, “Michael swung his legs over the side of the bed, and stepped onto the cozy wool rug. He walked to the kitchen, where he moved through his morning routine like a robot, reaching for the market sourdough loaf and loading two thick slices into the toaster. He opened the fridge. His eyes scanned the shelves, and locked in on the blueberry jam. Behind him, the toaster popped prematurely, ejecting the underdone bread to the counter.”
+
+To use it, highlight a sentence or paragraph and choose Expand from the Selection Menu that appears. **Expand requires at least 3 three words be selected, and can be used on up to 1,000 words at a time.**
+
+### What Does Expand See?
+
+Expand is focused on your highlighted selection, but it will read prose in your document that both precedes and follows that selection.
+
+Expand also gets context from your Story Bible, to make sure that it remains faithful to your vision for the story. That context includes, Genre, Style, Characters, Worldbuilding, the linked chapter summary from your Outline, and any POV/Tense that you may have set.
+
+---
+
+### First Draft
+
+**Collection:** Using Sudowrite > Features
+**Slug:** 0327513-first-draft
+**ID:** 0327513
+**Last Updated:** 2026-03-31T13:55:45.343Z
+
+First Draft is a feature that helps you get the ball rolling when you don’t know where to begin. Whether you’re working on a novel, blog post, article, or essay, First Draft will generate up to **3000 words** based on a prompt you provide—giving you a solid jumping-off point to work from.
+
+It’s intended for that early, idea-spark moment, before you’ve written anything in the document. First Draft offers a substantial foundation you can then edit, refine, or build on.
+
+## How to use First Draft
+
+**First Draft only appears when your document is completely empty.** Here’s how to find it:
+
+1.  **Open a blank document** inside any Sudowrite project.
+    
+2.  Click on the **Plugins** dropdown in the toolbar.
+    
+3.  Select **First Draft** from the list.
+    
+
+You’ll see a field appear with some example prompts to inspire you below. Just complete that field and click Go!
+
+> **ICYMI:** First Draft only appears in totally blank documents. You won’t find it in the Plugins menu if you’re working in a document you’ve already written in.
+
+### For best results from First Draft
+
+The more detail you provide, the better the draft will be. Here are a few tips:
+
+-   **Fiction?** Include character names, settings, and key events.
+    
+-   **Non-fiction?** Share the structure or argument you want to make.
+    
+-   **Something else?** Mention tone, style, or any specific quirks you’d like to see.
+    
+
+We recommend giving as much detail as you can here. A sentence or two is fine, but a full paragraph is better. As you type, First Draft gives you feedback on how to improve your prompt—think of it as a writing coach guiding you toward a stronger start.
+
+## What you can expect from First Draft
+
+Once you submit your prompt, Sudowrite will stream a first draft directly into the editor. The draft is:
+
+-   Tailored to the type of content you asked for (fiction or non-fiction)
+    
+-   Inserted as regular text, ready for immediate editing
+    
+-   Generated with beautiful sparkles—so you can follow along as it appears!
+    
+
+Whether it’s a moody short story opening or a structured blog article, First Draft gives you something real to react to.
+
+## When you should use it
+
+First Draft is perfect if you:
+
+-   Don’t know how to start your story or essay
+    
+-   Want a quick spark of inspiration
+    
+-   Prefer editing and shaping over generating from scratch
+    
+-   Need to experiment with tone, structure, or POV without starting from zero
+    
+
+Some common use cases include:
+
+-   Fiction scenes and character intros
+    
+-   Personal essays or blog entries
+    
+-   Opinion pieces or structured arguments
+    
+-   Genre-specific prompts like thrillers, romance, or historical fiction
+
+---
+
+### Brainstorm
+
+**Collection:** Using Sudowrite > Features
+**Slug:** 7767950-brainstorm
+**ID:** 7767950
+**Last Updated:** 2026-03-31T13:55:45.343Z
+
+![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a8875ca99492c59ba6a/0198aeb8-7cc6-7808-8dbf-5813734a7e1d/b64u-MDE5OGFlYjgtN2M5MS03YzljLThkNDQtNjIxYTkyMWEwMWQ4.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2949bec7d7e67fe2f75e1f5d340324d9eccbc91c40cc2d2f71ea90704e83192c)
+
+# Brainstorm
+
+Sometimes you have a good idea of what you need—a new setting for your fantasy epic perhaps—but are tapped out on creative names or fresh angles. That’s where Brainstorm comes in. With Brainstorm, you bring the seed of an idea and get rapid-fire inspiration in the form of a list.
+
+To get started, click the Brainstorm button, and choose from:
+
+-   Dialogue
+    
+-   Characters
+    
+-   World building
+    
+-   Plot points
+    
+-   Names
+    
+-   Places
+    
+-   Objects
+    
+-   Descriptions
+    
+-   Article ideas
+    
+-   Tweets
+    
+-   Something else
+    
+
+Then enter your seed. Maybe it’s “Names and descriptions of spaceships”
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a8875ca99492c59ba6a/019be152-d3b8-7340-98e7-7558ca88b3e8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=220a1a96d969bce97823f8e204b9b4c8022c5eb9d57ec44f548fcbe7868f1a63)
+
+Click Start and you’ll have a fresh list of spaceship concepts generated for you. You can use the Thumbs Up (👍) to save the ones you like to your Keepers List, and the Thumbs Down (👎) to clear that suggestion from your list (to make space for a new one). When you’re satisfied with your choices, click Save & Exit, and your Keepers List will be saved to a card in your History panel on the right.
+
+Note that Brainstorm works independently, exclusively using the context and examples you provide in the Brainstorm panel. That means it doesn’t see your Story Bible details.
+
+📓 **Brainstorm transcript**
+
+While the visuals in the video above are _sort of_ essential, a transcript of the Brainstorm video above is available by expanding this toggle.
+
+Welcome to the next installment in our Quick Start series. Today, we're exploring the Brainstorm button—a tool designed to get you unstuck and fuel your creativity.
+
+Sometimes, you're on the brink of a great idea but need a spark to ignite it. Whether you're dreaming up a new setting for your fantasy saga or searching for the perfect name for your protagonist, Brainstorm can be your creative partner in that process.
+
+Getting started is simple:
+
+Click on the Brainstorm button to unveil a variety of brainstorming categories, including Dialogue, Characters, World Building, Names, and more. Select the category that fits your current need.
+
+Next, input your seed idea. For instance, if you're looking for "Names and descriptions of spaceships," to fill the infinite void of space in your Sci-Fi novel, just type that in.
+
+Hit Start, and like magic, you're presented with a list of inspired suggestions. Found something you love? Give it a Thumbs Up to add it to your Keepers List. Not quite right? A Thumbs Down clears the way for new ideas.
+
+Once you've curated a collection of ideas that spark joy, click Save & Exit. Your Keepers List is then neatly stored in a card within your document’s History panel, ready for you to revisit and incorporate into your masterpiece.
+
+Here’s a little secret about brainstorm—no matter which category you select, the tool functions identically. You’re essentially choosing from pre-populated suggestions and reference material that will help the AI generations along. You can use this little refresh button for fresh suggestions, and you can always use Something Else to start entirely from scratch.
+
+In closing, the Brainstorm button isn’t just a feature… it’s a creative partner standing by to jumpstart your imagination.
+
+There is actually one other way you may go about brainstorming on Sudowrite… but we’ll cover that next time, when we look at the editor’s Selection Menu and Quick Tools.Brainstorm
+
+---
+
+### Describe
+
+**Collection:** Using Sudowrite > Features
+**Slug:** 5156739-describe
+**ID:** 5156739
+**Last Updated:** 2026-03-31T13:55:45.343Z
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a71647f8c5b22973cb5/019be14f-e3bd-7b5b-bf58-a375d618ee9f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e18e3cbd73ba95c3ef6336ca02587f2d37feb69b58d80bed8f227c9f6054e906)
+
+# Describe
+
+Feeling stuck on the details? Describe is a way to very quickly get inspired with some super detailed sensory descriptions of… whatever it is you highlighted. Describe will provide responses broken out by the five senses (Sight, Sound, Touch, Taste, and Smell), as well as a couple of metaphors. Like other features, you’ll find the results in the History column on the right.
+
+To use it, highlight a specific word or phrase and click Describe. It often works best when highlighting a short-to-medium length phrase within a paragraph. It can also work at the paragraph level, if you’d like descriptions for a broader set of objects in your scene. Writing a Young Adult novel set in a High School? You might not be thinking about how the smells from the locker room intrude on your hallway scenes, but Describe will.
+
+And hey, maybe after that you don’t ever want to know what something smells like! In that case, click the dropdown 🔽 toggle to the right of the Describe button to disable or enable sensory descriptions you’d like Describe to respond with when you use it. Turn as many on or off as you like. (You always need at least one sense enabled though!)
+
+_Note: Describe looks at the paragraph where the highlighted phrase resides, as well as up to 200 words prior to the selection for context._
+
+📓 **Describe transcript**
+
+While the visuals in the video above are _sort of_ essential, a transcript of the Describe video above is available by expanding this toggle.
+
+Welcome back to our Quick Start series. Today we're exploring the Describe button, a tool that can add depth and detail to your writing with ease.
+
+Sometimes as writers we know the impression we’re trying to create, but we have a difficult time finding the exact words for it. The Describe button provides instant suggestions for sensory descriptions and metaphors for anything we’ve highlighted.
+
+To see what I mean, just click the dropdown arrow to the right of the Describe button. When you do, you’re presented with a list of toggles—one for each of the senses that Describe can output. You can certainly leave them all toggled on, but you can also toggle off the options you know you won’t use. Say your young adult novel has a scene in a locker room—you could go ahead and toggle off smell, for example. Doing so will prevent the AI from generating that sensory detail until you toggle it back on—and it will save you a few credits in the process.
+
+Once you’ve identified a section of your text you’d like enhance with some sensory detail, highlight it and press the Describe button—either from the Selection Menu or the Toolbar. A card will be created in the History column on the right for each of the enabled senses. So you can see here that we have sight, touch, taste, and so on.
+
+Now since Describe works a bit differently than either Write or Rewrite, you probably won’t use the card’s Insert button to insert the entire text of a card. Instead, you can simply highlight what works for you, and then Copy and Paste whatever you like into the body of your document.
+
+As with all cards, you can also Star any of these descriptions to refer back to later.
+
+One final note on Describe. Like the other tools we’ve mentioned, Describe only works on selections made within your document’s editor. That means—as of right now—you’re not able to use the Describe button on something in your Story Bible fields. Not directly, anyway, since you could simply copy paste the thing you’re trying to get descriptions of into your editor before clicking Describe. Just be aware that if you get this error, that’s why.
+
+That about covers it for Describe. Let us know what questions you have in the comments, and join us next time when we look at Brainstorm.
 
 ---
 
@@ -1198,9 +1439,9 @@ Quick Edit will focus on the highlighted text you’d like transformed, but it w
 **Collection:** Using Sudowrite > Features
 **Slug:** 0618507-rewrite
 **ID:** 0618507
-**Last Updated:** 2026-01-21T16:02:30.593Z
+**Last Updated:** 2026-03-31T13:55:45.343Z
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a5567df40e13a8b270b/019be149-0add-7626-93b8-62364966934f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=63d8a6b5d488dd402009118e07b90f155c1379ea6a6eddb8e831a6d88199127a)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a5567df40e13a8b270b/019be149-0add-7626-93b8-62364966934f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=12aa2cbe7e6a5b33d7b3ae0fd8adfc566657ef7c864be97d9d790c322439e6d0)
 
 # Rewrite
 
@@ -1261,223 +1502,6 @@ Something to be aware of is that, as of right now, the Rewrite button does not t
 
 That covers it for Rewrite. Drop your questions in the comments, and stay tuned for the next video in our Quick Start Series focused on the Describe button.
 
-
----
-
-### Selection Menu
-
-**Collection:** Using Sudowrite > Features
-**Slug:** 8443420-selection-menu
-**ID:** 8443420
-**Last Updated:** 2026-01-21T16:23:59.319Z
-
-# Selection Menu
-
-One of the most powerful tools on Sudowrite is hidden until you highlight something—and it’s called the Selection Menu.
-
-This smart menu will appear, hovering over your document, once you’ve selected text. It will change based on what exactly you’ve highlighted. For example, highlight a _single_ word and you’ll have the option to use Comment, Describe, open Quick Edit, or select from Related Words. Meanwhile, choose a longer selection of text and you’ll get options such as Comment, Rewrite, Expand, or Visualize as well.
-
-In some cases the Selection Menu is a quicker and easier way to access the toolbar tools—like Rewrite or Describe. But in other cases, the Selection Menu is the primary (or exclusive) way to access a feature. The features that are primarily accessed via the Selection Menu are:
-
-**Related Words** - This feature is a smart thesaurus. A handful of related words will appear in the Selection Menu when you’ve selected a single word, but you also have the option to expand and view a full Related Words word cloud.
-
-**Comment** - Annotate your work, leaving a comment on a highlighted passage.
-
-**Expand** - Take a selection of text and make it longer and more detailed.
-
-**Visualize** - Visualize can be used to generate an image from a passage of text.
-
-**Quick Edit** - Quick Edit allows you to make fast, custom inline edits in your document. Quick Edit is available by a keyboard shortcut, but it will also always appear as an option in the Selection Menu—whether you’re selecting a single word or an extended passage.
-
-📓 **Selection Menu partial transcript**
-
-While the visuals in the video above are _sort of_ essential, a partial transcript specific to the Selection Menu is available by expanding this toggle.
-
-Welcome back to our Quick Start series. Today, we'll be diving in on Sudowrite’s Selection Menu and Quick Tools.
-
-Did you know there are a few secret features on Sudowrite? They’re not really secret, but they are sort of hidden in plain sight. They live in what we call the Selection Menu. The Selection Menu appears when you’ve highlighted a selection of text.
-
-It’s actually a pretty smart menu—it will only ever be populated with options that are appropriate for the text that you’ve highlighted. Here’s what I mean: Highlight a single word, and you’ll see a few alternatives that you might find in a Thesaurus. Click on 15 More, and you’ll open a panel that we call Related Words, with even more suggestions available. You can select another word—either directly from the Selection Menu or from Related Words here—for a quick inline replacement.
-
-With a single word selected, you also have the option to either Describe or Quick Edit. We’ve already reviewed the Describe function, and I’m sure you can imagine how getting some sensory details might be applicable to a single word. We’ll look at Quick Edit in just a moment—
-
-But first… notice how when you highlight a full paragraph, the Selection Menu changes. Joining Describe and Quick Edit are Rewrite—which we’ve already covered—Expand, and Visualize.
-
-Clicking Visualize will generate an image inspired by your selected prose. Just like all of Sudowrite’s other AI features, the results of Visualize will show up in a card in the History column on the right.
-
-q
-
-Meanwhile, Expand will take a selection of text and make it longer while adding some new details. As you can see with my selection here, I had a very brief paragraph where someone left the orchard for home, and after Expanding this it has slowed the action into a more methodical and detailed journey.
-
-
----
-
-### Series Support
-
-**Collection:** Using Sudowrite > Features
-**Slug:** 1251175-series-support
-**ID:** 1251175
-**Last Updated:** 2026-01-21T16:42:02.441Z
-
-Whether you currently write a book series or you aspire to, you can take advantage of **Series** support in Sudowrite to share important information between projects. Projects created in or moved into a **Series Folder** will share Characters, Worldbuilding, and Outline visibility so that your books’ shared universe, character arcs, and plot lines remain consistent.
-
-### Create a Series
-
-Create a new Series in Sudowrite by clicking the **\+ New** button in the upper lefthand corner of the homepage and selecting **Series** from the dropdown menu. This will create a project folder with a special Series icon and label. Name it as you would with any other folder.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16a-d2f6-7fd9-910d-fc60ede921e5/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=02cd0aec4cc13e700dd8506c95ec0ffe89e783311ddc231fe3ad8fd51073261b)
-
-Series folders can be created either on the main homepage or within another folder.
-
-☝Series will only share Story Bible data between projects in the same hierarchy—meaning if you create a sub-folder inside of a Series folder with additional projects, the data from those projects will not be visible to the projects one level up in the primary Series folder.
-
-## How Series Works
-
-### Characters and Worldbuilding
-
-**Projects within a Series share Characters and Worldbuilding elements.** That means that if I create characters Jane, John, and Jerry in Book 1, I’ll still be able to see and edit those characters in Book 2 just so long as both Projects (Book 1 and Book 2) are in the same Series folder.
-
-Further, changes made to Characters and Worldbuilding elements will be reflected across all books in that Series Folder. This is not just for your reference either; Sudowrite’s AI also has access to all of your Characters and Worldbuilding elements in a Series. Plus, it will remember (and show you!) which book your characters were originally created in.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16c-254a-7ee3-a4f5-6173f8cded53/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ce7a491a8f9e039d27ee6ac2f483a242932ce8ea6cefd51beaef367eab05e09f)
-
-### **Best Practices**
-
-Because Sudowrite’s AI has access to all of your Characters and Worldbuilding elements in a Series, it’s a good idea to keep them up to date for whichever volume you’re currently working on. For example, if I have a character Liam who is the protagonist of Book 1, but more of a supporting character in Book 2, I can change his type to reflect whichever Book I am working on.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16c-8102-7729-bf08-41af988ae508/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6db88b185688e98a6e3203dc0091d167e5ea975b98067dae8ae99d707d5a5c9f)
-
-If you have characters that only appear in one book, and you don’t want them showing up in others, it may be a good idea to “hide” them from the AI when working on a volume in which they do not play a part. Toggle the eyeball icon that appears when hovering over a Character or Worldbuilding card, and that card is hidden from Sudowrite entirely. (You can always change it back.)
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16d-340b-79df-a796-0349bafce978/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=743a6d6381a08bcc156b064395ed6cdb686bcdaeeef00022e10b6de6f5fafd5d)
-
-For more complex character arcs or development of Worldbuilding elements, it may be beneficial to create multiple versions of a card—one for each book, or at least for dramatic milestones—and simply hide/show the most relevant version as your work progresses across a series. Alternatively, you can have a single canonical Character card or Worldbuilding element that is shared and used across the series, updating it as you go, or using the visibility settings on individual traits.
-
-### Outlines
-
-Projects in a Series automatically use Sudowrite’s Outline Unlimited. The structured nature of Outline Unlimited allows other projects to have quick access to any outline in the Series folder.
-
-To access Outlines from different projects, use the dropdown menu in the Outline header section of Story Bible to select the outline you wish to view.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16d-8ed7-7279-91c5-c161537ac274/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d756ea0c7e20d674f30659469e9721e619c283de69620c4212ef5aa4009aa4dc)
-
-When viewing an Outline from a different project than the currently open project, **you can both make edits and generations with that Outline**. These changes will persist and be reflected in that project’s Outline moving forward.
-
-Note that when viewing an Outline from a different project, you will not be able to link documents in the current project to chapters in that Outline. You may currently only link chapter summaries in the open project’s outline to documents in that project.
-
-## Adding a Project to a Series
-
-Once you have created your Series Folder, there are a couple of ways to add a project to that series.
-
--   Drag and drop an existing project on the homepage into the Series Folder
-    
--   Use the **More (•••) menu** and select **Move to…** to select the Series Folder from a list of available folders, and move it over
-    
--   Creating a new Project using the **\+ New** button when you’re inside of a Series Folder will create a blank project that instantly has access to shared Series information
-    
--   Importing a project with the **Import Novel** button from within a Series Folder automatically adds that project to the series, and any Characters or Worldbuilding elements that are detected as part of the import process will be shared across the series.
-    
-
-When you add an existing project to a Series Folder:
-
--   All of that projects Characters and Worldbuilding elements are automatically shared with the rest of the projects in that Series Folder.
-    
--   Any duplicates are preserved, and added to the shared Characters and Worldbuilding. This allows authors to create different “versions” of Characters/Worldbuilding elements across volumes in their Series.
-    
-    -   If you do not wish to have different versions, we recommend reviewing your shared Characters and Worldbuilding after adding an existing project and deleting (or hiding from the AI) any duplicates that are superfluous.
-        
--   If the project moved into a Series Folder is using Story Bible’s old Outline format—the plain text box version—it will be upgraded into the Outline Unlimited version. (The old version will remain available as a deleted document in your project following this upgrade.)
-    
--   All other projects in the same Series Folder will have access to that project’s outline
-    
--   Sudowrite will add the project to your **Series Timeline**
-    
-
-### Series Timeline
-
-Every Series Folder has a collapsible Series Timeline section at the top. As projects are added to the Series Folder, they will always be added to the “end” of the Series Timeline. (You can always grab the little handles beside the project title to drag it into its proper sequence.) Sudowrite uses this sequence information to assemble a timeline based on your project outlines, which will be used in subsequent generations inside of the series.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16e-1dc2-7072-865a-c1326eec78ef/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4be6f504e1b085682efafa78851ea7787d351ad8572ff49a414a9d624f0c095a)
-
-You should only have to set this order once. Sudowrite will remember this order when generating content thereafter.
-
-### Removing a Project from a Series
-
-To remove a project from a Series simply move it out of the Series Folder, using the ••• menu and selecting the Move to… option. Alternatively, just drag the project up to the word Home (or the preferred folder name) in the File Path that appears above the series title.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16e-6002-77a1-b7d8-dece67514ca4/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c4a5bd98d6041f74946239f5ff21c8df7de3ef70b7d603d8182bc90bc9bbed04)
-
-When a project is removed from a Series, it loses real-time access to the shared Story Bible information… but we want to make sure that you don’t lose any hard work you’ve done, either in that Project or the rest of the series. So removing a project from a series works like this:
-
--   The project that is removed from the Series gets a copy of all shared Characters and Worldbuilding elements from the Series. Those are now specific to that project however, and changes to them will only be reflected within it.
-    
--   The Series retains all of the shared Characters and Worldbuilding elements it had before the project was removed, regardless of whether they originated in the removed project or elsewhere.
-    
--   The removed project loses access to Outlines from other books in the Series.
-    
--   The series loses access to the Outline of the removed project.
-    
--   The removed project will also be removed from the Series Timeline.
-    
-
-🚨**Warning!** Because projects retain shared Characters and Worldbuilding elements even when removed from a Series, you should avoid moving those projects _back_ into the same Series.
-
-While identically-matched Characters and Worldbuilding elements will not be re-added, even nominally changed cards _would_ be re-added—which could potentially create a confusing mess of near-duplicates.
-
-
----
-
-### Visualize
-
-**Collection:** Using Sudowrite > Features
-**Slug:** 2540440-visualize
-**ID:** 2540440
-**Last Updated:** 2026-01-21T16:19:36.984Z
-
-Visualize is a feature that brings your writing to life by generating images based on your text. Whether you're describing a character, setting a scene, or painting a vivid landscape with your words, Visualize transforms your descriptions into beautiful images—giving you a new perspective on your work.
-
-### How to use Visualize
-
-Visualize appears in the **More Tools** dropdown menu when you have text selected in your document. To use it, just select a passage of text (minimum 10 words, maximum 500) that contains descriptive content, click on More Tools and select **Visualize** from the list. Like other features, the AI will create a card in your History column on the right where you can see your results.
-
-Once that image appears, you can click Insert to insert it directly into your document wherever your cursor is, Favorite it for future reference, or just right click and save it to your computer.
-
-🔍**ICYMI:** Visualize only appears when you have text selected. Make sure your selection contains enough descriptive detail (at least 10 words) for the best results. Visualize works on up to a 500 word selection.
-
-### What Does Visualize See?
-
-Visualize looks first and foremost at the text that you’ve selected—but to improve your results, it will now also look at your Story Bible’s Character section if the operative passage mentions specific characters. Visualize tries to make sure that the images that it is generating match the Physical Description trait fields for any mentioned characters (though it will look at the _entire_ character card for broader context if a Physical Description trait is not detected).
-
-### For best results from Visualize
-
-The quality of your generated images depends a bit on the detail in your text. Here are some tips:
-
--   **Be specific:** Include colors, textures, lighting, and other visual details
-    
--   **Set the scene:** Describe the environment and atmosphere
-    
--   **Focus on the most important elements:** What do you want to stand out?
-    
--   **Keep it cohesive:** Conflicting descriptions might result in unusual images
-    
-
-For example, instead of: "A castle on a hill."
-
-Try: "A gothic stone castle perched on a misty green hill, its dark spires piercing the dawn sky, with stained glass windows glinting in the morning light."
-
-Essentially, use the same descriptive language you’d use when trying to conjure an image in your reader’s mind for best results.
-
-### Visualize Details
-
--   Generating an image with Visualize uses 2500 credits
-    
--   Standard image resolution is 1024x1024 pixels
-    
--   Minimum text selection: 10 words
-    
--   Maximum text selection: 500 words
-
-
 ---
 
 ### Write
@@ -1485,9 +1509,9 @@ Essentially, use the same descriptive language you’d use when trying to conjur
 **Collection:** Using Sudowrite > Features
 **Slug:** 8378195-write
 **ID:** 8378195
-**Last Updated:** 2026-01-21T15:58:36.277Z
+**Last Updated:** 2026-03-31T13:55:45.343Z
 
-![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/0198aeb7-16a6-7e2a-b6ef-6b8aefda57b6/b64u-MDE5OGFlYjctMTVhNC03NjQ0LWFjMDUtZmRiMDY1N2FhZjA5.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=72b1a16780595d9d9a2c45528e9d98dabebc261207a875a55aa11e6ca36fb915)
+![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/0198aeb7-16a6-7e2a-b6ef-6b8aefda57b6/b64u-MDE5OGFlYjctMTVhNC03NjQ0LWFjMDUtZmRiMDY1N2FhZjA5.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1cbd505d139fea64777864e19bad4415101cfc4d480890643553fb038a6e3d90)
 
 # **Write**
 
@@ -1499,7 +1523,7 @@ Write works best with a _minimum_ of 20 words (not counting the document’s tit
 
 Click the 🔽 toggle to the right of Write to expand the Write menu. There you’ll find three different versions of Write— ✨ Auto, ↔️ Guided, and 🥸 Tone Shift—and the Write settings, which is where you’ll control settings for these features.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be134-2e7f-7331-a6fd-929e19580e41/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=647814f0dbf8ee94082697a674d6038222d23a598ea3fdb75ddbc8cff6d1d46f)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be134-2e7f-7331-a6fd-929e19580e41/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=402857868c680191f84f62e77c98096d5de7527a7d553cc077f41d92bdb14de0)
 
 Once you’ve selected which Write mode you’d prefer, click the Write button within the text to use it. The suggestions will appear in the History column on the right. If you see a suggestion you like, click Insert to bring that prose into your document. This text will appear in **purple** until it's been edited by you. You’ll get the best results by regularly editing the purple text to make it your own, and fully incorporate it into your work.
 
@@ -1519,7 +1543,7 @@ Let’s keep the setting on ✨ **Auto** and click **Write.**
 
 Sudowrite created 2 cards on the right side. They begin unstacked, so you can read the possible paths available, but if you click on the top (prompt portion) of the card, Sudowrite will collapse them down into a stack.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be135-9823-7c2e-899d-e1bb1c5fcb36/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=88d8e51cb8c2a3972126b0e10f43cb8cd7ad466235e45f9f609ace2e5c8eea8a)Advanced Tool Techniques
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be135-9823-7c2e-899d-e1bb1c5fcb36/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=65e05597d9da3b9357253a4f7d2946817b29f09c7097d1e4aa7a0dcd3a47ed4b)Advanced Tool Techniques
 
 Write looks at what you've written and _continues_ it in the same style, voice, and format. Taking this into account, Write can help you with a number of creative tasks in your writing, including outlining, suggesting character traits, story themes, and much more. (These techniques work best in **Auto** mode.)
 
@@ -1597,23 +1621,23 @@ Here is what we’ve entered into the editor:
 
 Click on the 🔽 down arrow next to **Write** in the top left corner and Select **Guided**.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13e-bf58-77c8-8cb7-9e5b8007bb76/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f494061efc95bdea129a337b98fdd3ba967705607798f7f4417515ad35589307)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13e-bf58-77c8-8cb7-9e5b8007bb76/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=cafe19dbb626e97c1a73bcc1e8dc603475cf6d398862ae92cc522a3acb0ed3c4)
 
 The Write button will then instead say Write Guided. Now place your cursor at the end of your text, and click **Write Guided** in the top left corner.
 
 **Guided Write** can offer 3 Suggestions of what could come next in the story. You turn on the Suggestions slider if you want Sudowrite to generate those Suggestions.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13f-18d4-793d-84dd-0f92d560bb42/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=76e8c7444a28fa7675e418fa3ece20770476adfef686df5a64db24bfb5afb69b)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13f-18d4-793d-84dd-0f92d560bb42/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ddddccf72a9e3d24c59c5b8cdc1cf4aeb838f291eaf5022db73789cc11080220)
 
 If you click on one of the suggestions, Sudowrite will create the number of cards and approximate lengths you chose in **Write Settings**.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be141-9881-70ef-88eb-21623352f416/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzEuMzgucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=382586789e8714e9da1170729f1598dcc2fbfc99195a95d4bb4154baf52e005c)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be141-9881-70ef-88eb-21623352f416/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzEuMzgucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0a41373d21f80222a66a415df2b66798a0ebe7de0ce2d36279f9e8239014db28)
 
 Here is the prompt for the “Write you own” box in the image below:
 
 > there’s a bright flash, and then a loud, apocalyptic explosion outside
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be142-e463-79d5-8b01-722942651c43/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8051241c8d245482934af66f91275efc10cd9de2ad01bd5234b91eb3ffdade18)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be142-e463-79d5-8b01-722942651c43/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c6b0375af11755df778ab246f28bb1dacb4a3f041dc4ae5e6302c1ced5bad670)
 
 ### Getting the most from Write’s Guided mode
 
@@ -1643,13 +1667,13 @@ Tone Shift works a lot like Write’s Auto setting with one key difference—it 
 
 After clicking the Write 🔽 toggle, choose Tone Shift and then select from any of the following tones: Ominous, Fantastical, Fast-Paced, Upbeat, Authoritative, Conflicted, Romantic, Sensual. Then just put the cursor where you’d like to pick up the story from, and click the Write button. You’ll see the story continues along the vibes of what you’d selected.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be143-d30b-70b6-9abe-a46c2ad8b965/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e4e48bafed7a46577c3c55c38cf688c73e0ff8bf76326eabfac09fd1c41584d0)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be143-d30b-70b6-9abe-a46c2ad8b965/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4946e4ac725a74fb02a2c3bbf7436982043b9b344baf0edb0e62a26a84d669e7)
 
 ## **Write Settings**
 
 The last button under Write is for the Write Settings, which let you dictate how each Write feature should work.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be144-e24e-7989-a104-dd2aa5fca297/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzguMTEucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=99744732fe21207ecc4bbcb7fcca049f74c728e0ec4fd085316fee47870f9e72)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be144-e24e-7989-a104-dd2aa5fca297/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzguMTEucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c24d7f61ffb9289304f20da7f03867efaba3d2f5f49a4fffe3cc0e70b8f27cba)
 
 ### Creativity
 
@@ -1757,17 +1781,853 @@ I’d mentioned in the last video that there’s technically a fourth simple way
 
 That pretty much covers the Write button. Let us know what questions you have in the comments, and stay tuned for next time when we discuss Rewrite.
 
+---
+
+## Sudowrite Mobile App
+
+### Tips & Best Practices
+
+**Collection:** Using Sudowrite > Sudowrite Mobile App
+**Slug:** 1971477-tips-and-best-practices
+**ID:** 1971477
+**Last Updated:** 2026-02-15T19:27:54.298Z
+
+## Settings & Support
+
+### Accessing App Settings
+
+You can access resources and additional settings for the app in the More menu (•••) in the rightmost portion of the bottom nav bar.
+
+### More Menu Options
+
+Choose from any of the below:
+
+-   **Get Help:** Access the documentation (like this!)
+    
+-   **Report a Bug:** Submit technical issues (OR shake the app on any screen to report a bug with a screenshot!)
+    
+-   **Email Support:** Contact the support team directly
+    
+-   **Join Our Community:** Connect with the Sudowrite community
+    
+-   **Sign Out:** Log out of the app
+    
+
+You’ll also see the app’s version number on this page.
+
+### Account Settings
+
+You can tap your account name (which is presented along with the associated email address) up top to access account-specific information.
+
+-   **Account Information:** Name, email, subscription details
+    
+-   **Credit Balance:** Current available credits
+    
+-   **Recent Activity:** A list of recent AI features used and their credit costs
+    
+    -   Tap any activity to copy its Activity ID (useful for bug reports)
+        
+
+* * *
+
+## Tips & Best Practices
+
+### Updating the App
+
+-   Updates release 2-3 times per week
+    
+-   Always install the latest version for bug fixes and improvements
+    
+-   Check your app store regularly for updates
+    
+
+### Maintaining Workflow
+
+**Best for Mobile:**
+
+-   Capturing ideas on the go
+    
+-   Voice dictation while walking or commuting
+    
+-   Quick edits and additions
+    
+-   Accessing Story Bible for reference
+    
+-   Using Chat for brainstorming
+    
+
+**Best for Web:**
+
+-   Complex Story Bible generation
+    
+-   Series management
+    
+-   Multiple ways to accomplish tasks
+    
+-   Accessing deleted items in trash
+    
+-   Using full suite of tools
+    
+
+### Dictation Tips
+
+-   Keep individual dictations under 10 minutes
+    
+-   The app will warn you as you approach the time limit
+    
+-   Consider breaking longer ideas into multiple dictations
+    
+-   Use enhancements to expand short dictations into full prose
+    
+
+### Working with Agents
+
+-   Choose an agent based on the personality you prefer
+    
+-   Clear chat history if the agent gets off-track
+    
+-   Use natural language—ask for what you need directly
+    
+-   Agents can do most things you'd do manually, faster
+    
+
+## Troubleshooting
+
+### Common Issues
+
+**Projects not syncing:**
+
+-   Wait 1-2 minutes for automatic sync
+    
+-   Verify you're using the same email address on both platforms
+    
+
+**Need to recover deleted items:**
+
+-   Log in to [sudowrite.com](http://sudowrite.com) on a computer
+    
+-   Access the project trash can from the Settings hear in the upper
+    
+-   Restore deleted projects
+    
+
+**Bug reports:**
+
+-   Take a screenshot of the issue
+    
+-   Note the steps to reproduce
+    
+-   Copy the Activity ID if it relates to a specific generation
+    
+-   Submit via "Report a Bug" or "Email Support"
+    
+
+**Chat not working properly:**
+
+-   Try clearing the chat history (three dots → Clear Chat)
+    
+-   Update to the latest app version
+    
+-   Report persistent issues to support
+    
+
+### Getting Additional Help
+
+-   **Discord:** Join the #mobile channel for community support
+    
+-   **Email Support:** Accessible from the left menu, or email [hi@sudowrite.com](mailto:hi@sudowrite.com)
+    
+-   **Bug Reports:** Include Activity IDs and screenshots when possible
+
+---
+
+### Smart Dictation
+
+**Collection:** Using Sudowrite > Sudowrite Mobile App
+**Slug:** 1368190-smart-dictation
+**ID:** 1368190
+**Last Updated:** 2026-02-15T19:27:54.298Z
+
+Smart Dictation is a unique mobile feature that captures your spoken words and transforms them into properly formatted prose with punctuation, dialogue formatting, and character name recognition.
+
+### How to Use Smart Dictation
+
+**From the Home Screen or Document List in a Project:**
+
+1.  Tap the Plus (+) icon in the upper right and select New Dictation
+    
+2.  Speak your content
+    
+3.  Tap stop when finished
+    
+4.  The app will process and format your dictation, displaying it in a popup when done
+    
+
+**Inline (in Document) Dictation:**
+
+1.  Place your cursor where you want to dictate text
+    
+2.  Tap the sparkly microphone in the toolbar pinned to the top of the screen
+    
+3.  Speak your content
+    
+4.  The formatted text will be inserted at your cursor position
+    
+
+Whether you dictate in or outside of a project/document, all Smart Dictations are stored in the Smart Dictation history, available via the bottom nav bar’s Dictations tab.
+
+### Smart Dictation Features
+
+-   **Intelligent Formatting:** Automatically adds punctuation and proper dialogue formatting
+    
+-   **Context Awareness:** Recognizes character names from your story
+    
+-   **History:** All dictations are saved until deleted in your Smart Dictations menu
+    
+-   **Time Limit:** Up to 1010 minutes per dictation
+    
+
+<aside> 🎤
+
+### Viewing Your Dictations
+
+Access all Smart Dictations via the Dictations tab in the bottom nav:
+
+-   Tap **Dictations** in the nav bar along the bottom of the app
+    
+-   View details: timestamp, duration, word count
+    
+-   See both **Original** and **Enhanced** versions
+    
+-   Copy, delete, or send to projects </aside>
+    
+
+### Enhanced Dictations
+
+Transform your Smart Dictations into fully fleshed-out prose with **Dictation Enhancement**.
+
+1.  Access **Smart Dictations** from the nav bar
+    
+2.  Select any dictation
+    
+3.  Tap the **Enhanced** toggle up top
+    
+4.  The app will expand your dictation into a more developed and narratively complete bit of prose. (The end result may be 10x the word count!)
+    
+
+**Sending Dictations to Projects:**
+
+-   Navigate to the Dictations tab in the nav bar along the bottom
+    
+-   Select the Dictation you’d like to send
+    
+-   Tap the More menu (•••) in the upper right
+    
+-   Choose **Add to Project**
+    
+-   Select your destination project or create a new one
+    
+-   The dictation is added as a new document
+
+---
+
+### Chat on Mobile
+
+**Collection:** Using Sudowrite > Sudowrite Mobile App
+**Slug:** 5586039-chat-on-mobile
+**ID:** 5586039
+**Last Updated:** 2026-02-15T19:27:54.298Z
+
+The mobile app Chat is a unique feature that provides three different AI agents who can read, write, and manage your project content. It’s like working with a writing partner that can actually _do stuff_ for you right there in your projects.
+
+### Accessing Chat
+
+1.  Click Chat in the bottom nav bar. You’ll be asked to select a project. (Alternatively, you can tap on Chat when already inside of a project)
+    
+2.  Select your agent in the upper left, and start chatting
+    
+
+**Note:** The speech bubble in the top right of a document shows document comments (a different feature).
+
+<aside> 💬
+
+**The Three Agents**
+
+**Edna:**
+
+-   Smart, critical, and concise
+    
+-   Professional and straightforward
+    
+
+**Alexis:**
+
+-   A bit of a stinker (more playful personality)
+    
+
+**Jeff:**
+
+-   Friendly and supportive
+    
+-   "Just a real nice guy"
+    
+
+The main difference between agents is personality and temperament. Choose based on the type of feedback and interaction style you prefer.
+
+</aside>
+
+### What Chat Can Do
+
+**Document Management:**
+
+-   List, retrieve, and read documents
+    
+-   Create new documents
+    
+-   Insert content into existing documents
+    
+
+**Story Bible Management:**
+
+-   Read and update Story Bible
+    
+-   Generate characters
+    
+-   Update character details
+    
+-   Add custom traits
+    
+
+**Outline Management:**
+
+-   Read current outline
+    
+-   Create chapter summaries
+    
+-   Add new chapters to outline
+    
+-   Revise existing outline entries
+    
+
+**World Building:**
+
+-   Create and manage world building entries
+    
+-   Update locations, magic systems, etc.
+    
+
+**Feedback & Brainstorming:**
+
+-   Character arc development
+    
+-   Find repetitive phrases
+    
+-   Eliminate head-hopping
+    
+-   Workshop scenes
+    
+-   General writing advice
+    
+
+### How to Use Chat
+
+1.  Either tap the sparkle mic to Smart Dictate your request in the chat field or type it manually
+    
+2.  Send your message
+    
+3.  The agent will read your project context and respond
+    
+4.  The agent can automatically make changes to your project (create characters, add to outline, etc.) as requested
+    
+
+### Chat Management
+
+**Per-Project Conversations:**
+
+-   Each _project_ has its own separate chat thread with each agent
+    
+-   You can have one chat with each agent concurrently, per project
+    
+-   Chat threads don't cross between agents
+    
+
+**Clearing Chat History:**
+
+1.  Tap the **More menu (•••)** in the upper right
+    
+2.  Select **Clear Chat**
+    
+3.  This resets the agent's context for a fresh start
+    
+
+<aside> 🚧
+
+**Important:** Chat on mobile is _different_ from web chat, both in capability and history. Conversation threads do not sync between platforms, and a chat you have on mobile cannot be seen on the web app.
+
+</aside>
+
+### Example Chat Workflows
+
+**Generating a Character:**
+
+```
+You: "Can you create a mentor character for Cavendish and add it to my Story Bible?" Agent: [Creates character card in Story Bible with full details and confirms it's been added] 
+```
+
+**Creating Outline Entries:**
+
+```
+You: "I need a chapter summary for chapter 4. They arrive at the bean farm under cover of night and begin investigating. The chapter ends with Barbara falling down a cavern." Agent: [Drafts summary and offers to add it to your outline] You: "Yes, add it" Agent: [Confirms chapter 4 added to outline] 
+```
+
+---
+
+### Rewrite
+
+**Collection:** Using Sudowrite > Sudowrite Mobile App
+**Slug:** 2557979-rewrite
+**ID:** 2557979
+**Last Updated:** 2026-02-15T19:27:54.298Z
+
+The mobile app’s Rewrite allows you to transform any selected text with AI assistance.
+
+### How to Use Rewrite
+
+1.  Select the text you want to improve
+    
+2.  Tap the **Rewrite** button (cursive lowercase "a" with star, at the very top right of the screen)
+    
+3.  Choose from preset options:
+    
+    -   Make it shorter
+        
+    -   Make it more descriptive
+        
+    -   Show, don't tell
+        
+    -   And more...
+        
+4.  Or select **Custom** to write your own instructions
+    
+5.  Tap **Generate**
+    
+6.  **Insert** to replace the original text, the copy icon to copy, or **Dismiss** to cancel
+    
+
+Generated rewrites also appear in purple initially and lose the formatting when edited.
+
+---
+
+### Write
+
+**Collection:** Using Sudowrite > Sudowrite Mobile App
+**Slug:** 8173121-write
+**ID:** 8173121
+**Last Updated:** 2026-02-15T19:27:54.298Z
+
+The mobile app’s Write feature is an intelligent autocomplete that reads words in your current document, linked docs, and Story Bible to continue your story.
+
+### How to Use Write
+
+1.  Place your cursor at the point where you want to continue
+    
+2.  Tap the **Write** button (the feather quill icon at the top of the screen)
+    
+3.  Choose your approach:
+    
+    -   **Auto Mode:** Just tap **Generate** immediately for automatic continuation
+        
+    -   **Guided Mode:** Type what you think should happen next, then tap **Generate**
+        
+
+### Working with Results
+
+-   Generated text appears as a hovering card
+    
+-   **Insert:** Add the text to your document (appears in purple initially)
+    
+-   **Copy:** Copy to clipboard without inserting
+    
+-   **Dismiss:** Discard the result
+    
+
+**Purple Formatting:** AI-generated text is purple when first inserted as a visual indicator. The purple formatting disappears once you edit the text.
+
+---
+
+### Web App vs. Mobile App
+
+**Collection:** Using Sudowrite > Sudowrite Mobile App
+**Slug:** 2416801-web-app-vs-mobile-app
+**ID:** 2416801
+**Last Updated:** 2026-02-15T19:27:54.298Z
+
+## Mobile vs. Web App
+
+While the mobile app was originally intended to be a **companion app** to the full web app, it can be used exclusively if desired. The key principle: if you have a full keyboard at a desk, you definitely have more features available and AI options via the web app. For everything else (walks, trains, capturing ideas on the go), use the mobile app.
+
+### Feature Differences
+
+**Web App:**
+
+-   Full suite of features, including Story Bible’s generation tools
+    
+-   4-5 different ways to accomplish most tasks
+    
+-   Access to the entire Plugins ecosystem
+    
+-   Document History and (Project and Document) Trash access
+    
+
+**Mobile App:**
+
+-   Streamlined, simplified interface
+    
+-   Typically 2 ways to accomplish tasks (use the feature or ask chat)
+    
+-   Four core features: Write, Rewrite, Chat, and Smart Dictation
+    
+-   Story Bible access—generations limited to the Chat workflow
+    
+-   No Trash or Document History access (must use web to recover deleted items)
+    
+
+**Feature** **Mobile App** **Web App**
+
+Write
+
+✅
+
+✅
+
+Rewrite
+
+✅
+
+✅
+
+Smart Dictation
+
+✅ (mobile-exclusive)
+
+❌
+
+Enhanced Dictations
+
+✅ (mobile-exclusive)
+
+❌
+
+Agentic Chat
+
+✅ (mobile-exclusive)
+
+⚠️ (different chat system)
+
+Story Bible (read & edit)
+
+✅
+
+✅
+
+Story Bible (generation tools)
+
+⚠️ (use Chat instead)
+
+✅
+
+Visualize
+
+⚠️ (view only)
+
+✅
+
+Series Management
+
+⚠️ (limited, no timeline editing)
+
+✅
+
+Outline
+
+⚠️ (via Chat)
+
+✅
+
+Document Trash
+
+❌ (must use web)
+
+✅
+
+Multiple workflow options
+
+⚠️ (~2 ways per task)
+
+✅ (4-5 ways per task)
+
+---
+
+### Mobile App Overview
+
+**Collection:** Using Sudowrite > Sudowrite Mobile App
+**Slug:** 4771537-mobile-app-overview
+**ID:** 4771537
+**Last Updated:** 2026-02-15T19:27:54.298Z
+
+# Overview
+
+The Sudowrite mobile app is an **AI-powered writing assistant** **available for both iOS and Android** devices. It serves as a companion app to the full web app at [sudowrite.com](http://sudowrite.com), allowing you to take your work on the go, maintain momentum, and capture fresh ideas wherever you are.
+
+### What is Sudowrite?
+
+Sudowrite is an AI writing partner designed to help authors achieve their writing goals. It functions as a junior writing assistant, editor, and creative companion. It can help you get unstuck and stay inspired, keep you organized and help you maintain momentum, and speed up your process (so you can focus on the parts of it you love).
+
+## Getting Started
+
+### Installation & Login
+
+1.  **Download the App**
+    
+    -   Available on the [**iOS App Store**](https://apps.apple.com/app/sudowrite/id6740884542)
+        
+    -   Available on the [**Google Play Store for Android**](https://play.google.com/store/apps/details?id=com.humanplusplus.sudowrite&pcampaignid=mobile_redirect)
+        
+2.  **First-Time Login**
+    
+    -   Open the app after installation
+        
+    -   Enter the email address associated with your existing Sudowrite account, or create a new account
+        
+    -   You’ll receive a magic link via email
+        
+    -   Tap that magic link and you’ll be logged into the app
+        
+3.  **Account Access**
+    
+    -   Mobile app access is included with your Sudowrite subscription—credits are shared between devices as long as you’re logged into the same account
+        
+    -   If you’re creating a new Sudowrite account for use with the app, you’ll receive a limited number of free trial credits
+        
+    -   All Projects and Documents sync automatically between the web and mobile apps
+        
+
+### Important Note on Syncing
+
+Projects and documents are stored in the same cloud on web and mobile and will sync automatically. If you create a new project on the web and don't see it immediately on mobile, wait 1-2 minutes for automatic sync.
+
+* * *
+
+## Project Organization
+
+### Home Screen Layout
+
+When you open the app, you'll see:
+
+-   **Projects:** Items with a book/binding icon
+    
+-   **Standard Folders:** Labeled folder icons
+    
+-   **Series Folders:** Folders with series designation above their title
+    
+
+### Navigation
+
+-   **Tap** to open a project or folder
+    
+-   **Swipe from left** to navigate out of a project or folder
+    
+-   **Long hold** on a project to see options (move to folder, rename, duplicate, delete)
+    
+
+### Creating New Items
+
+Tap the **+** button in the upper right corner of the screen:
+
+-   **New Project:** Create a fresh project
+    
+-   **New Folder:** Create a folder in your project list to organize your projects
+    
+-   **New Dictation:** Start a new Smart Dictation
+    
+
+### Series Support
+
+Sudowrite support special Series Folders on the web app that allow you to create a canonical timeline of projects and share certain Story Bible elements between projects. Series functionality is limited on the Mobile app.
+
+-   Series folders will appear with a Series designation
+    
+-   You _can_ write in Series projects
+    
+-   You _can_ access the Series bible of shared Character and Worldbuilding elements
+    
+-   You **cannot** create new Series folders on mobile
+    
+-   You **cannot** change the canonical timeline or sequence of books for an existing Series
+    
+-   Full series management currently requires the web app
+    
+
+### Deleting Items
+
+**Important:** While you can delete both projects and documents, the mobile app does not have a trash can for projects presently.
+
+-   Deleted documents go to the trash inside of a project and may be recovered from there
+    
+-   Deleted projects go to a trash that is unavailable on mobile
+    
+-   To recover deleted projects, log in to the web app
+    
+-   Access the project trash in your Settings Gear in the upper right
+    
+
+* * *
+
+## Document Features
+
+### Opening & Editing Documents
+
+1.  Tap a project to see its document list
+    
+2.  Tap any document to open it
+    
+3.  Place cursor and begin typing or use AI tools
+    
+
+### Formatting Toolbar
+
+When your keyboard is visible, rich formatting options, such as Bold, Italic, Strikethrough, Font Size are available in a scrollable bar just above it. Meanwhile, AI functions such as Smart Dictate, Write and Rewrite will appear along the top of the screen (just to the left of the magnifying glass in the right corner).
+
+**To dismiss toolbar:** Tap the Check mark in the upper left to hide keyboard and reclaim screen space.
+
+🌈**The More You Know**
+
+-   **Images from Visualize:** Images created on the web app display beautifully on mobile
+    
+    -   **Note:** You cannot create new Visualize images on mobile (web-only feature)
+        
+
+* * *
+
+## Story Bible
+
+### Accessing Story Bible
+
+From your app’s project screen or within any project, tap the **Story Bible icon** (the small book-shaped icon) in the nav bar along the bottom of the app. If you select this from the project screen, you’ll be asked which project you would like to see the Story Bible for.
+
+### What You Can Do
+
+**Read & Edit:**
+
+-   View all sections of Story Bible
+    
+-   Edit any Story Bible information
+    
+-   Access and edit Characters, including full character cards
+    
+-   View and edit Worldbuilding elements
+    
+-   Add new custom Traits to Characters and Worldbuilding elements
+    
+
+**What You Cannot Do:**
+
+The Story Bible on mobile does not have generative elements, such as Character generation or “Fill this in” completion. That means you can’t:
+
+-   Generate new characters
+    
+-   Generate Synopsis from Braindump
+    
+-   Generate Worldbuilding elements
+    
+
+**Workaround:** Use the Chat feature to ask an agent to generate Story Bible content for you!
+
+### Creating Story Bible Elements Manually
+
+1.  Open Story Bible
+    
+2.  Navigate to the relevant section (Characters, Outline, etc.)
+    
+3.  Tap the **+** button in the upper right to add new entries
+    
+4.  Fill in details manually
 
 ---
 
 ## Plugins
+
+### Plugins Guidelines
+
+**Collection:** Using Sudowrite > Plugins
+**Slug:** 5603490-plugins-guidelines
+**ID:** 5603490
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+Plugins unlock custom functionality on Sudowrite, empowering our writer community to build and share totally custom tools. With great power comes great responsibility though, so here are some guidelines as to what we expect from our community when it comes to building and sharing Plugins.
+
+## What Plugins Are For
+
+The Plugins drop-down in your toolbar is like a Swiss Army Knife, only _you_ get to decide the tools you’ll fill it with. You can do so by adding Plugins from the Explore page or by building them yourself.
+
+Generally speaking, **we expect Plugins to enhance or enrich the writing process**. This might mean making it easier, faster, more creative, or more joyful. Plugins may be used for analysis, generation, interpretation, or even to accomplish specialized writing techniques. We don’t want to be overly prescriptive about what you should make though! Our main advice is to reflect on your workflow and get creative.
+
+## **Best Practices**
+
+Here are a few helpful guidelines to keep in mind as you build:
+
+✅ **Use short, descriptive titles.** The Plugin’s title will show up in the Plugins drop-down, so short and sweet helps the UX.
+
+✅ **Keep Plugin titles and descriptions PG-13.** Use NSFW designations when merited.
+
+**✅ Be clear about the input necessary.** Not everyone will read your Plugin’s full prompt, so try to say how it works in the description. (Ex. “Highlight at least 200 words.”)
+
+**✅ Be clear about the expected output.** Say exactly what a user should expect to get out of using your Plugin—whether that’s an analysis, finished prose, multiple cards, or something else. (Ex. “This Plugin will generate two separate cards of prepared prose.)
+
+**✅ Share what you build!** You’re encouraged to Publish and share the Plugins you’ve built. But also…
+
+❌ **Leave broken Plugins Unlisted.** It can take a little experimentation to get a Plugin working just right. If it’s not working as described or intended, leave it Unlisted until it is.
+
+❌ **Try not to delete Plugins people depend on.** Deleting a Plugin altogether will remove it for everyone who has ever added it. That might break things for others who have come to depend on it, so default to toggling it to Unlisted if necessary.
+
+## Dealbreakers
+
+This part should be obvious, but to keep everyone safe **we don’t allow Plugins that are dangerous, hateful, or illegal**.
+
+You can view the list of prohibited uses here.
+
+**Plugins can not…**
+
+❌ Promote services or products in a spammy or disruptive manner.
+
+❌ Create or distribute harmful/malicious content/software.
+
+❌ Steal or infringe on intellectual property rights.
+
+❌ Promote hate or discrimination.
+
+❌ Do any other stuff that’s illegal or in violation of our Terms of Use.
+
+## Help One Another
+
+As you discover and experiment with Plugins, you may encounter Plugins that don’t work as described. If you’re able to find the creator in Discord, let them know so they have the opportunity to fix it up. Otherwise, you can let _us_ know, and we can toggle it to Unlisted until we can get in touch with them.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f2435fa13de851a1465/019be1c7-10c6-7ae1-b25c-f5cd2fbd6949/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2874a482e63baa4a51771ddfc2d6491455f53cb92d50ff68fe83701b740dae16)
+
+Meanwhile, if you find a Plugin that you feel weird about—maybe you’re concerned it’s in violation of our rules above—feel free to use the Report button (the little flag icon) on the Plugin description page, or even drop us a note and we’ll give it a look. Contact us at [hi@sudowrite.com](mailto:hi@sudowrite.com) or reach out to our Community Lead, Michael Stewart, on Discord.
+
+## **Questions?**
+
+Please email [hi@sudowrite.com](mailto:hi@sudowrite.com) with your questions or concerns. Alternatively, raise them in the community Discord server!
+
+---
 
 ### How do I build Plugins?
 
 **Collection:** Using Sudowrite > Plugins
 **Slug:** 1671769-how-do-i-build-plugins
 **ID:** 1671769
-**Last Updated:** 2026-01-21T18:15:03.055Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 ## **Creating Plugins**
 
@@ -1781,7 +2641,7 @@ To get started, click on the **Create Plugin** button in the **More Tools** drop
 
 We’ve simplified the plugin creation flow so that you can just describe what exactly you’d like a plugin to do.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1bc-c65b-76d3-aa84-99000686be31/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=02e98d2949e595af6936d3de0e57e2c117357659be8d0ea982410a088cae6698)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1bc-c65b-76d3-aa84-99000686be31/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f31a4c16a95043fd5197bccd2b4ffbd92ca7b7e00cf7eea5d22dc0f6089ce746)
 
 To use it, enter a plain text description of what sort of writing tool you’re looking for and click Generate Plugin. Remember that plugins can do any of three things: generate, analyze, or transform text. (The Magic Plugin Builder won’t create multi-stage plugins by default, but it’s worth noting that you can create a 2-stage plugin in case you’d like to do any of those things in sequence too!)
 
@@ -1832,7 +2692,7 @@ Here’s a look at some of the essential fields (some of which will be populated
 > 
 > Once you start changing the AI model and experimenting with your own variables, credit costs may vary. Be sure to test your Plugins for a sense of how much they’ll cost to use!
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c0-da21-7280-80c6-2d9fe92f8048/b64u-Q2xlYW5TaG90IDIwMjUtMDUtMjkgYXQgMTIuNDYuNDQoMykucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=672fcf6eccae862af9d7f03855a6baef9fe53b412092839828e36a4d3f56ecd5)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c0-da21-7280-80c6-2d9fe92f8048/b64u-Q2xlYW5TaG90IDIwMjUtMDUtMjkgYXQgMTIuNDYuNDQoMykucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=38eb3ca79f666706f4bf67b6b0ce4cf802c656e724f48b841399363e324f0aea)
 
 Here’s what each of the areas in the screenshot above controls:
 
@@ -1919,7 +2779,7 @@ Here’s what each of the areas in the screenshot above controls:
 
 At the bottom of the Plugin creation page, you will see a testing area:
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c2-dd67-720a-ba57-51f1317b3af8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=21812995dd7a466df002a68938cf28cdca0e83571e8556336309a8da6a336ed7)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c2-dd67-720a-ba57-51f1317b3af8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ca28b80596771b3742108a5ca90fd0bea68cbc0cdeef117126882bde8e054e64)
 
 This lets you easily and quickly test your Plugin without publishing it. It’s essential that you test your plugin to make sure it works with a diverse set of inputs—and that you’re getting the results you want out of it. We suggest that you have a bank of inputs along with an idea what your expected output is. This way, as you iterate on the design of your plugin, you can make sure that the functionality matches your expectations.
 
@@ -1929,7 +2789,7 @@ Toggling Additional Variables exposes fields to populate Preceding Text as well 
 
 You can edit what name shows up for your Plugins by clicking on the small “Edit” link in the Settings (⚙️) menu in top right of your Sudowrite interface:
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c3-1db8-74dd-9099-141561098fc6/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5f5f5cccf7a8fcd976774a8ffc9c232ffa06032ef6bdddba820566a45a06e216)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c3-1db8-74dd-9099-141561098fc6/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=11e84d300122f6077d1b951b77f93544df97050fa52a36f90416c06f9950d9b5)
 
 By default, if you’ve logged in via Google, that will be set to your Google display name.
 
@@ -1957,7 +2817,6 @@ Summarize this passage into story plot points that would be suitable as part of 
 
 We make sure to give specific instructions so that the AI knows what kind of output is expected. A good way to approach writing these instructions is to think about what you’d have to write in an email to an assistant to make sure they get the job done without needing to ask clarifying questions.
 
-
 ---
 
 ### How do I use Plugins?
@@ -1965,25 +2824,25 @@ We make sure to give specific instructions so that the AI knows what kind of out
 **Collection:** Using Sudowrite > Plugins
 **Slug:** 7448323-how-do-i-use-plugins
 **ID:** 7448323
-**Last Updated:** 2026-01-21T19:05:35.024Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 ## Finding Plugins
 
 The Plugins Directory is available under the **More Tools** dropdown menu in your toolbar.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b8-2ef5-734e-9593-6666d04b5db4/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d24aa0ae416946ee087dbfd104081b21c7f1e9b5dcaf17ae18d22500a202d062)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b8-2ef5-734e-9593-6666d04b5db4/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=44dbe23bbf3d805f57715c029b923f6502a4f78b981f8674a2f4b4cd2126e430)
 
 ## Adding Plugins
 
 The Plugins Directory page lists all of the available Plugins.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b8-76f4-79a1-bd10-607934ed3558/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8c110aa15e69929968e0b89cdccf4f0bbfe7b107005ea24133cd532268a08df9)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b8-76f4-79a1-bd10-607934ed3558/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c470c3f6959bf61f3262bec25bab3acece810ef762e3da8c404e4bf3812fe505)
 
 You can select Categories along the left to view Plugins according to their category, and you can use the filter views available to sort by Popular (most installed) or Newest (most recently published). Note that you also have filter views available for Plugins you’ve added or built.
 
 To add a plugin, just click the **Add** button on the Plugin’s info card. You can also click into the card to visit the Plugin’s detailed description page and read more about it, before choosing to **Add** it from there.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b9-16b4-768c-8f29-c061d977c42f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3d0820a0ee602bf0aee5ec58bc160401fe22916a502f26e9426fc876217d11c3)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b9-16b4-768c-8f29-c061d977c42f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a504b76240ac14d85a4fc839beecc08855dfec88967d358c7ffba977ed719b06)
 
 The Description page includes details on the creator, how many users it has, an estimation of how many credits it might use, and a Description written by the creator. The Description should give you a good idea of what the Plugin is intended to do, and ideally how to use it.
 
@@ -1993,7 +2852,7 @@ In the upper right, you’ll see a **Copy Link** button (if you’d like to shar
 
 Once you’ve added a Plugin, you will see it available in all of your projects under the **More Tools** dropdown in the top right of your toolbar.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b9-8780-7755-b13f-02ff94198234/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bd1837be09a57c0f843477229117ff4d2b320c3d091bcd8998fc3374cffa9fe0)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b9-8780-7755-b13f-02ff94198234/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5885a005de29df4d8081cc72300ac72e1d21ae3a941513fa6671404ca0a49a23)
 
 To use a Plugin, just select it from this dropdown.
 
@@ -2003,73 +2862,6 @@ To use a Plugin, just select it from this dropdown.
 
 Plugins output to the History column on the right, just like other Sudowrite features. And just like with those features, you can favorite, insert, and copy these cards as desired.
 
-
----
-
-### Plugins Guidelines
-
-**Collection:** Using Sudowrite > Plugins
-**Slug:** 5603490-plugins-guidelines
-**ID:** 5603490
-**Last Updated:** 2026-01-21T18:18:08.396Z
-
-Plugins unlock custom functionality on Sudowrite, empowering our writer community to build and share totally custom tools. With great power comes great responsibility though, so here are some guidelines as to what we expect from our community when it comes to building and sharing Plugins.
-
-## What Plugins Are For
-
-The Plugins drop-down in your toolbar is like a Swiss Army Knife, only _you_ get to decide the tools you’ll fill it with. You can do so by adding Plugins from the Explore page or by building them yourself.
-
-Generally speaking, **we expect Plugins to enhance or enrich the writing process**. This might mean making it easier, faster, more creative, or more joyful. Plugins may be used for analysis, generation, interpretation, or even to accomplish specialized writing techniques. We don’t want to be overly prescriptive about what you should make though! Our main advice is to reflect on your workflow and get creative.
-
-## **Best Practices**
-
-Here are a few helpful guidelines to keep in mind as you build:
-
-✅ **Use short, descriptive titles.** The Plugin’s title will show up in the Plugins drop-down, so short and sweet helps the UX.
-
-✅ **Keep Plugin titles and descriptions PG-13.** Use NSFW designations when merited.
-
-**✅ Be clear about the input necessary.** Not everyone will read your Plugin’s full prompt, so try to say how it works in the description. (Ex. “Highlight at least 200 words.”)
-
-**✅ Be clear about the expected output.** Say exactly what a user should expect to get out of using your Plugin—whether that’s an analysis, finished prose, multiple cards, or something else. (Ex. “This Plugin will generate two separate cards of prepared prose.)
-
-**✅ Share what you build!** You’re encouraged to Publish and share the Plugins you’ve built. But also…
-
-❌ **Leave broken Plugins Unlisted.** It can take a little experimentation to get a Plugin working just right. If it’s not working as described or intended, leave it Unlisted until it is.
-
-❌ **Try not to delete Plugins people depend on.** Deleting a Plugin altogether will remove it for everyone who has ever added it. That might break things for others who have come to depend on it, so default to toggling it to Unlisted if necessary.
-
-## Dealbreakers
-
-This part should be obvious, but to keep everyone safe **we don’t allow Plugins that are dangerous, hateful, or illegal**.
-
-You can view the list of prohibited uses here.
-
-**Plugins can not…**
-
-❌ Promote services or products in a spammy or disruptive manner.
-
-❌ Create or distribute harmful/malicious content/software.
-
-❌ Steal or infringe on intellectual property rights.
-
-❌ Promote hate or discrimination.
-
-❌ Do any other stuff that’s illegal or in violation of our Terms of Use.
-
-## Help One Another
-
-As you discover and experiment with Plugins, you may encounter Plugins that don’t work as described. If you’re able to find the creator in Discord, let them know so they have the opportunity to fix it up. Otherwise, you can let _us_ know, and we can toggle it to Unlisted until we can get in touch with them.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f2435fa13de851a1465/019be1c7-10c6-7ae1-b25c-f5cd2fbd6949/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=196d4d82606acd1b96907d96f0e6a62d67210d0b636c7882ebaad35f06c16ea2)
-
-Meanwhile, if you find a Plugin that you feel weird about—maybe you’re concerned it’s in violation of our rules above—feel free to use the Report button (the little flag icon) on the Plugin description page, or even drop us a note and we’ll give it a look. Contact us at [hi@sudowrite.com](mailto:hi@sudowrite.com) or reach out to our Community Lead, Michael Stewart, on Discord.
-
-## **Questions?**
-
-Please email [hi@sudowrite.com](mailto:hi@sudowrite.com) with your questions or concerns. Alternatively, raise them in the community Discord server!
-
-
 ---
 
 ### What are Plugins?
@@ -2077,7 +2869,7 @@ Please email [hi@sudowrite.com](mailto:hi@sudowrite.com) with your questions or 
 **Collection:** Using Sudowrite > Plugins
 **Slug:** 0953803-what-are-plugins
 **ID:** 0953803
-**Last Updated:** 2026-01-21T18:00:47.652Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 ## What are Plugins?
 
@@ -2103,1014 +2895,16 @@ But the thing that makes Plugins super powerful is that they can also do any com
 
 Plugins are super flexible!
 
-
----
-
-## Story Bible
-
-### Braindump
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 9784768-braindump
-**ID:** 9784768
-**Last Updated:** 2026-01-21T17:12:20.183Z
-
-## Setting up your story
-
-good news: You don't have to stress out about your brain dump. You can put absolutely anything you want in this field, but here are a few pointers on what you may want to include to get the most out of it:.
-
-## Braindump
-
-Imagine that you’re meeting with another writer who will collaborate with you on your story.
-
-You’re meeting them for the first time, and they have zero context. The Braindump section is what you’d tell this writer in order to introduce them to the core elements on your story. It’s part elevator pitch, part “everything I know for sure.”
-
-This could be a sentence, a paragraph, a snippet of a scene, or any free-form passage of text. The more information you put in Braindump, the better picture the AI will have of your vision.
-
-**We recommend writing at least a few hundred words here**. You can always revise Braindump later as story elements change.
-
-🧠 Braindump directly influences the generation of Synopsis. Otherwise, if the Synopsis is never filled in or generated, fields that are typically informed by Synopsis will defer to the Braindump.
-
-
----
-
-### Characters
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 1726763-characters
-**ID:** 1726763
-**Last Updated:** 2026-01-21T17:24:48.375Z
-
-The Characters section is where you define the characters in your story. This affects how the characters are described, how their dialogue is written, what choices they make, and how they interact with each other. Once you’ve completed your synopsis, Story Bible can create all of your characters for you.
-
-**To tell Story Bible to create your Characters, click the Generate All Characters button.**
-
-When you generate characters, Story Bible will take what you’ve written in your Synopsis and use it to generate the main characters in your story. Characters explicitly mentioned in your Synopsis will automatically be included. If you don’t mention any specific characters in your Synopsis, or if you only mention a few, Story Bible will create additional characters for your consideration. You can leave these characters as-is, or ideally, change the substance of their character cards.
-
-🧠 Characters are generated based on the Synopsis. Meanwhile, the Characters section directly influences the generation of your story’s Outline, Scenes, and Prose Generation (in Draft).
-
-### Character Cards
-
-**Each character receives their own card in the Characters section of your Story Bible.**
-
-Cards are how you keep track of each individual character and their details. Cards can be collapsed with the arrow next to the characters name, and dragged to your preferred order with the six-dot handle in the upper left.
-
-The dropdown in the upper right allows you to set a Characters role (for example, protagonist, supporting character, etc.). You can see previous versions of the character in the card history—accessed from the clock icon up top—and you can delete a character card using the three dots on the right.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be192-8b27-7da9-b739-f8ce854a9fe4/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMDkuMjIgMkAyeC5wbmc.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c7eba4610a926802abf4d8ef1fac04e086c27b0dc7859df7bcabfbcb98386cba)
-
-By default, each Character card created includes the following traits: Pronouns, Groups, Other Names, Personality, Background, Physical Description, and Dialogue Style.
-
-### Adding Characters
-
-There are three ways to add characters. Click **\+ Add Character** in the Characters header section of Story Bible, and choose from:
-
-**Blank Character -** This creates a blank character card (with either the default traits, or the custom defaults you’ve assigned) for you to manually complete.
-
-**Generate Character** - This option opens a small prompt window that allows you to ask for a certain _type_ of character. This field is very flexible, and you can be as vague or as specific as you’d like.
-
-**Try this:** Ask for a mentor character, or an antagonist to your existing protagonist, in the Generate Character box. You can even paste a lengthy character braindump here for a character you already have notes on. Sudowrite’s AI will further develop the character based on your notes, and refine it so that it fits your default card traits.
-
-**Surprise Me** - This option will instantly generate a random character to round out your cast. Your existing Characters and storyline are taken into consideration and the AI will try to create something that compliments the existing cast. You can add or generate as many characters as you’d like.
-
-### Character Traits
-
-Most of the default traits are pretty self-explanatory. Personality, Background, Physical Description, and Dialogue Style all help an author distinguish characters from one another and add richer detail to their writing.
-
-But traits are there both for _your_ reference, _and_ that of the AI. **Traits inform how the AI will write a character anywhere that character appears.** And since AI depends on specificity, some traits are _primarily_ for the benefit of the AI.
-
-If your character belongs to a group—say for example that they’re in a D&D group called The Hellfire Club—you’d want to include that group name under **Groups**. That way, if you reference The Hellfire Club in a scene, the AI knows which characters may be involved.
-
-The same goes for **Other Names**. Be sure to include any of your character’s nicknames, pet names, or pseudonyms in Other Names, so that the AI understands who you’re referring to at all times (—for example, when you write Tommy in Chapter 6 and you’re actually referring to the character card for Thomas Culligan).
-
-### Trait Customization
-
-Traits aren’t set in stone. You can retitle existing traits, or even **create custom traits at the individual character level _or_ at the default level**.
-
-**Need to add a one-off trait to a character?** (For example, maybe you need a “Bat Form Physical Description” for your vampiric protagonist.) Just click **\+ Add Trait** at the bottom of that character card, title the trait, and then fill out the empty field with details.
-
-**Want all of your characters—or even a specific character type—to have additional traits?** Click the **Customize** button under the **More menu (•••)** at the top of the Characters section and you can edit and rearrange your default traits for each Character type. You can even create brand new custom Character types with specific trait sets!
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be193-2662-7686-a246-9e905018fdd8/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMjQuMTdAMngucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c50c5fac3dc1d6af64ea916a29bb069cff5c740b2386a355a3435e24147eb78e)
-
-Just click **\+ Add** to add a new default trait, and all future characters will be created with that default trait included. This is ideal if you’d like to add your characters’ Enneagram types, core wounds, or story-specific details (like shifter form, for example).
-
-When adding new defaults, you have the option to create fields for those traits across all existing characters. Just note that if you choose to add them on every existing character card, the newly created fields will need to be manually filled out. Freshly-generated characters on the other hand will include the updated defaults, with those trait fields populated on generation.
-
-### Generating Traits
-
-After adding new default traits to pre-existing Character cards or Worldbuilding elements, you may wind up with a bunch of empty trait fields. Traits can always be filled in manually, but sometimes you want the AI’s help with that, so you have the ability to generate traits individually as well.
-
-**When a trait field is empty, just put your cursor inside of the field and click _Generate_.** You’ll have the option to provide custom instructions, but you can also just click **_Go_**. The AI will then populate that trait field with something contextually appropriate.
-
-The AI takes the rest of your Characters, Worldbuilding elements, and Story Bible context into consideration when generating those traits individually.
-
-You also have the option to Rewrite trait fields that you’re not satisfied with. Just **click Rewrite from within the trait field**, provide custom instructions (if desired), and click Go. The AI looks at the current version of the trait, then rewrites it either according to provide instructions or (if blank) its own intuition and context.
-
-### Character Data
-
-Story Bible’s updated characters section has more structured character data than ever. But **which of Sudowrite’s features make use of your Character data**?
-
-Your characters section is referenced by the Draft tool for the creation of both Scenes and prose generation. Characters are also referenced by the Write button’s Auto and Guided Write modes. And both Quick Edit and Chat can see your characters as well—try asking Chat about any of your character details.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-0304-7672-880f-e153ebb1247d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9105284b3e85f034e24be0ed1394b5a004bac34e4ab5bd13f5312be066e843e9)
-
-You can fit an absurd amount of data on each Character card, and Story Bible won’t ever stop you from adding new Characters. You may see the Characters section referred to as unlimited—but that’s not _entirely_ true. **If you try to add more than 2,000 different characters to your Story Bible you’ll actually hit the limit!** But if you have more than 2,000 characters… well, have you considered you may actually be writing _a phone book_?
-
-### Importing or Exporting Characters
-
-Sometimes you want to pick up on a work in progress, or just create character cards using the notes you’ve already assembled on your characters.
-
-The smart import feature in Story Bible’s Characters section can be used to instantly create Character cards from an existing text.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-4862-72bf-b271-36b9b017a0b2/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6e7c0d47f2b1f8fc3968d8cd41bb6493f8dac7ad4c2a91e7f8bdff251a3ef495)
-
-To use the smart import feature, navigate to the header of the Characters section of Story Bible and click the Import button in the three dots (•••) menu. Doing so opens the Import window.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-8967-74b8-a93c-9eb046a141e9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7b9e8d8889f54f77dcf5d22a9eab3be3d1b25c958bb28d7f60d5a2fcc2f53d8d)
-
-You have the option of importing characters from text or a file. This might be a list of characters, a chapter of your work, or in some cases an entire manuscript.
-
-The raw text pasted in or file uploaded should be no more than 60,000 words. Sudowrite will review that, identify, and import up to 30 characters at a time. Before doing so there is a brief validation step where you can tell Sudowrite not to bother bringing a character in (for example, where it identifies a pseudonym or nickname as a distinct character).
-
-ℹ️ The Characters section smart import will accept any of the following file types: .txt, .doc, .docx, .rtf, .odt, .csv
-
-Importing characters does not use credits.
-
-### How will Characters be created using the Smart Import?
-
-For "unstructured text" that you paste in or upload by file, Sudowrite will use AI to first identify the characters, and then figure out how best to complete the defined default trait fields.
-
-However, when uploading a CSV, you’re actually not subject to the limits outlined above—you could import more than 30 characters in one shot, if desired. That’s because Sudowrite skips AI if you upload structured data via CSV. It makes the following assumptions:
-
--   Each row represents a character
-    
--   Each column represents a character trait
-    
--   The first row of the CSV is assumed to be column headers representing field names
-    
-
-If you’d like complete control over the import, you can complete this CSV template manually:
-
-[https://editor.sudowrite.com/assets/sudowrite-characters-import-template.csv](https://editor.sudowrite.com/assets/sudowrite-characters-import-template.csv)
-
-### Exporting Your Characters
-
-While your Story Bible is not included during a typical project export, the Characters section of Story Bible has its own Export feature available, allowing you to download the entirety of the Characters section. That file will include all of your Characters, and all of their traits. Here’s how to use it.
-
-**Characters Export:**
-
--   Click the **More menu (•••)** option in the Characters section header of your Story Bible
-    
--   You’ll be presented an Export option
-    
--   Once Exported, you’ll receive a .CSV file with all of your characters represented as rows, and all of your default and custom traits represented as columns
-
-
----
-
-### Genre
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 7291201-genre
-**ID:** 7291201
-**Last Updated:** 2026-01-21T17:13:48.622Z
-
-## Genre
-
-This is where you specify the genre of the story you’re writing, which affects the tropes, tone, and style of the outlines and prose that’s generated by Sudowrite. Rather than jotting down a literal genre, we recommend you unpack some of the themes and thematic elements you’re looking for in your story.
-
-✏️ **Examples**
-
--   _Space opera, science fiction_
-    
--   _Historical Romance_
-    
--   _Literary Realism_
-    
--   _Alt history timeloop_ </aside>
-    
-
-✨ **Pro-tip!** Is the AI writing romance that’s a little _tired_? Change it to _friends to lovers romance_, or _small town cozy romance_, or avoid the term _romance_ altogether. In general, you’ll get the best (least tropey) results if you can unpack the thematic elements you’re actually looking for.
-
-Genre is filled in manually, and thus is not informed by any other Story Bible fields. Meanwhile, the Genre influences Synopsis, Outline, Scenes, and Prose Generation (in Draft).
-
-
----
-
-### Outline
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 1761456-outline
-**ID:** 1761456
-**Last Updated:** 2026-01-21T17:27:58.902Z
-
-### The Outline is where you tell Story Bible about the structure of your story.
-
-You can have Story Bible generate an Outline for you based on your Synopsis, Genre, and Characters, or you can import or write your own Outline from scratch.
-
-♾️ **The Outline section of Story Bible has no word limit.** It can include as many chapters as you like, and each one can be as long as you like. (Though a good editor might suggest otherwise.)
-
-### Generate Outline
-
-There are two ways to approach creating your Story Bible’s Outline: generating it all at once, or chapter-by-chapter.
-
-**To tell Story Bible to create a complete Outline, just click the Generate Outline button.**
-
-💡Outline generation is influenced by Genre, Synopsis, Characters, and Worldbuilding. Meanwhile, your Outline will directly inform Beat generation.
-
-Alternatively, you can click the **\+ Add Chapter** button to add a single chapter to your outline at a time. Once you’ve done so, you can fill that chapter summary in manually or using the **Generate** button. If you choose Generate you’ll be presented with a **Custom Instructions** box, where you can optionally tell Sudowrite how you’d like that chapter to go. If you opt not to give any specific instructions, it will do its best based on the context available.
-
-### Editing Your Generated Outline
-
-If the Outline that Sudowrite generated for you doesn’t match your vision, you can fix it by adding your notes to the **Rewrite Outline** box—this is field is revealed only when clicking Rewrite under the **More menu (•••)** in the Outline section header. Click **Go** and Sudowrite will take another pass, rewriting the entire outline while incorporating your feedback. (You can get pretty specific with your feedback here!)
-
-Meanwhile, if a specific chapter in your generated outline is almost there but still needs work, you can Rewrite a chapter by clicking into the text field containing the summary and selecting **Rewrite**. Just as with the full outline rewrite, you’ll be able to give specific instructions as to what needs to change (ex. “End in a cliffhanger”).
-
-The **More menu (•••)** also includes the **Delete** option, in case you ever need to start over entirely.
-
-Once you have a generated outline that you’re happy with, make sure the details match your vision for the story. Just as with every other section of the Story Bible, the more specific you are, the better yours results.
-
-### Editing Your Outline
-
-At any point in the Outlining process, you can also Add individual chapter summaries. This can be helpful if you want to insert a chapter after-the-fact or extend your Outline. Click the **\+ Add Chapter** button in the section header to create a new blank chapter summary field—then just drag it into place. Alternatively, you can just hover _between_ the chapters where you’d like to insert the new chapter summary and an + Add button will appear.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d1f04f5d5e47043fcfc/019be199-09ab-7bb3-a255-11e5d39065af/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=552398d136aaeef48019a202d6f3795b696fc986adab56dd0db0b29397c42a38)
-
-Your chapters can be named anything you’d like—“Chapter 1, Epilogue, Scene” etc.
-
-You’ll also notice that **Acts** are created when generating an Outline. You can create these from the **\+ Add Act** button in the Outline section header as well. Acts are like dividers that can be dragged to any point in the Outline to help you organize your outline and visualize the story at a high level. The can be named anything—“Part, Book, Episode, Section” etc.—whatever fits your work (and you don’t need them at all for the Outline to work).
-
-You can delete Chapters or Acts using their respective More menu (•••). If you delete a chapter and want to get it back, you can do that through the Outline History menu (the little Clock icon) in the Outline section header’s More menu (•••).
-
-### Drafting Your Chapters
-
-When you’re ready to start writing a chapter, hover over a chapter summary and click the **Start Chapter** button (which appears as a plus document icon) next to that chapter’s More menu (•••). This will create a “linked document”—a document linked to this chapter summary in your Outline, which allows Write, Draft, and other features to know what to write. Any time you click a chapter summary’s More menu (•••) in your Outline, you’ll see a list of all the documents that have been linked to this chapter summary.
-
-### Keeping Your Outline Updated
-
-As you write your book, you’ll probably make changes to your chapters that stray from the original Outline you’d written or generated. You can easily update the linked chapter summary in your Outline with one click by selecting “Update” from the More menu (•••).
-
-
----
-
-### Scenes & Chapter Prose
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 2475330-scenes-and-chapter-prose
-**ID:** 2475330
-**Last Updated:** 2026-01-21T17:42:46.519Z
-
-### Generating Chapter Prose
-
-When using Story Bible sequentially—that is, gradually developing your story from the ground up by completing those fields—the final step of the process will be generating chapter prose using the **Draft** tool. Draft is represented by the little typewriter icon in top right corner of your text editor in Sudowrite.
-
-Draft looks at your Style, Genre, Characters, Worldbuilding, and **Scenes** to write a first draft of that chapter for you. But before you can get help from Sudowrite generating that chapter’s prose, you first need to either write or generate those Scenes.
-
-### What are Scenes?
-
-**Scenes** are the building blocks of chapters in Sudowrite’s Draft tool. They represent distinct moments in your story—each one typically encompassing a single location, timeframe, or character context. A chapter may have one scene, or several.
-
-Scenes let you guide Sudowrite to write your chapter exactly the way you imagine it. Whether you're describing a heated conversation in a cabin, a chase through city streets, or a quiet reflection on a rooftop, each Scene is a self-contained unit of storytelling. This format should feel familiar and intuitive for anyone who has ever read a book or watched a movie—a scene is something happening to someone (or _someones_) somewhere—and it allows Sudowrite to generate focused prose that closely follows your structure and creative vision.
-
-Think of Scenes as the natural atomic units of storytelling—aligned with how writers already plan and think about narrative flow.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d37b929a1bb6c0a2689/019be1a5-4efe-7d6d-ad55-bf186ee744b7/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=22c1f8a0282bbef1ed4480ca561bb819eaa12420b5b85d9381b92802662d1069)
-
-### **How do I generate chapter prose from Scenes?**
-
-Scenes are the precursor step to prose generation in Sudowrite. Here’s how they work step-by-step:
-
-**1\. Write or Generate Scenes**
-
-The top box of the Draft tool is labeled **Scenes**. This is where you list the key narrative moments you want your chapter to contain. Each Scene appears as a numbered item in a list, and may be as short or as long as you like. You can:
-
--   **Write your own** **Scenes** manually.
-    
--   Or click **Generate Scenes** to have Sudowrite generate a list based on your linked Outline’s chapter summary.
-    
-
-Scenes utilize a feature called Story Bible Detection, which lets you know when something or someone mentioned in a Scene is recognized from your Story Bible. Detected Characters and Worldbuilding elements will appear underlined, whether you generated those Scenes or wrote them yourself.
-
-💡**How to define chapter length in Draft**
-
-There’s no way to specify how long you want your drafted chapter to be. Instead, the length of the chapter prose that Sudowrite generates is a function of how many Scenes you’ve included—more scenes means a longer chapter. If you want to reduce the length of the prose that Draft generates, just reduce the number of scenes—you can consolidate all of your scenes into a single numbered bullet and Sudowrite will still accurately generate.
-
-**2\. Optionally add Extra Instructions**
-
-The Draft box includes an **Extra Instructions** field below your Scenes. This is where you can optionally include specific notes that Sudowrite should consider when writing chapter, including:
-
--   Style or tone reinforcement (e.g., “dreamlike,” “sparse and fast-paced”)
-    
--   Specific plot notes (e.g., “End on a cliffhanger”)
-    
-
-These instructions can reiterate other parts of your Story Bible, and help Sudowrite better match your unique storytelling voice and intent.
-
-💡Sudowrite will generate chapter prose using the default model, Muse, unless you say otherwise. Click the dropdown arrow to the right of the Generate button to toggle between Prose Modes and AI models as desired. Make sure to do so before you click Generate!
-
-**3\. Incorporate helpful feedback**
-
-With those fields complete, you can click Generate to have Sudowrite automatically analyze your Scenes to make sure they’re clear and well-structured. If a Scene looks too short, too sprawling—such as covering too many events, characters, or locations—or something else, you’ll see a friendly suggestion with a proposed fix. You can:
-
--   **Accept** the Quick Fix (like splitting a Scene or clarifying it)
-    
--   Or **ignore the suggestion** altogether and proceed with your current Scenes as-is
-    
-
-This first stage “check” also creates a word count and credit estimate, so you can know what to expect when you do proceed.
-
-4.  **Generate your chapter**
-    
-
-Once you’re happy with your Scenes and the estimates provided, just click **Generate**. Sudowrite will write your chapter in prose, closely following your structure and tone.
-
-Each Scene is transformed into part of a seamless, compelling chapter draft that should closely match your vision for the story. You can watch the prose magically appear in the document below—and you can always pause the generation if you notice the AI is taking one too many creative liberties.
-
-
----
-
-### Style
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 8450925-style
-**ID:** 8450925
-**Last Updated:** 2026-01-21T17:14:57.469Z
-
-Style affects the tone, word choice, and sentence structure that Sudowrite uses anywhere the Style is included. What you put here has the most significant style influence on Prose written with Draft or the Write button.
-
-✏️ **Examples**
-
--   _Lush prose_
-    
--   _Spare and haunting. Written in short sentences with lots of menacing dialogue._
-    
--   _Whimsical and dense_
-    
--   _Action-packed and violent_ </aside>
-    
-
-✨ **Pro-tip!** While not _necessary_, Sudowrite experts recommend tweaking both your Genre and Style boxes in advance of generating a particular chapter, so that you can really dial-in a specific tone. Style in particular has a big impact on prose.
-
-Style is filled in manually—or by using the Match My Style feature—and is not informed by any other Story Bible fields. Style directly influences both Beat and Chapter generation.
-
-
----
-
-### Synopsis
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 0063553-synopsis
-**ID:** 0063553
-**Last Updated:** 2026-01-21T17:16:52.590Z
-
-Synopsis establishes the characters, their goals, the central conflict, how your story begins and how it ends. It also conveys your story's tone, themes, and unique elements.
-
-**To tell Story Bible to create your Synopsis, just click the Generate button.**
-
-If your Braindump is missing crucial elements, Story Bible will have to get more creative in order to fill in the blanks in your Synopsis. So be sure to include anything of vital importance to your story in the Braindump!
-
-### Improving your Synopsis
-
-Once Story Bible has generated your Synopsis, you’ll likely want to make changes. These changes can be small, like changing a character name or setting, or big, like restructuring the entire ending. As with Braindump, it’s good to provide as much detail as you can in your Synopsis, because the AI will use this information later on in other sections.
-
-There are two ways to make these changes:
-
-1.  **Make changes manually.**
-    
-
-Do this by editing the text of your Synopsis directly in the text box.
-
-1.  **Use AI to rewrite your Synopsis.**
-    
-
-When your cursor is in the Synopsis field, you’ll see a “Rewrite” button below the text. Click it to offer the AI some instructions on rewriting your Synopsis, the same way you might give a junior writer feedback.
-
-Once you’ve typed the changes you want made, just click the **Go** button.
-
-🕓 **QUICK TIP**
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cb45b069893d4fb8adc/019be18e-847d-7e21-b126-5c4f01a16159/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a675909a50567403f0107c07ae6f737c537aba7066797523d561baf907e6bbc0)
-
-✏️ **Rewrite Examples**
-
--   _Add more tension in the beginning of the story_
-    
--   _Make the antagonist more likable_
-    
--   _Change the ending to be sad_ </aside>
-    
-
-The generation of Synopsis is informed by both Braindump and Genre. The Synopsis influences the generation of Characters, Worldbuilding, Outline, and Scenes. As mentioned previously, in the event the Synopsis field is empty, the fields that rely on Synopsis would instead defer to the Braindump.
-
-
----
-
-### Tips & Tricks
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 0933902-tips-and-tricks
-**ID:** 0933902
-**Last Updated:** 2026-01-21T17:59:59.530Z
-
-# Tips, Tricks, and Troubleshooting
-
-## Three Steps to Awesome Prose
-
-1️⃣ **Make it your own**
-
-Modify the outputs you get from Story Bible to make them your own and express your unique voice. You’ll probably spot a few things in each section that don’t track with your vision. Take every chance to express your own ideas and you’ll be surprised how much Story Bible will begin to channel your sensibilities!
-
-2️⃣ **Keep it up to date**
-
-As you progress through Story Bible, details about your story will likely change. For example, your characters may evolve, the setting might shift, or you might change the ending. Keeping all of the Story Bible sections up to date will make sure that Sudowrite doesn’t get confused as things change.
-
-3️⃣ **You decide what’s important**
-
-One of the creative choices you make in writing with Story Bible is deciding what information you emphasize to your junior writing partner. You might value Characters most and focus on characterization and arc. Or you might prioritize setting, or dialogue. Experiment with different emphases in your Scenes, Style, and elsewhere and see what works best for you.
-
-> Accelerate your learning - **join the Discord community!** Get the latest tips and tricks from seasoned Story Bible experts, share what you learn, and be part of a supportive writing community. [**Click here to join.**](https://discord.gg/z9b3N4gyUM)
-
-## The Three Horsemen of Bad Prose
-
-❌ **Vagueness**
-
-Replace any vagueness with specific ideas. Otherwise, Story Bible will fill in the gaps—that's an opportunity for it to either delight or disappoint you; It won't always delight you!
-
-Generate stronger prose through **specificity**.
-
-❌ **Conflicting information**
-
-If Sudowrite sees conflicting information or instructions across sections of your Story Bible or documents, it may get confused and write something that doesn’t make sense. To avoid this, **make sure all your sections are consistent and delete anything out of date.**
-
-✏️ **Example**
-
-Story Bible looks at prior sections to generate the current section. For example, Prose Generation looks at Style, Characters, and Scenes, so if you define a character as _”dreams to become a baker one day”_ but you have a Scene that says _”decides to quit being a baker”_, Story Bible might be confused.
-
-Which is it? Does this character want to be a baker or not!?
-
-To fix the inconsistency, update the character descriptions to reflect your character at the point of time in the story you’re currently writing.
-
-In short, generate stronger prose through **consistency**.
-
-❌ **Confusing wording**
-
-Sometimes we write something down that’s obvious to _us_ but might be confusing to AI. When this happens, Story Bible might write something that is actually reasonable if you read carefully, but appears totally ridiculous on first blush. Try to **be precise in your wording and look for ambiguities** in each section to avoid this
-
-✏️ **Example**
-
-You have a Scene that includes:
-
-_"Joey tries to tell Suzie that there’s nothing wrong, but Suzie knows what he did"._
-
-To you this may be obvious. After all, in Chapter 2, Joey accidentally ran over the neighbor’s dog and buried it in the woods, but when drafting Prose, Story Bible only looks at Style, Characters, and Scenes, so it doesn’t know what happened in Chapter 2 unless you choose to link prior documents. In this case, Story Bible doesn’t know what _”what he did”_ refers to.
-
-To fix this, you could be more precise and write:
-
-_”Suzie knows that he killed and buried the neighbor’s dog secretly”_ as part of the Scene.
-
-In short, generate stronger prose through **clarity**.
-
-There’s almost always a rational explanation for any mistake Story Bible makes. As Sherlock Holmes says in _The Hound of the Baskervilles_, “The world is full of obvious things which nobody by any chance ever observes.”
-
-Channel your inner Sherlock, and you’ll get back on track in no time.
-
-
----
-
-### What is Story Bible
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 1671191-what-is-story-bible
-**ID:** 1671191
-**Last Updated:** 2026-01-21T17:10:50.385Z
-
-Story Bible gathers the core elements of your story in one place so that you and Sudowrite’s AI can reference them as you develop your work. As a feature, it has two purposes:
-
-1.  **Keeps you organized:** Story Bible gives you a way to develop your narrative, beginning with something as simple as a Braindump. If you step through it sequentially you’ll create all the core components of your story, including (eventually) Scenes and even Chapter Prose.
-    
-2.  **Keep the AI on track:** Story Bible works as a source of truth that both you and the AI can refer back to later. Even if you don’t want to use it to generate your story, it’s a great place to park anything you know for sure about your narrative.
-    
-
-Each project on Sudowrite has its own Story Bible, and it can be toggled on or off depending on just how you like to work.
-
-# Overview
-
-Working with Story Bible lets you build a long-form narrative from just the seed of an idea. You’ll be guided through the various stages of writing a novel, from synopsis to outline to fully-realized scenes.
-
-Like any other Sudowrite tool, the resulting story is only as good as the writer directing it. Think of it like an improv act: pay attention to what Story Bible writes, then edit and respond with words that are true to your vision. In the end, you will have a first draft of scenes that you can develop further.
-
-You’ll find your Story Bible in the left bar of your Project, beneath your document list.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c7f628c454516ad35e2/019be187-fedb-725b-bb70-37bee4f3d785/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f7e010dedc030260713c6cd9680032498886bd95e915820510f82c6bac2363f1)
-
-## How to move through Story Bible
-
-Story Bible works a little differently from other parts of Sudowrite. Here are the basics:
-
--   When Story Bible is toggled on, the individual Story Bible fields will be displayed beneath the prose section of your document.
-    
--   Story Bible is persistent—that means as you jump from document to document in your left Project management bar, the same Story Bible contents will remain visible _beneath_ the prose section. (Only the document’s body will be toggled.)
-    
--   Click into a field for details and examples of how exactly a given section of the Story Bible works. This will reveal context on what it influences down the line in regards to generation.
-    
--   Any section can be manually populated to any degree—but some sections also feature a **Generate** button. Click the **Generate** button and Story Bible will make a suggestion for that section. You can always revise or rewrite these generations to your liking.
-    
--   As an alternative to manually editing the generation, whenever you see a **Rewrite** button in a field, you can use that to give Story Bible specific instructions on how you’d like _it_ to modify the generation you’d produced.
-    
-
-## How are the Story Bible fields connected?
-
-A common question when it comes to Story Bible is: Which boxes or steps of Story Bible influence _other_ steps of the process. It’s a little complicated, but here’s an explanation. (Don’t worry, you won’t be quizzed on this, and you don’t need to remember it to get great results!)
-
-**Braindump:**
-
-This is the starting point of Story Bible, where you’ll capture your initial ideas for the story. It’s filled in manually, and since it can’t be generated it is not influenced by any of the other fields.
-
-Braindump directly influences the generation of Synopsis. Otherwise, if the Synopsis is never filled in or generated, fields that are typically influenced by Synopsis will defer instead to the Braindump.
-
-**Genre:**
-
-Genre is filled in manually, and thus is not informed by any other Story Bible fields.
-
-Meanwhile, the Genre influences Synopsis, Outline, Scenes, and Prose Generation in Draft.
-
-**Style:**
-
-Style is filled in manually—or by using the Match My Style feature—and is not informed by any other Story Bible fields.
-
-Style directly influences both Beat and Prose Generation in Draft.
-
-**Synopsis:**
-
-The generation of Synopsis is informed by both Braindump and Genre.
-
-The Synopsis influences the generation of Characters, Worldbuilding, Outline, and Scenes.
-
-As mentioned previously, in the event the Synopsis field is empty, the fields that rely on Synopsis would instead defer to the Braindump.
-
-**Characters:**
-
-Characters are generated based on the Synopsis.
-
-Meanwhile, Characters directly influences the generation of your story’s Outline, Scenes, and Draft.
-
-**Worldbuilding:**
-
-Worldbuilding is influenced by the Synopsis, when generating random Worldbuilding elements.
-
-Meanwhile, Worldbuilding directly informs your story’s Outline, Scenes, and Prose Generation in Draft.
-
-**Outline:**
-
-Outline is influenced by Genre, Synopsis, Characters, and Worldbuilding.
-
-Meanwhile, Outline directly informs Scene generation.
-
-**Scenes:**
-
-Scene generation considers the most Story Bible context, taking into account Genre, Style, Synopsis, Outline, Characters, and Worldbuilding.
-
-Scenes directly influence Prose Generation in Draft.
-
-**Draft:**
-
-When generating chapter prose, the Draft tool is informed by Style, Genre, Characters, Worldbuilding, and Scenes.
-
-📌 **Note:** Scene and Prose Generation (in Draft) will only look at explicitly mentioned Characters and Worldbuilding elements.
-
-
----
-
-### Worldbuilding
-
-**Collection:** Using Sudowrite > Story Bible
-**Slug:** 0051483-worldbuilding
-**ID:** 0051483
-**Last Updated:** 2026-01-21T17:32:29.161Z
-
-## Worldbuilding
-
-The Worldbuilding section of Story Bible is the place to create and store all of the important details of your world—everything from settings, to items, to lore, and beyond. These building blocks help you stay organized, while giving the AI helpful context on your story world. Sudowrite uses the relevant context from your Worldbuilding cards when writing for you.
-
-🌐 _N.B._ Completing the Worldbuilding section is optional, and you don’t _need_ to add any Worldbuilding cards in order to use the Draft tool. That said, you’ll get better results from the AI if you give it the additional context of frequently-referenced elements—for example, describing a core setting.
-
-> When generating Worldbuilding elements, the Worldbuilding section is influenced by the Synopsis. Meanwhile, Worldbuilding directly informs your story’s Outline, Scenes, and Prose Generation (in Draft).
-
-The Worldbuilding section is very open-ended. It provides a wide range of templates. No matter what you select, your Worldbuilding entry will be tracked on a collapsible, customizable card.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-6ac0-7e03-b35c-a321bf878c72/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e0bd6de7b17109d8d4fac5f1665e6162f018333342380dd2dd193d112b4fd803)
-
-### Worldbuilding Cards
-
-**Each individual Worldbuilding entry gets a card of its own in the Worldbuilding section of your Story Bible.**
-
-Cards are how you keep track of each entry, meaning that **a card may represent a clue, magic system, setting, or something else altogether**. You can select from the card templates available, or create an entirely custom entry using **\+ Custom** when creating a card (or in the trait customization).
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-c76e-7a8a-b1d5-bc96e0e5dc07/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f6e0b1613e93e0af790111ae1d000c7050b26205b3c44aaa038e57baba940c76)
-
-As with Characters, Worldbuilding entry cards can be collapsed using the arrow next to the element name, and dragged to your preferred order with the six-dot handle in the upper left.
-
-The dropdown next to the card Title allows you to toggle the Worldbuilding entry Type from the available options. You can see previous versions of that card in the card history—accessed from the clock icon up top—and you can delete a Worldbuilding card using the three dots on the right.
-
-### Creating Worldbuilding Entries
-
-You can create Worldbuilding entries with or without the AI’s help. If you click the purple **\+ Add Element** button, you’ll be able to select from **Blank Element**, **Generate Element**, or **Surprise Me**.
-
-If you’d like to manually complete the card, just select Blank Element. Choose what type of Worldbuilding element you’re creating a card for, and then fill in the associated trait fields. Generate Element will let the AI do all the work—you just give a brief description of what it is you’re looking for and Sudowrite will get to work. This is a great option if you already have notes available, and you want the AI to structure and flesh out those notes. Surprise Me will instantly generate a random element that fits the vibe of your story, based on an analysis of the story you’re trying to tell and what you’ve already got documented.
-
-### Worldbuilding Traits & Trait Customization
-
-Each type of Worldbuilding element has a slightly different set of default traits for you (or the AI) to complete. For example, the **Clue** template includes a _Implications_ trait, whereas the **Item** template includes a _Who owns this item_ trait. These traits offer a helpful starting point, but you can add to or change them as desired.
-
-Individual traits can be added at the card level—say for example if you have a specific setting that needs to include HOA details—by clicking **\+ Add Trait** at the bottom of that card. Title the trait, and fill it it as desired.
-
-If you’d prefer to add something that should exist across all Setting cards you create, you’ll want to update the Default Traits for all Setting elements by clicking the **More menu (•••)** in the Worldbuilding section header and choosing **Customize Traits**. The process is the same for all the element templates—just select a different element from the drop down.
-
-As with Characters, traits are there both for _your_ reference, _and_ that of the AI. **Traits inform how the AI will write about an entry when it is referenced (either directly, or using one of the defined “Other Names”).** This is good to keep in mind when you’re titling and populating traits. A general rule is that if a junior writer or copy editor could make sense of your traits, the AI should be able to handle it well.
-
-### Generating Traits
-
-After adding new default traits to pre-existing Character cards or Worldbuilding elements, you may wind up with a bunch of empty trait fields. Traits can always be filled in manually, but sometimes you want the AI’s help with that, so you have the ability to generate traits individually as well.
-
-**When a trait field is empty, just put your cursor inside of the field and click _Generate_.** You’ll have the option to provide custom instructions, but you can also just click _Go_. The AI will then populate that trait field with something contextually appropriate. The AI takes the rest of your Worldbuilding elements, and Story Bible context into consideration when generating those traits individually. You also have the option to Rewrite trait fields that you’re not satisfied with. Just **click Rewrite from within the trait field**, provide custom instructions (if desired), and click Go. The AI looks at the current version of the trait, then rewrites it either according to provide instructions or (if blank) its own intuition and context.
-
-
 ---
 
 ## Story Smarts
-
-### Chapter Continuity
-
-**Collection:** Using Sudowrite > Story Smarts
-**Slug:** 8989228-chapter-continuity
-**ID:** 8989228
-**Last Updated:** 2026-01-21T17:49:15.764Z
-
-**Chapter Continuity is a feature that allows you to sequence your documents**, telling Sudowrite which chapter came before which. By linking chapters together, you enable Sudowrite’s AI to treat those separate documents as one continuous story—allowing tools like **Write** and **Draft** to draw on prior context and create smoother transitions, clearer character arcs, and more consistent narratives throughout your work.
-
-## What Chapter Continuity Does
-
-When you define preceding documents in the document linking tool, those documents will be included as additional context for the AI when using certain AI features. Our AI tools—especially Write and Draft—work best when they can draw on previous events, tone, and story structure. Linking your documents ensures that context from earlier chapters helps shape what comes next.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1a8-64a5-7768-873d-c9fd39de4261/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=33d8b553d2f9c57a0c74a295d4e3b5e3c2d73d455f53f27c0c2bfbbbfc0d3955)
-
-## How to Link Chapters
-
-To create a link between two documents, click the **More menu (•••)** that appears next to the document title in your project’s text editor. The Document Linking Menu will appear with two questions:
-
--   Is this document in your Outline?
-    
--   Does this document continue another one?
-    
-
-Linking the document to your Outline tells Sudowrite which chapter _this_ document is supposed to be. That context will be used by tools like Write, Draft, Quick Edit, and Chat. Meanwhile, you can select **Connect it** and choose the prior chapter from the dropdown that appears to tell Sudowrite which document precedes this one.
-
-Once you’ve made these selections, the relationships are saved and will remain visible in the Document Linking Menu. You can change or remove this connection—by selecting Disconnect from the dropdown—at any time.
-
-You can continue a document from any other document in your project, whether or not those documents are linked to your Story Bible’s Outline. That said, linking documents _and_ Outline chapter summaries will give Sudowrite even richer context.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1a8-bd66-7328-948b-03192b92374c/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=097402e16d35101903d340a4c923ba2803c55088818a98faf7f2db9e807e166e)
-
-## Automatic Linking from the Outline
-
-If you’re generating new chapters from your Outline, Sudowrite will automatically attempt to link them in sequence. For example, if you create Chapter 2 (from either the left bar’s **\+ New** menu or your Story Bible’s Outline) and there’s already a linked Chapter 1 in the project, Chapter 2 will be created with the Outline’s chapter summary linked and Chapter 1 set as the preceding document. If you skip creating some chapters in the middle—for example, you jump ahead to Chapter 5—Sudowrite will look back for the most recent connected chapter and link to that.
-
-These automatic links are there for your convenience, but you can always change the selections or disconnect a document altogether. This is especially useful for stories with alternating points of view, nonlinear timelines, or other custom structures. It’s also helpful to know that creating a Blank document from the + New menu will create a document without this automatic linking—there will no linked Outline or preceding chapter by default (but you can still make those selections later, if desired).
-
-## Chapter Continuity in Write
-
-When you click the **Write** button in a document that’s linked to a previous one, Sudowrite pulls in up to **20,000 words** of text total from that linked document. If you have several documents connected in series, Write will look at up to **25 previous documents**, starting from the most recent and moving backward until it hits either the word or document limit.
-
-🔗 **For example**, If I’m using the Write button in Chapter 5, and I’ve updated the “Continues from…” setting in each preceding document, the Write button will read Chapter 4, 3, 2, and 1 before it generates. If I had an epic 30,000 word Chapter 4 (for some reason) Write would only read back 20,000 words into Chapter 4.
-
-Write also pulls in up to 20,000 words from the current document—again, starting at the end (or, the cursor position where you’re using the Write feature) and working backward.
-
-This allows Write to stay grounded in the events, characters, and voice of your earlier chapters, with a bias towards the more recent/relevant developments when there’s too much context. Your Write card will include a set of **chiclets** that shows which documents were included, and how many words of each.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1aa-8418-713a-b8cf-25600d08bdb3/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b18c7b14eff638381c3865d2012484a2151c6e0195a4441348cb9c47b4351827)
-
-## Chapter Continuity in Draft
-
-The **Draft** tool also takes full advantage of Chapter Continuity, both when generating Scenes and when writing chapter prose. If your document is linked to a previous chapter, Draft will look backwards through up to 25 documents and incorporate up to 20,000 words of prior content, as with Write. This helps Draft maintain story cohesion, character arcs, and narrative consistency. It also helps the AI make more logical choices in places where it may not have sufficient guidance from you.
-
-As with Write, the most recent documents in the established sequence will be prioritized. In projects with very large chapters or complex continuity chains, some scene-specific context may be crowded out—especially if the AI needs to make room for long chapters. You can always verify what was included in the chiclets of the Draft card created in your History column.
-
-☝It’s possible for the AI to “max out” on the context you’re trying to show it. Rather than fail, in those cases the AI will proceed by excluding context in the following sequence.
-
-Excluded in order from top to bottom
-
-Worldbuilding
-
-Characters
-
-Previous Chapter Text
-
-Linked Outline Summary
-
-Genre
-
-Key Details
-
-Tone
-
-Style
-
-Preceding Text from the current document
-
-Highlighted Text.
-
-Write always includes as much as possible—partial inputs from these bits of context may still be passed to the AI when the full ones don’t fit.
-
-## Chapter Continuity Best Practices
-
-Use Chapter Continuity to keep your longform work coherent, but don’t feel constrained by it. Manual linking gives you full control and works well for flexible story structures. Automatic linking is helpful for straightforward chapter sequences based on your Outline, but it’s always editable.
-
-If your Write or Draft results seem off—missing key characters or important events—check the chiclets to see what context was included. Trimming your current document or adjusting linked content can improve performance.
-
-
----
-
-### Saliency Engine
-
-**Collection:** Using Sudowrite > Story Smarts
-**Slug:** 6295151-saliency-engine
-**ID:** 6295151
-**Last Updated:** 2026-01-21T17:38:58.552Z
-
-## Saliency Engine
-
-The first thing to know about Saliency Engine is that you won’t find a button or field for it anywhere in Sudowrite. **It’s running behind the scenes to help the AI stay focused on what’s relevant.**
-
-You may have hundreds of Characters or Worldbuilding Elements in your Story Bible, but it’s rare that all of those will be relevant when you want to generate the prose for a specific beat. Saliency Engine reviews the task at hand, as well as all of the story information you’ve provided, in order to expose the most relevant information to the AI for prose generation purposes.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-0f3c-7f76-8893-1db9644a8349/b64u-aW1hZ2UuZ2lm.gif?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=54c9ef274ca41a1ade8d7d3ce0e66542872fdcabd63905d7701a4f187d5060b6)
-
-Saliency Engine will **make sense of mountains of story context** in an instant, keeping anything you generate on track. That means, for example, if your shifter is in wolf form, the AI _won't_ reference the pleated khakis they might typically wear to work.
-
-### Which features does Saliency Engine work with?
-
-Right now **Saliency Engine works in three places**: your Story Bible, the Write button (when your Story Bible is enabled), and Plugins. In each case, Saliency Engine will do a first pass to identify information relevant to the writing task at hand before passing those details on to the AI in order to generate text.
-
-### Do I have any control over Saliency Engine?
-
-Sometimes, you want to keep the AI in the dark about your Characters or Worldbuilding elements. For that, we’ve introduced **visibility settings** at both the card and trait level.
-
-If you’ve added a character that doesn’t appear until later in your story, and you’d like to make sure the AI ignores that character until then, you can hide them from Sudowrite. Just hover over the Character card and click on the eyeball icon that appears to toggle off the AI visibility.
-
-**When the visibility of a Character, Worldbuilding element, or trait is toggled off, Sudowrite’s AI will ignore it altogether.**
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-a1fc-754d-a803-34a7c5f12215/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a97eb17cb41e3113332809598c7492fd9e00e12750111b8b7ca73328ade78786)
-
-Alternatively, lets say you want to include a Motive trait on the Character card for the murderer in your mystery. Saliency Engine _may_ consider a motive relevant to a scene, leading to an AI generation that spills the beans prematurely. To hide the Motive from Sudowrite, toggle the visibility setting within the Motive trait field from the eyeball icon in the upper right.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-f8f0-76db-ba79-806c3b65a516/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7458e57228b6b82704cf3cb7c0ba3b85b76e63f6bd58c9cd17006740e81cb210)
-
-Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.
-
-All Character and Worldbuilding cards and their traits are visible to the AI by default. That means, unless you say otherwise, Sudowrite’s Saliency Engine will decide whether or not those bits of story context are relevant to the task at hand.
-
-You can toggle the visibility settings as often as necessary.
-
-⚠️Remember that hiding a Character, Worldbuilding element, or trait from Sudowrite will hide it from all AI features. That means features like Chat, Write, and even Plugins will think it doesn’t exist (because they can’t see it).
-
-### How Does Saliency Engine Work With Plugins?
-
-Some plugins are designed to use your Story Bible data. In those cases, Saliency Engine may or may not be used, depending entirely on how the creator built that plugin.
-
--   If the creator chose to use the `{{ characters }}` or `{{ worldbuilding }}` variables, the Saliency Engine will kick in when necessary.
-    
--   If the creator chose to use the `{{ characters_raw }}` or `{{ worldbuilding_raw }}` variables, the full context of those fields will be passed along into the AI in their entirety. The Saliency Engine will make no attempt to parse the data for relevant context.
-    
-    -   Note: In most cases, the `*_*raw` version will give the AI _way_ more context. This can either degrade or improve the results, depending on both the plugin configuration and the context passed through as a result… but it will almost always make the Plugin use more credits.
-        
-    -   **Hidden characters or traits will never be visible to the AI**, even if a Plugin is using the a `_raw` variable.
-        
-
-🚧 **Be Advised:** Credit cost is always calculated based on input, output, and the model selected. If a user with hundreds of Characters or Worldbuilding Elements uses a Plugin that includes the `_raw` version of a variable, a great deal of context will be passed through to the AI. **This could consume a ton of credits!**
-
-All Plugins that predate the Saliency Engine use the standard `{{ characters }}` variable, and so will use Saliency Engine by default.
-
-
----
-
-### Setting POV and Tense
-
-**Collection:** Using Sudowrite > Story Smarts
-**Slug:** 4257043-setting-pov-and-tense
-**ID:** 4257043
-**Last Updated:** 2026-01-21T17:53:40.192Z
-
-## **Point of View and Tense Settings**
-
-Defining the Point of View and Tense of your story helps make sure that assistance from the AI is always on point. Sudowrite now has settings that provide explicit control over both the POV and Tense used by the AI while generating prose.
-
-**The POV and Tense settings are located in Outline section of Story Bible.** They also appear in (and can be changed from) the Draft tool when opened.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ad-d6b0-7dbd-9363-4c2a226f9cc5/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=11d5859c35dd2aa05e57a3b1b8d55ec6a4b3d1835c56c3479333cb3c8b2ae483)
-
-These settings tell the AI how it should write in the Draft tool, Write button (both Auto and Guided), and Expand, helping to ensure consistency in narrative voice and tense. You have the option of setting a global POV and Tense for your entire novel, or defining them on a per-chapter basis.
-
-## **Default Settings**
-
-When creating a **new project**, the POV and Tense is initially set to third-person limited, past tense. If you generate (or write!) a Synopsis in Story Bible, Sudowrite’s AI will intelligently choose the correct POV and Tense for your story. (For instance, a synopsis for a romance novel will likely prompt the AI to select either first-person or third-person limited POV and past tense since those are the POV and tense commonly used for romance novels.)
-
-If you disagree with an AI-defined POV and Tense you can just change it. Once you’ve manually set a POV and Tense, it will remain what you set.
-
-**Note:** Importing a file using Novel Import or directly into a project will set the POV and Tense settings to their defaults (3rd person limited, past tense).
-
-☝You can change your POV and tense settings for a project at any time! (Sudowrite won’t attempt to guess your POV/tense once you’ve set one.)
-
-## Point of View (POV) Options
-
-**3rd Person Limited POV** (most common) - Stays close to only one character’s thoughts.
-
-**3rd Person Objective POV** - Writes what a camera would see. No thoughts, just action.
-
-**3rd Person Omniscient POV** - Reveals every character’s thoughts.
-
-**1st Person POV** - Tells the story through the narrator’s eyes.
-
-**2nd Person POV** - Makes “you” the main character.
-
-## Tense Options
-
-**Past Tense** - Creates a feeling of narrative storytelling, with a small distance between the reader and the characters.
-
-**Present Tense** - Creates a more action-packed, dynamic tone. Commonly paired with first-person POV.
-
-**Future Tense** - An unusual choice, useful when you want to create contrast, such as in a prophecy or fable.
-
-## Character POV
-
-If you want your story to be written in first person from your protagonist’s perspective, you can select that character from the Characters section of the POV dropdown menu. All named characters from the Characters section of your project’s Story Bible will automatically appear there.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ae-bbb7-7b64-9d00-ac108fea7d68/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=441c9534f3ffa80f5c9cd39a2c2202b1aef0178743161fcc6c9f4baed5f27a25)
-
-You can actually assign more than one character to a chosen narrative perspective. When a single character is selected, the AI will write with _that_ character’s perspective in mind. If multiple characters are selected, the AI will use the context of the scene (Draft) or the highlighted or previous text (Write and Expand buttons) to determine the most appropriate character to use.
-
-## POV & Tense Modes
-
-You have two options when it comes to setting your POV and Tense.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ae-fa54-785b-a056-38b6c1b922aa/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=509d0f33339ece1daa2b90a2c8d04fb3c4ad496c046100a29a69b279f22701fd)
-
-**Same for all chapters (Default):** A single POV and tense setting are applied to the entire novel, ensuring a consistent narrative voice throughout.
-
-**Customize per chapter:** By choosing “Customize” in the _Apply to_ menu, you can customize the POV and tense for each chapter. This is ideal for stories with alternating perspectives or timelines. If you toggle back to “Same for all chapters,” the per-chapter settings are removed and the global settings are reapplied.
-
-Choose your preferred mode in the **Outline section of the Story Bible.**
-
-## **Draft Box Settings**
-
-When you link a document to a chapter in your Outline (or create a linked chapter from it), the POV and Tense settings from the linked Outline’s chapter are automatically synced to the Draft box.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1af-9763-799f-b3f1-e40d22d0abc9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ff125c223940f3ea978fa671077b1c4985d8f3a2c09a3c1388183249f0bbe21a)
-
-Any changes made to the POV or Tense within the Draft section will be automatically synchronized with the corresponding chapter's settings in the Outline, and vice versa. This ensures that your entire project remains consistent.
-
-For a completely new and unlinked document within the Draft section, the system defaults to a third-person limited POV and past tense.
-
-## **Where POV and Tense Works**
-
-The settings you choose for POV and Tense tell the AI how to generate prose in the Draft tool. They also influence the Write button’s Auto and Guided modes, and Expand.
-
-**Note:** Plugins can’t currently see these new POV and Tense settings. If you currently use Plugins that rely on a POV and Tense in your Style box, it may be preferable to keep the redundant instruction in your Style box for now. Just be sure they’re consistent with what you’ve set in the selector.
-
-
----
-
-### Sudowrite Muse
-
-**Collection:** Using Sudowrite > Story Smarts
-**Slug:** 6183030-sudowrite-muse
-**ID:** 6183030
-**Last Updated:** 2026-01-21T16:45:39.096Z
-
-# What sets Muse apart?
-
-1.  Basic AI writes boring emails. **Muse is just for fiction.** Focusing Muse entirely on fiction allows it to reach a higher level of quality compared to models which are meant to do it everything.
-    
-2.  Basic AI spews clichés. **Muse writes unique prose every single time.** We specifically measure AI clichés during training and have systematically removed them from Muse’s output.
-    
-3.  Basic AI loves happy endings. **Muse will write anything – no filters.** Muse is the most unfiltered model on Sudowrite, and embraces the full range of human experience, including violence, and adult themes.
-    
-
-You can learn more on the [Muse Webpage](http://sudowrite.com/muse).
-
-# How to use Muse
-
-Muse is the default AI model in Draft and Write. It also powers Expand.
-
-This is what the model selector window looks like. Click “Use Muse” to select it. You will notice that this is where the Creativity setting and Style Examples live.
-
-### Here’s how to select Muse in Draft
-
-Open the Draft tool in the text editor’s top toolbar and scroll to the bottom. Click on the dropdown arrow to the right of Generate, and select Muse from the Prose Mode selector that appears.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be170-7838-71f5-974a-8743f04c5de8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9986e1a016b89f098c4f587a772324678f460f4341569c44babd8238d892277b)
-
-### Here’s how to select Muse in Write
-
-Click the dropdown arrow next to the Write button in your toolbar and select Write Settings from the list that appears. In your Write Settings, select Prose Mode and choose Muse from the available options.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-08f0-7bbb-907c-6b17c60a93a6/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=33841896ba471e9cb2390d16fa21cef8009d5a35ff0ff3ff75c23aea75206054)
-
-## Creativity
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-884e-7f61-9c99-d1203c0d1eab/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=71719ed1ad48e64c1ab99f4eba7d54b034008503064a1334006d8ffff787401c)
-
-Sudowrite Muse is different from other Prose Modes and models in that it also has a Creativity setting in the **Draft** tool\*\*.\*\*
-
--   Use more creativity if you want creative wording, and are willing to let the AI be creative with how the scenes unfold.
-    
--   Use less creativity if you know exactly what you want to happen and don’t want the AI to take creative liberties.
-    
--   Creativity has a special setting - _11._ This mode works quite differently from the rest
-    
-
-Creativity is document-by-document, in case different chapter different settings for best results.
-
-## Style Examples
-
-Style Examples are an optional tool in **Draft**—exclusive to Muse and Excellent—that makes Muse write more like you. You can enter up to 1,000 words of examples.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-de78-7cf8-9d34-369ddfd03567/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=399a086ed93a02a03dcba0f51b41daa6e1378db3cf7ebedd093ada80fe0fa593)
-
-For best results, if you include multiple samples from different sources, format them like this:
-
-> Example 1: “lorem ipsum”
-> 
-> Example 2: “lorem ipsum”
-> 
-> Example 3: “lorem ipsum”
-
-This helps clarify that these examples are not a continuous passage. Style Examples are consistent across your whole account (in other words, across documents and projects).
-
-### Additional Details About Muse
-
-Muse is available in Draft, Write, and Expand. It also powers Synopsis generation in the Story Bible.
-
-Muse is an unfiltered model and works best in English for now. It may generate in other languages, but it may need additional prompting to do so reliably.
-
-
----
-
-### Visibility Settings
-
-**Collection:** Using Sudowrite > Story Smarts
-**Slug:** 6550358-visibility-settings
-**ID:** 6550358
-**Last Updated:** 2025-09-03T18:33:02.782Z
-
-### **What if I want to hide something from the AI?**
-
-Sometimes, you want to keep the AI in the dark about your Characters or Worldbuilding elements. For that, we’ve introduced **visibility settings** at both the card and trait level.
-
-If you’ve added a character that doesn’t appear until later in your story, and you’d like to make sure the AI ignores that character until then, you can hide them from Sudowrite. Just hover over the Character card and click on the eyeball icon that appears to toggle off the AI visibility.
-
-**When the visibility of a Character, Worldbuilding element, or trait is toggled off, Sudowrite’s AI will ignore it altogether.**
-
-![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e09266214e17734edfa/0198aec6-2b61-748d-a749-553e39dd4a91/b64u-MDE5OGFlYzYtMmI0My03NzU4LTg1OWYtNjAwOTgyMzdhNWVl.png?X-Amz-Expires=3600&X-Amz-Date=20260115T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260115%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c68c9c36219d9a3154b6e789d30cc7e89984f6ff6c6a2ea35a1da8174340fb36)
-
-Alternatively, lets say you want to include a Motive trait on the Character card for the murderer in your mystery. Saliency Engine _may_ consider a motive relevant to a scene, leading to an AI generation that spills the beans prematurely. To hide the Motive from Sudowrite, toggle the visibility setting within the Motive trait field from the eyeball icon in the upper right.
-
-![Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e09266214e17734edfa/0198aec6-2b89-79b2-a06d-5fa25ba63eaa/b64u-MDE5OGFlYzYtMmIzZC03MmVhLWEzMGYtYTYyOWEzNzNlNjli.png?X-Amz-Expires=3600&X-Amz-Date=20260115T230000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260115%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=28ef5b5f0451179e4a35bd28abb050367e518ce60151a38ec486de8aac7bdb34)
-
-Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.
-
-All Character and Worldbuilding cards and their traits are visible to the AI by default. That means, unless you say otherwise, Sudowrite’s Saliency Engine will decide whether or not those bits of story context are relevant to the task at hand.
-
-You can toggle the visibility settings as often as necessary.
-
-> Remember that hiding a Character, Worldbuilding element, or trait from Sudowrite will hide it from all AI features. That means features like Chat, Write, and even Plugins will think it doesn’t exist (because they can’t see it).
-
-### How does Saliency Engine work with Plugins?
-
-Some plugins are designed to use your Story Bible data. In those cases, Saliency Engine may or may not be used, depending entirely on how the creator built that plugin.
-
--   If the creator chose to use the `{{ characters }}` or `{{ worldbuilding }}` variables, the Saliency Engine will kick in when necessary.
-    
--   If the creator chose to use the `{{ characters_raw }}` or `{{ worldbuilding_raw }}` variables, the full context of those fields will be passed along into the AI in their entirety. The Saliency Engine will make no attempt to parse the data for relevant context.
-    
-    -   Note: In most cases, the `raw` version will give the AI _way_ more context. This can either degrade or improve the results, depending on both the plugin configuration and the context passed through as a result… but it will almost always make the Plugin use more credits.
-        
-    -   **Hidden characters or traits will never be visible to the AI**, even if a Plugin is using the a `raw` variable.
-        
-
-> **Be Advised:** Credit cost is always calculated based on input, output, and the model selected. If a user with hundreds of Characters or Worldbuilding Elements uses a Plugin that includes the `raw` version of a variable, a great deal of context will be passed through to the AI. **This could consume a ton of credits!**
-
-All Plugins that predate the Saliency Engine use the standard `{{ characters }}` variable, and so will use Saliency Engine by default.
-
-
----
 
 ### Which AI model should I use?
 
 **Collection:** Using Sudowrite > Story Smarts
 **Slug:** 4046065-which-ai-model-should-i-use
 **ID:** 4046065
-**Last Updated:** 2026-01-21T18:30:49.074Z
+**Last Updated:** 2026-04-17T17:16:10.030Z
 
 # Prose Modes and AI Models
 
@@ -3401,444 +3195,749 @@ Remember that these models serve as collaborators, not replacements. Your voice,
 
 By understanding each model's strengths and limitations, you can transform Sudowrite into a personalized writing partner that adapts to different phases of your creative process. Happy writing!
 
+---
+
+### Sudowrite Muse
+
+**Collection:** Using Sudowrite > Story Smarts
+**Slug:** 6183030-sudowrite-muse
+**ID:** 6183030
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+# What sets Muse apart?
+
+1.  Basic AI writes boring emails. **Muse is just for fiction.** Focusing Muse entirely on fiction allows it to reach a higher level of quality compared to models which are meant to do it everything.
+    
+2.  Basic AI spews clichés. **Muse writes unique prose every single time.** We specifically measure AI clichés during training and have systematically removed them from Muse’s output.
+    
+3.  Basic AI loves happy endings. **Muse will write anything – no filters.** Muse is the most unfiltered model on Sudowrite, and embraces the full range of human experience, including violence, and adult themes.
+    
+
+You can learn more on the [Muse Webpage](http://sudowrite.com/muse).
+
+# How to use Muse
+
+Muse is the default AI model in Draft and Write. It also powers Expand.
+
+This is what the model selector window looks like. Click “Use Muse” to select it. You will notice that this is where the Creativity setting and Style Examples live.
+
+### Here’s how to select Muse in Draft
+
+Open the Draft tool in the text editor’s top toolbar and scroll to the bottom. Click on the dropdown arrow to the right of Generate, and select Muse from the Prose Mode selector that appears.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be170-7838-71f5-974a-8743f04c5de8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b24e8c38e2d539eeb79541fd7fa70318bf6e8748d2fd038534eea19eee2cff2d)
+
+### Here’s how to select Muse in Write
+
+Click the dropdown arrow next to the Write button in your toolbar and select Write Settings from the list that appears. In your Write Settings, select Prose Mode and choose Muse from the available options.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-08f0-7bbb-907c-6b17c60a93a6/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9109d1d8f569863a9b0aa719166bdf0f97595662ff4fdc6ae249dd38c3752bea)
+
+## Creativity
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-884e-7f61-9c99-d1203c0d1eab/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=21022c9f939aeaf867038f2098eb7f30b28fb862493a4c9ab92f40e81b926957)
+
+Sudowrite Muse is different from other Prose Modes and models in that it also has a Creativity setting in the **Draft** tool\*\*.\*\*
+
+-   Use more creativity if you want creative wording, and are willing to let the AI be creative with how the scenes unfold.
+    
+-   Use less creativity if you know exactly what you want to happen and don’t want the AI to take creative liberties.
+    
+-   Creativity has a special setting - _11._ This mode works quite differently from the rest
+    
+
+Creativity is document-by-document, in case different chapter different settings for best results.
+
+## Style Examples
+
+Style Examples are an optional tool in **Draft**—exclusive to Muse and Excellent—that makes Muse write more like you. You can enter up to 1,000 words of examples.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-de78-7cf8-9d34-369ddfd03567/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=942c73cd12df6caf59f8f60c8a4436ff1094e9283e0bb2796f3d5be6acf930d3)
+
+For best results, if you include multiple samples from different sources, format them like this:
+
+> Example 1: “lorem ipsum”
+> 
+> Example 2: “lorem ipsum”
+> 
+> Example 3: “lorem ipsum”
+
+This helps clarify that these examples are not a continuous passage. Style Examples are consistent across your whole account (in other words, across documents and projects).
+
+### Additional Details About Muse
+
+Muse is available in Draft, Write, and Expand. It also powers Synopsis generation in the Story Bible.
+
+Muse is an unfiltered model and works best in English for now. It may generate in other languages, but it may need additional prompting to do so reliably.
 
 ---
 
-## Sudowrite Mobile App
+### Saliency Engine
 
-### Chat on Mobile
+**Collection:** Using Sudowrite > Story Smarts
+**Slug:** 6295151-saliency-engine
+**ID:** 6295151
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
-**Collection:** Using Sudowrite > Sudowrite Mobile App
-**Slug:** 5586039-chat-on-mobile
-**ID:** 5586039
-**Last Updated:** 2026-01-21T01:56:35.594Z
+## Saliency Engine
 
+The first thing to know about Saliency Engine is that you won’t find a button or field for it anywhere in Sudowrite. **It’s running behind the scenes to help the AI stay focused on what’s relevant.**
 
+You may have hundreds of Characters or Worldbuilding Elements in your Story Bible, but it’s rare that all of those will be relevant when you want to generate the prose for a specific beat. Saliency Engine reviews the task at hand, as well as all of the story information you’ve provided, in order to expose the most relevant information to the AI for prose generation purposes.
 
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-0f3c-7f76-8893-1db9644a8349/b64u-aW1hZ2UuZ2lm.gif?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1923d1a7f61d4f5ab422984217cd3e4abe142fff0f5a3fd0d97b57360f43eaa3)
+
+Saliency Engine will **make sense of mountains of story context** in an instant, keeping anything you generate on track. That means, for example, if your shifter is in wolf form, the AI _won't_ reference the pleated khakis they might typically wear to work.
+
+### Which features does Saliency Engine work with?
+
+Right now **Saliency Engine works in three places**: your Story Bible, the Write button (when your Story Bible is enabled), and Plugins. In each case, Saliency Engine will do a first pass to identify information relevant to the writing task at hand before passing those details on to the AI in order to generate text.
+
+### Do I have any control over Saliency Engine?
+
+Sometimes, you want to keep the AI in the dark about your Characters or Worldbuilding elements. For that, we’ve introduced **visibility settings** at both the card and trait level.
+
+If you’ve added a character that doesn’t appear until later in your story, and you’d like to make sure the AI ignores that character until then, you can hide them from Sudowrite. Just hover over the Character card and click on the eyeball icon that appears to toggle off the AI visibility.
+
+**When the visibility of a Character, Worldbuilding element, or trait is toggled off, Sudowrite’s AI will ignore it altogether.**
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-a1fc-754d-a803-34a7c5f12215/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=245a845a47ae46bdb4c6f03396cdd5a3cdc3a041e64fd2ed8a60a220774745ef)
+
+Alternatively, lets say you want to include a Motive trait on the Character card for the murderer in your mystery. Saliency Engine _may_ consider a motive relevant to a scene, leading to an AI generation that spills the beans prematurely. To hide the Motive from Sudowrite, toggle the visibility setting within the Motive trait field from the eyeball icon in the upper right.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-f8f0-76db-ba79-806c3b65a516/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0dd88cd8b43fd6e98adff20d41e12ee0818c70a0b65b4227d8992114ee0d1699)
+
+Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.
+
+All Character and Worldbuilding cards and their traits are visible to the AI by default. That means, unless you say otherwise, Sudowrite’s Saliency Engine will decide whether or not those bits of story context are relevant to the task at hand.
+
+You can toggle the visibility settings as often as necessary.
+
+⚠️Remember that hiding a Character, Worldbuilding element, or trait from Sudowrite will hide it from all AI features. That means features like Chat, Write, and even Plugins will think it doesn’t exist (because they can’t see it).
+
+### How Does Saliency Engine Work With Plugins?
+
+Some plugins are designed to use your Story Bible data. In those cases, Saliency Engine may or may not be used, depending entirely on how the creator built that plugin.
+
+-   If the creator chose to use the `{{ characters }}` or `{{ worldbuilding }}` variables, the Saliency Engine will kick in when necessary.
+    
+-   If the creator chose to use the `{{ characters_raw }}` or `{{ worldbuilding_raw }}` variables, the full context of those fields will be passed along into the AI in their entirety. The Saliency Engine will make no attempt to parse the data for relevant context.
+    
+    -   Note: In most cases, the `*_*raw` version will give the AI _way_ more context. This can either degrade or improve the results, depending on both the plugin configuration and the context passed through as a result… but it will almost always make the Plugin use more credits.
+        
+    -   **Hidden characters or traits will never be visible to the AI**, even if a Plugin is using the a `_raw` variable.
+        
+
+🚧 **Be Advised:** Credit cost is always calculated based on input, output, and the model selected. If a user with hundreds of Characters or Worldbuilding Elements uses a Plugin that includes the `_raw` version of a variable, a great deal of context will be passed through to the AI. **This could consume a ton of credits!**
+
+All Plugins that predate the Saliency Engine use the standard `{{ characters }}` variable, and so will use Saliency Engine by default.
 
 ---
 
-### Mobile App Overview
+### Visibility Settings
 
-**Collection:** Using Sudowrite > Sudowrite Mobile App
-**Slug:** 4771537-mobile-app-overview
-**ID:** 4771537
-**Last Updated:** 2026-01-21T17:07:00.136Z
+**Collection:** Using Sudowrite > Story Smarts
+**Slug:** 6550358-visibility-settings
+**ID:** 6550358
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
-# Overview
+### **What if I want to hide something from the AI?**
 
-The Sudowrite mobile app is an **AI-powered writing assistant** **available for both iOS and Android** devices. It serves as a companion app to the full web app at [sudowrite.com](http://sudowrite.com), allowing you to take your work on the go, maintain momentum, and capture fresh ideas wherever you are.
+Sometimes, you want to keep the AI in the dark about your Characters or Worldbuilding elements. For that, we’ve introduced **visibility settings** at both the card and trait level.
 
-### What is Sudowrite?
+If you’ve added a character that doesn’t appear until later in your story, and you’d like to make sure the AI ignores that character until then, you can hide them from Sudowrite. Just hover over the Character card and click on the eyeball icon that appears to toggle off the AI visibility.
 
-Sudowrite is an AI writing partner designed to help authors achieve their writing goals. It functions as a junior writing assistant, editor, and creative companion. It can help you get unstuck and stay inspired, keep you organized and help you maintain momentum, and speed up your process (so you can focus on the parts of it you love).
+**When the visibility of a Character, Worldbuilding element, or trait is toggled off, Sudowrite’s AI will ignore it altogether.**
 
-## Getting Started
+![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e09266214e17734edfa/0198aec6-2b61-748d-a749-553e39dd4a91/b64u-MDE5OGFlYzYtMmI0My03NzU4LTg1OWYtNjAwOTgyMzdhNWVl.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e88582fd2319df8a53b211cee4279d7aa68df4c6e8c9ab1e7ca7cc349607c4be)
 
-### Installation & Login
+Alternatively, lets say you want to include a Motive trait on the Character card for the murderer in your mystery. Saliency Engine _may_ consider a motive relevant to a scene, leading to an AI generation that spills the beans prematurely. To hide the Motive from Sudowrite, toggle the visibility setting within the Motive trait field from the eyeball icon in the upper right.
 
-1.  **Download the App**
+![Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e09266214e17734edfa/0198aec6-2b89-79b2-a06d-5fa25ba63eaa/b64u-MDE5OGFlYzYtMmIzZC03MmVhLWEzMGYtYTYyOWEzNzNlNjli.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ec8511ea2c5e46c3c5aba3468f235b9395cd9e0a15dc02f02710e3dc2136f5fe)
+
+Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.
+
+All Character and Worldbuilding cards and their traits are visible to the AI by default. That means, unless you say otherwise, Sudowrite’s Saliency Engine will decide whether or not those bits of story context are relevant to the task at hand.
+
+You can toggle the visibility settings as often as necessary.
+
+> Remember that hiding a Character, Worldbuilding element, or trait from Sudowrite will hide it from all AI features. That means features like Chat, Write, and even Plugins will think it doesn’t exist (because they can’t see it).
+
+### How does Saliency Engine work with Plugins?
+
+Some plugins are designed to use your Story Bible data. In those cases, Saliency Engine may or may not be used, depending entirely on how the creator built that plugin.
+
+-   If the creator chose to use the `{{ characters }}` or `{{ worldbuilding }}` variables, the Saliency Engine will kick in when necessary.
     
-    -   Available on the [**iOS App Store**](https://apps.apple.com/app/sudowrite/id6740884542)
-        
-    -   Available on the [**Google Play Store for Android**](https://play.google.com/store/apps/details?id=com.humanplusplus.sudowrite&pcampaignid=mobile_redirect)
-        
-2.  **First-Time Login**
+-   If the creator chose to use the `{{ characters_raw }}` or `{{ worldbuilding_raw }}` variables, the full context of those fields will be passed along into the AI in their entirety. The Saliency Engine will make no attempt to parse the data for relevant context.
     
-    -   Open the app after installation
+    -   Note: In most cases, the `raw` version will give the AI _way_ more context. This can either degrade or improve the results, depending on both the plugin configuration and the context passed through as a result… but it will almost always make the Plugin use more credits.
         
-    -   Enter the email address associated with your existing Sudowrite account, or create a new account
-        
-    -   You’ll receive a magic link via email
-        
-    -   Tap that magic link and you’ll be logged into the app
-        
-3.  **Account Access**
-    
-    -   Mobile app access is included with your Sudowrite subscription—credits are shared between devices as long as you’re logged into the same account
-        
-    -   If you’re creating a new Sudowrite account for use with the app, you’ll receive a limited number of free trial credits
-        
-    -   All Projects and Documents sync automatically between the web and mobile apps
+    -   **Hidden characters or traits will never be visible to the AI**, even if a Plugin is using the a `raw` variable.
         
 
-### Important Note on Syncing
+> **Be Advised:** Credit cost is always calculated based on input, output, and the model selected. If a user with hundreds of Characters or Worldbuilding Elements uses a Plugin that includes the `raw` version of a variable, a great deal of context will be passed through to the AI. **This could consume a ton of credits!**
 
-Projects and documents are stored in the same cloud on web and mobile and will sync automatically. If you create a new project on the web and don't see it immediately on mobile, wait 1-2 minutes for automatic sync.
+All Plugins that predate the Saliency Engine use the standard `{{ characters }}` variable, and so will use Saliency Engine by default.
 
-* * *
+---
 
-## Project Organization
+### Chapter Continuity
 
-### Home Screen Layout
+**Collection:** Using Sudowrite > Story Smarts
+**Slug:** 8989228-chapter-continuity
+**ID:** 8989228
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
-When you open the app, you'll see:
+**Chapter Continuity is a feature that allows you to sequence your documents**, telling Sudowrite which chapter came before which. By linking chapters together, you enable Sudowrite’s AI to treat those separate documents as one continuous story—allowing tools like **Write** and **Draft** to draw on prior context and create smoother transitions, clearer character arcs, and more consistent narratives throughout your work.
 
--   **Projects:** Items with a book/binding icon
+## What Chapter Continuity Does
+
+When you define preceding documents in the document linking tool, those documents will be included as additional context for the AI when using certain AI features. Our AI tools—especially Write and Draft—work best when they can draw on previous events, tone, and story structure. Linking your documents ensures that context from earlier chapters helps shape what comes next.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1a8-64a5-7768-873d-c9fd39de4261/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=00d1ff834b19b98764b0a3c2ff6d296319142512a9a8491d810258e033cedaf4)
+
+## How to Link Chapters
+
+To create a link between two documents, click the **More menu (•••)** that appears next to the document title in your project’s text editor. The Document Linking Menu will appear with two questions:
+
+-   Is this document in your Outline?
     
--   **Standard Folders:** Labeled folder icons
-    
--   **Series Folders:** Folders with series designation above their title
-    
-
-### Navigation
-
--   **Tap** to open a project or folder
-    
--   **Swipe from left** to navigate out of a project or folder
-    
--   **Long hold** on a project to see options (move to folder, rename, duplicate, delete)
-    
-
-### Creating New Items
-
-Tap the **+** button in the upper right corner of the screen:
-
--   **New Project:** Create a fresh project
-    
--   **New Folder:** Create a folder in your project list to organize your projects
-    
--   **New Dictation:** Start a new Smart Dictation
+-   Does this document continue another one?
     
 
-### Series Support
+Linking the document to your Outline tells Sudowrite which chapter _this_ document is supposed to be. That context will be used by tools like Write, Draft, Quick Edit, and Chat. Meanwhile, you can select **Connect it** and choose the prior chapter from the dropdown that appears to tell Sudowrite which document precedes this one.
 
-Sudowrite support special Series Folders on the web app that allow you to create a canonical timeline of projects and share certain Story Bible elements between projects. Series functionality is limited on the Mobile app.
+Once you’ve made these selections, the relationships are saved and will remain visible in the Document Linking Menu. You can change or remove this connection—by selecting Disconnect from the dropdown—at any time.
 
--   Series folders will appear with a Series designation
-    
--   You _can_ write in Series projects
-    
--   You _can_ access the Series bible of shared Character and Worldbuilding elements
-    
--   You **cannot** create new Series folders on mobile
-    
--   You **cannot** change the canonical timeline or sequence of books for an existing Series
-    
--   Full series management currently requires the web app
-    
+You can continue a document from any other document in your project, whether or not those documents are linked to your Story Bible’s Outline. That said, linking documents _and_ Outline chapter summaries will give Sudowrite even richer context.
 
-### Deleting Items
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1a8-bd66-7328-948b-03192b92374c/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=fbab7543c93b6072664d854e0e2d3a3c89d68634f9d996c852e2e6785cdc748b)
 
-**Important:** While you can delete both projects and documents, the mobile app does not have a trash can for projects presently.
+## Automatic Linking from the Outline
 
--   Deleted documents go to the trash inside of a project and may be recovered from there
-    
--   Deleted projects go to a trash that is unavailable on mobile
-    
--   To recover deleted projects, log in to the web app
-    
--   Access the project trash in your Settings Gear in the upper right
-    
+If you’re generating new chapters from your Outline, Sudowrite will automatically attempt to link them in sequence. For example, if you create Chapter 2 (from either the left bar’s **\+ New** menu or your Story Bible’s Outline) and there’s already a linked Chapter 1 in the project, Chapter 2 will be created with the Outline’s chapter summary linked and Chapter 1 set as the preceding document. If you skip creating some chapters in the middle—for example, you jump ahead to Chapter 5—Sudowrite will look back for the most recent connected chapter and link to that.
 
-* * *
+These automatic links are there for your convenience, but you can always change the selections or disconnect a document altogether. This is especially useful for stories with alternating points of view, nonlinear timelines, or other custom structures. It’s also helpful to know that creating a Blank document from the + New menu will create a document without this automatic linking—there will no linked Outline or preceding chapter by default (but you can still make those selections later, if desired).
 
-## Document Features
+## Chapter Continuity in Write
 
-### Opening & Editing Documents
+When you click the **Write** button in a document that’s linked to a previous one, Sudowrite pulls in up to **20,000 words** of text total from that linked document. If you have several documents connected in series, Write will look at up to **25 previous documents**, starting from the most recent and moving backward until it hits either the word or document limit.
 
-1.  Tap a project to see its document list
-    
-2.  Tap any document to open it
-    
-3.  Place cursor and begin typing or use AI tools
-    
+🔗 **For example**, If I’m using the Write button in Chapter 5, and I’ve updated the “Continues from…” setting in each preceding document, the Write button will read Chapter 4, 3, 2, and 1 before it generates. If I had an epic 30,000 word Chapter 4 (for some reason) Write would only read back 20,000 words into Chapter 4.
 
-### Formatting Toolbar
+Write also pulls in up to 20,000 words from the current document—again, starting at the end (or, the cursor position where you’re using the Write feature) and working backward.
 
-When your keyboard is visible, rich formatting options, such as Bold, Italic, Strikethrough, Font Size are available in a scrollable bar just above it. Meanwhile, AI functions such as Smart Dictate, Write and Rewrite will appear along the top of the screen (just to the left of the magnifying glass in the right corner).
+This allows Write to stay grounded in the events, characters, and voice of your earlier chapters, with a bias towards the more recent/relevant developments when there’s too much context. Your Write card will include a set of **chiclets** that shows which documents were included, and how many words of each.
 
-**To dismiss toolbar:** Tap the Check mark in the upper left to hide keyboard and reclaim screen space.
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1aa-8418-713a-b8cf-25600d08bdb3/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8dd784ab45a806062d9a65ea6296531e5b44c5d13f16ee34037882edfe3ff269)
 
-🌈**The More You Know**
+## Chapter Continuity in Draft
 
--   **Images from Visualize:** Images created on the web app display beautifully on mobile
-    
-    -   **Note:** You cannot create new Visualize images on mobile (web-only feature)
-        
+The **Draft** tool also takes full advantage of Chapter Continuity, both when generating Scenes and when writing chapter prose. If your document is linked to a previous chapter, Draft will look backwards through up to 25 documents and incorporate up to 20,000 words of prior content, as with Write. This helps Draft maintain story cohesion, character arcs, and narrative consistency. It also helps the AI make more logical choices in places where it may not have sufficient guidance from you.
 
-* * *
+As with Write, the most recent documents in the established sequence will be prioritized. In projects with very large chapters or complex continuity chains, some scene-specific context may be crowded out—especially if the AI needs to make room for long chapters. You can always verify what was included in the chiclets of the Draft card created in your History column.
+
+☝It’s possible for the AI to “max out” on the context you’re trying to show it. Rather than fail, in those cases the AI will proceed by excluding context in the following sequence.
+
+Excluded in order from top to bottom
+
+Worldbuilding
+
+Characters
+
+Previous Chapter Text
+
+Linked Outline Summary
+
+Genre
+
+Key Details
+
+Tone
+
+Style
+
+Preceding Text from the current document
+
+Highlighted Text.
+
+Write always includes as much as possible—partial inputs from these bits of context may still be passed to the AI when the full ones don’t fit.
+
+## Chapter Continuity Best Practices
+
+Use Chapter Continuity to keep your longform work coherent, but don’t feel constrained by it. Manual linking gives you full control and works well for flexible story structures. Automatic linking is helpful for straightforward chapter sequences based on your Outline, but it’s always editable.
+
+If your Write or Draft results seem off—missing key characters or important events—check the chiclets to see what context was included. Trimming your current document or adjusting linked content can improve performance.
+
+---
+
+### Setting POV and Tense
+
+**Collection:** Using Sudowrite > Story Smarts
+**Slug:** 4257043-setting-pov-and-tense
+**ID:** 4257043
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+## **Point of View and Tense Settings**
+
+Defining the Point of View and Tense of your story helps make sure that assistance from the AI is always on point. Sudowrite now has settings that provide explicit control over both the POV and Tense used by the AI while generating prose.
+
+**The POV and Tense settings are located in Outline section of Story Bible.** They also appear in (and can be changed from) the Draft tool when opened.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ad-d6b0-7dbd-9363-4c2a226f9cc5/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0686d16184b21f17c4d14b983610a395436e853d96b312b8ff20ae441dc8e0a3)
+
+These settings tell the AI how it should write in the Draft tool, Write button (both Auto and Guided), and Expand, helping to ensure consistency in narrative voice and tense. You have the option of setting a global POV and Tense for your entire novel, or defining them on a per-chapter basis.
+
+## **Default Settings**
+
+When creating a **new project**, the POV and Tense is initially set to third-person limited, past tense. If you generate (or write!) a Synopsis in Story Bible, Sudowrite’s AI will intelligently choose the correct POV and Tense for your story. (For instance, a synopsis for a romance novel will likely prompt the AI to select either first-person or third-person limited POV and past tense since those are the POV and tense commonly used for romance novels.)
+
+If you disagree with an AI-defined POV and Tense you can just change it. Once you’ve manually set a POV and Tense, it will remain what you set.
+
+**Note:** Importing a file using Novel Import or directly into a project will set the POV and Tense settings to their defaults (3rd person limited, past tense).
+
+☝You can change your POV and tense settings for a project at any time! (Sudowrite won’t attempt to guess your POV/tense once you’ve set one.)
+
+## Point of View (POV) Options
+
+**3rd Person Limited POV** (most common) - Stays close to only one character’s thoughts.
+
+**3rd Person Objective POV** - Writes what a camera would see. No thoughts, just action.
+
+**3rd Person Omniscient POV** - Reveals every character’s thoughts.
+
+**1st Person POV** - Tells the story through the narrator’s eyes.
+
+**2nd Person POV** - Makes “you” the main character.
+
+## Tense Options
+
+**Past Tense** - Creates a feeling of narrative storytelling, with a small distance between the reader and the characters.
+
+**Present Tense** - Creates a more action-packed, dynamic tone. Commonly paired with first-person POV.
+
+**Future Tense** - An unusual choice, useful when you want to create contrast, such as in a prophecy or fable.
+
+## Character POV
+
+If you want your story to be written in first person from your protagonist’s perspective, you can select that character from the Characters section of the POV dropdown menu. All named characters from the Characters section of your project’s Story Bible will automatically appear there.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ae-bbb7-7b64-9d00-ac108fea7d68/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7e98472d563890d150187e0f1fd2ce62d291a0efb4aed67f6477e140be861839)
+
+You can actually assign more than one character to a chosen narrative perspective. When a single character is selected, the AI will write with _that_ character’s perspective in mind. If multiple characters are selected, the AI will use the context of the scene (Draft) or the highlighted or previous text (Write and Expand buttons) to determine the most appropriate character to use.
+
+## POV & Tense Modes
+
+You have two options when it comes to setting your POV and Tense.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ae-fa54-785b-a056-38b6c1b922aa/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=aebfd757c535f3415ee18d7d7477549020d42d945991e0631e456c87f43d2ba9)
+
+**Same for all chapters (Default):** A single POV and tense setting are applied to the entire novel, ensuring a consistent narrative voice throughout.
+
+**Customize per chapter:** By choosing “Customize” in the _Apply to_ menu, you can customize the POV and tense for each chapter. This is ideal for stories with alternating perspectives or timelines. If you toggle back to “Same for all chapters,” the per-chapter settings are removed and the global settings are reapplied.
+
+Choose your preferred mode in the **Outline section of the Story Bible.**
+
+## **Draft Box Settings**
+
+When you link a document to a chapter in your Outline (or create a linked chapter from it), the POV and Tense settings from the linked Outline’s chapter are automatically synced to the Draft box.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1af-9763-799f-b3f1-e40d22d0abc9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5b0a59007279ed71c081798af5126311ec6c84c19ce6a08483f34615cb1f66b0)
+
+Any changes made to the POV or Tense within the Draft section will be automatically synchronized with the corresponding chapter's settings in the Outline, and vice versa. This ensures that your entire project remains consistent.
+
+For a completely new and unlinked document within the Draft section, the system defaults to a third-person limited POV and past tense.
+
+## **Where POV and Tense Works**
+
+The settings you choose for POV and Tense tell the AI how to generate prose in the Draft tool. They also influence the Write button’s Auto and Guided modes, and Expand.
+
+**Note:** Plugins can’t currently see these new POV and Tense settings. If you currently use Plugins that rely on a POV and Tense in your Style box, it may be preferable to keep the redundant instruction in your Style box for now. Just be sure they’re consistent with what you’ve set in the selector.
+
+---
 
 ## Story Bible
 
-### Accessing Story Bible
+### Tips & Tricks
 
-From your app’s project screen or within any project, tap the **Story Bible icon** (the small book-shaped icon) in the nav bar along the bottom of the app. If you select this from the project screen, you’ll be asked which project you would like to see the Story Bible for.
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 0933902-tips-and-tricks
+**ID:** 0933902
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
-### What You Can Do
+# Tips, Tricks, and Troubleshooting
 
-**Read & Edit:**
+## Three Steps to Awesome Prose
 
--   View all sections of Story Bible
-    
--   Edit any Story Bible information
-    
--   Access and edit Characters, including full character cards
-    
--   View and edit Worldbuilding elements
-    
--   Add new custom Traits to Characters and Worldbuilding elements
-    
+1️⃣ **Make it your own**
 
-**What You Cannot Do:**
+Modify the outputs you get from Story Bible to make them your own and express your unique voice. You’ll probably spot a few things in each section that don’t track with your vision. Take every chance to express your own ideas and you’ll be surprised how much Story Bible will begin to channel your sensibilities!
 
-The Story Bible on mobile does not have generative elements, such as Character generation or “Fill this in” completion. That means you can’t:
+2️⃣ **Keep it up to date**
 
--   Generate new characters
-    
--   Generate Synopsis from Braindump
-    
--   Generate Worldbuilding elements
-    
+As you progress through Story Bible, details about your story will likely change. For example, your characters may evolve, the setting might shift, or you might change the ending. Keeping all of the Story Bible sections up to date will make sure that Sudowrite doesn’t get confused as things change.
 
-**Workaround:** Use the Chat feature to ask an agent to generate Story Bible content for you!
+3️⃣ **You decide what’s important**
 
-### Creating Story Bible Elements Manually
+One of the creative choices you make in writing with Story Bible is deciding what information you emphasize to your junior writing partner. You might value Characters most and focus on characterization and arc. Or you might prioritize setting, or dialogue. Experiment with different emphases in your Scenes, Style, and elsewhere and see what works best for you.
 
-1.  Open Story Bible
-    
-2.  Navigate to the relevant section (Characters, Outline, etc.)
-    
-3.  Tap the **+** button in the upper right to add new entries
-    
-4.  Fill in details manually
+> Accelerate your learning - **join the Discord community!** Get the latest tips and tricks from seasoned Story Bible experts, share what you learn, and be part of a supportive writing community. [**Click here to join.**](https://discord.gg/z9b3N4gyUM)
 
+## The Three Horsemen of Bad Prose
 
----
+❌ **Vagueness**
 
-### Rewrite
+Replace any vagueness with specific ideas. Otherwise, Story Bible will fill in the gaps—that's an opportunity for it to either delight or disappoint you; It won't always delight you!
 
-**Collection:** Using Sudowrite > Sudowrite Mobile App
-**Slug:** 2557979-rewrite
-**ID:** 2557979
-**Last Updated:** 2026-01-21T01:56:15.790Z
+Generate stronger prose through **specificity**.
 
+❌ **Conflicting information**
 
+If Sudowrite sees conflicting information or instructions across sections of your Story Bible or documents, it may get confused and write something that doesn’t make sense. To avoid this, **make sure all your sections are consistent and delete anything out of date.**
 
+✏️ **Example**
 
----
+Story Bible looks at prior sections to generate the current section. For example, Prose Generation looks at Style, Characters, and Scenes, so if you define a character as _”dreams to become a baker one day”_ but you have a Scene that says _”decides to quit being a baker”_, Story Bible might be confused.
 
-### Smart Dictation
+Which is it? Does this character want to be a baker or not!?
 
-**Collection:** Using Sudowrite > Sudowrite Mobile App
-**Slug:** 1368190-smart-dictation
-**ID:** 1368190
-**Last Updated:** 2026-01-21T01:56:54.349Z
+To fix the inconsistency, update the character descriptions to reflect your character at the point of time in the story you’re currently writing.
 
+In short, generate stronger prose through **consistency**.
 
+❌ **Confusing wording**
 
+Sometimes we write something down that’s obvious to _us_ but might be confusing to AI. When this happens, Story Bible might write something that is actually reasonable if you read carefully, but appears totally ridiculous on first blush. Try to **be precise in your wording and look for ambiguities** in each section to avoid this
 
----
+✏️ **Example**
 
-### Tips & Best Practices
+You have a Scene that includes:
 
-**Collection:** Using Sudowrite > Sudowrite Mobile App
-**Slug:** 1971477-tips-and-best-practices
-**ID:** 1971477
-**Last Updated:** 2026-01-21T01:57:29.898Z
+_"Joey tries to tell Suzie that there’s nothing wrong, but Suzie knows what he did"._
 
+To you this may be obvious. After all, in Chapter 2, Joey accidentally ran over the neighbor’s dog and buried it in the woods, but when drafting Prose, Story Bible only looks at Style, Characters, and Scenes, so it doesn’t know what happened in Chapter 2 unless you choose to link prior documents. In this case, Story Bible doesn’t know what _”what he did”_ refers to.
 
+To fix this, you could be more precise and write:
 
+_”Suzie knows that he killed and buried the neighbor’s dog secretly”_ as part of the Scene.
+
+In short, generate stronger prose through **clarity**.
+
+There’s almost always a rational explanation for any mistake Story Bible makes. As Sherlock Holmes says in _The Hound of the Baskervilles_, “The world is full of obvious things which nobody by any chance ever observes.”
+
+Channel your inner Sherlock, and you’ll get back on track in no time.
 
 ---
 
-### Web App vs. Mobile App
+### Scenes & Chapter Prose
 
-**Collection:** Using Sudowrite > Sudowrite Mobile App
-**Slug:** 2416801-web-app-vs-mobile-app
-**ID:** 2416801
-**Last Updated:** 2026-01-21T01:55:22.878Z
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 2475330-scenes-and-chapter-prose
+**ID:** 2475330
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
+### Generating Chapter Prose
 
+When using Story Bible sequentially—that is, gradually developing your story from the ground up by completing those fields—the final step of the process will be generating chapter prose using the **Draft** tool. Draft is represented by the little typewriter icon in top right corner of your text editor in Sudowrite.
 
+Draft looks at your Style, Genre, Characters, Worldbuilding, and **Scenes** to write a first draft of that chapter for you. But before you can get help from Sudowrite generating that chapter’s prose, you first need to either write or generate those Scenes.
+
+### What are Scenes?
+
+**Scenes** are the building blocks of chapters in Sudowrite’s Draft tool. They represent distinct moments in your story—each one typically encompassing a single location, timeframe, or character context. A chapter may have one scene, or several.
+
+Scenes let you guide Sudowrite to write your chapter exactly the way you imagine it. Whether you're describing a heated conversation in a cabin, a chase through city streets, or a quiet reflection on a rooftop, each Scene is a self-contained unit of storytelling. This format should feel familiar and intuitive for anyone who has ever read a book or watched a movie—a scene is something happening to someone (or _someones_) somewhere—and it allows Sudowrite to generate focused prose that closely follows your structure and creative vision.
+
+Think of Scenes as the natural atomic units of storytelling—aligned with how writers already plan and think about narrative flow.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d37b929a1bb6c0a2689/019be1a5-4efe-7d6d-ad55-bf186ee744b7/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2eae8b2a144fe8c562511e63c45ed543658c18b48eb4cfd75ea229de01fe8851)
+
+### **How do I generate chapter prose from Scenes?**
+
+Scenes are the precursor step to prose generation in Sudowrite. Here’s how they work step-by-step:
+
+**1\. Write or Generate Scenes**
+
+The top box of the Draft tool is labeled **Scenes**. This is where you list the key narrative moments you want your chapter to contain. Each Scene appears as a numbered item in a list, and may be as short or as long as you like. You can:
+
+-   **Write your own** **Scenes** manually.
+    
+-   Or click **Generate Scenes** to have Sudowrite generate a list based on your linked Outline’s chapter summary.
+    
+
+Scenes utilize a feature called Story Bible Detection, which lets you know when something or someone mentioned in a Scene is recognized from your Story Bible. Detected Characters and Worldbuilding elements will appear underlined, whether you generated those Scenes or wrote them yourself.
+
+💡**How to define chapter length in Draft**
+
+There’s no way to specify how long you want your drafted chapter to be. Instead, the length of the chapter prose that Sudowrite generates is a function of how many Scenes you’ve included—more scenes means a longer chapter. If you want to reduce the length of the prose that Draft generates, just reduce the number of scenes—you can consolidate all of your scenes into a single numbered bullet and Sudowrite will still accurately generate.
+
+**2\. Optionally add Extra Instructions**
+
+The Draft box includes an **Extra Instructions** field below your Scenes. This is where you can optionally include specific notes that Sudowrite should consider when writing chapter, including:
+
+-   Style or tone reinforcement (e.g., “dreamlike,” “sparse and fast-paced”)
+    
+-   Specific plot notes (e.g., “End on a cliffhanger”)
+    
+
+These instructions can reiterate other parts of your Story Bible, and help Sudowrite better match your unique storytelling voice and intent.
+
+💡Sudowrite will generate chapter prose using the default model, Muse, unless you say otherwise. Click the dropdown arrow to the right of the Generate button to toggle between Prose Modes and AI models as desired. Make sure to do so before you click Generate!
+
+**3\. Incorporate helpful feedback**
+
+With those fields complete, you can click Generate to have Sudowrite automatically analyze your Scenes to make sure they’re clear and well-structured. If a Scene looks too short, too sprawling—such as covering too many events, characters, or locations—or something else, you’ll see a friendly suggestion with a proposed fix. You can:
+
+-   **Accept** the Quick Fix (like splitting a Scene or clarifying it)
+    
+-   Or **ignore the suggestion** altogether and proceed with your current Scenes as-is
+    
+
+This first stage “check” also creates a word count and credit estimate, so you can know what to expect when you do proceed.
+
+4.  **Generate your chapter**
+    
+
+Once you’re happy with your Scenes and the estimates provided, just click **Generate**. Sudowrite will write your chapter in prose, closely following your structure and tone.
+
+Each Scene is transformed into part of a seamless, compelling chapter draft that should closely match your vision for the story. You can watch the prose magically appear in the document below—and you can always pause the generation if you notice the AI is taking one too many creative liberties.
 
 ---
 
-### Write
+### Outline
 
-**Collection:** Using Sudowrite > Sudowrite Mobile App
-**Slug:** 8173121-write
-**ID:** 8173121
-**Last Updated:** 2026-01-21T01:55:58.853Z
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 1761456-outline
+**ID:** 1761456
+**Last Updated:** 2026-04-17T17:10:49.236Z
 
+### The Outline is where you tell Story Bible about the structure of your story.
 
+You can have Story Bible generate an Outline for you based on your Synopsis, Genre, and Characters, or you can import or write your own Outline from scratch.
 
+♾️ **The Outline section of Story Bible has no word limit.** It can include as many chapters as you like, and each one can be as long as you like. (Though a good editor might suggest otherwise.)
 
----
+### Generate Outline
 
-## Workflows
+There are two ways to approach creating your Story Bible’s Outline: generating it all at once, or chapter-by-chapter.
 
-### Collaboration Options
+**To tell Story Bible to create a complete Outline, just click the Generate Outline button.**
 
-**Collection:** Using Sudowrite > Workflows
-**Slug:** 7364030-collaboration-options
-**ID:** 7364030
-**Last Updated:** 2026-01-21T16:54:26.867Z
+💡Outline generation is influenced by Genre, Synopsis, Characters, and Worldbuilding. Meanwhile, your Outline will directly inform Outline generation.
 
-Whether you're working with a collaborator, an editor, or you just want to share your work, Sudowrite offers powerful collaboration features to help you get feedback on your writing. You can effortlessly create and share links to your work and even collect comments from readers, all while maintaining control over the sharing process.
+Alternatively, you can click the **\+ Add Chapter** button to add a single chapter to your outline at a time. Once you’ve done so, you can fill that chapter summary in manually or using the **Generate** button. If you choose Generate you’ll be presented with a **Custom Instructions** box, where you can optionally tell Sudowrite how you’d like that chapter to go. If you opt not to give any specific instructions, it will do its best based on the context available.
 
-## Document Sharing
+### Editing Your Generated Outline
 
-Share your writing directly from Sudowrite with beta readers and collaborators. Whether it's a single chapter or a complete manuscript, you can generate shareable links that present your work beautifully.
+If the Outline that Sudowrite generated for you doesn’t match your vision, you can fix it by adding your notes to the **Rewrite Outline** box—this is field is revealed only when clicking Rewrite under the **More menu (•••)** in the Outline section header. Click **Go** and Sudowrite will take another pass, rewriting the entire outline while incorporating your feedback. (You can get pretty specific with your feedback here!)
 
-To share a document:
+Meanwhile, if a specific chapter in your generated outline is almost there but still needs work, you can Rewrite a chapter by clicking into the text field containing the summary and selecting **Rewrite**. Just as with the full outline rewrite, you’ll be able to give specific instructions as to what needs to change (ex. “End in a cliffhanger”).
 
-1.  Click the **Share** icon in the upper right corner of your screen (next to the ⚙️ settings gear).
-    
-2.  Click the Share button to generate a link for your current document
-    
-3.  Alternatively, use the dropdown arrow beside the Share button to share a different document from your project
-    
+The **More menu (•••)** also includes the **Delete** option, in case you ever need to start over entirely.
 
-The link will be automatically copied to your clipboard, and you can always click the Copy button to grab that URL again. Anyone with that link can view your document. Meanwhile, you can click on the project in that Share menu to open the version of your document published to the web.
+Once you have a generated outline that you’re happy with, make sure the details match your vision for the story. Just as with every other section of the Story Bible, the more specific you are, the better yours results.
 
-A few things to know about document sharing:
+### Editing Your Outline
 
--   You can track all of your project’s shared documents in the Share menu
-    
--   Unpublish shared documents anytime from that Share menu using the **More menu (•••)**
-    
--   Changes you make to your document in the editor are automatically reflected in the shared version (though readers may need to refresh)
-    
--   You can share multiple versions of your story by duplicating your document and generating different share links </aside>
-    
+At any point in the Outlining process, you can also Add individual chapter summaries. This can be helpful if you want to insert a chapter after-the-fact or extend your Outline. Click the **\+ Add Chapter** button in the section header to create a new blank chapter summary field—then just drag it into place. Alternatively, you can just hover _between_ the chapters where you’d like to insert the new chapter summary and an + Add button will appear.
 
-## Clean Copy and Comments
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d1f04f5d5e47043fcfc/019be199-09ab-7bb3-a255-11e5d39065af/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f538e20d4f37ec87485fcf11a82dbc47e64e696ca2f51a70d9449702bac09fba)
 
-Clean Copy is a feature of Sudowrite’s document sharing functionality that transforms how you collect and manage reader feedback. Share your document, distribute the URL, and each reader gets their own clean copy to comment on if they wish—keeping feedback both organized and private.
+Your chapters can be named anything you’d like—“Chapter 1, Epilogue, Scene” etc.
 
-Here's how Clean Copy works:
+You’ll also notice that **Acts** are created when generating an Outline. You can create these from the **\+ Add Act** button in the Outline section header as well. Acts are like dividers that can be dragged to any point in the Outline to help you organize your outline and visualize the story at a high level. The can be named anything—“Part, Book, Episode, Section” etc.—whatever fits your work (and you don’t need them at all for the Outline to work).
 
--   Each reader can comment on the document you’ve shared with them by highlighting a passage and leaving their comment in the box that appears.
-    
--   If they’re logged into Sudowrite, their display name will appear automatically. If they’re not, they can either log in, set a display name (only necessary once on the first comment they leave), or remain anonymous.
-    
--   Readers never see one another’s comments—keeping your feedback unbiased. They will however see any responses that you, as the author, make to their comment.
-    
--   Comments will appear along your document's right side. And of course, you can also now comment on your own document from the selection menu, which is super handy for revision workflows and situations where you'd just like to leave yourself notes. If you want to hide comments, just click the comment icon in the document toolbar to toggle them on/off.
-    
--   With Comment Mode enabled, you will see all comments you’ve received along the right side of your document.
-    
--   As the author, you can also leave yourself comments! No need to do so on a shared document either—you’ll see a **New Comment** option in the selection menu when you highlight a passage in your editor.
-    
+You can delete Chapters or Acts using their respective More menu (•••). If you delete a chapter and want to get it back, you can do that through the Outline History menu (the little Clock icon) in the Outline section header’s More menu (•••).
 
-## Best Practices for Collaboration
+### Drafting Your Chapters
 
--   Unpublish old shared versions when you want to direct readers to newer drafts
-    
--   Use your own comments to track revision ideas while reviewing reader feedback
-    
--   Share different drafts with different groups of readers by creating multiple share links
-    
--   Check that readers are viewing the latest version by having them refresh occasionally
-    
+When you’re ready to start writing a chapter, hover over a chapter summary and click the **Start Chapter** button (which appears as a plus document icon) next to that chapter’s More menu (•••). This will create a “linked document”—a document linked to this chapter summary in your Outline, which allows Write, Draft, and other features to know what to write. Any time you click a chapter summary’s More menu (•••) in your Outline, you’ll see a list of all the documents that have been linked to this chapter summary.
 
-Clean Copy and document sharing make it easy to maintain a smooth feedback process with your readers while keeping your work organized within Sudowrite.
+### Keeping Your Outline Updated
 
+As you write your book, you’ll probably make changes to your chapters that stray from the original Outline you’d written or generated. You can easily update the linked chapter summary in your Outline with one click by selecting “Update” from the More menu (•••).
 
 ---
 
-### Exporting Files
+### Worldbuilding
 
-**Collection:** Using Sudowrite > Workflows
-**Slug:** 0052666-exporting-files
-**ID:** 0052666
-**Last Updated:** 2026-01-21T16:52:34.569Z
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 0051483-worldbuilding
+**ID:** 0051483
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
-Sudowrite offers a few different ways to export your work, allowing you to easily save individual files, projects, or Story Bible sections.
+## Worldbuilding
 
-## Project Export
+The Worldbuilding section of Story Bible is the place to create and store all of the important details of your world—everything from settings, to items, to lore, and beyond. These building blocks help you stay organized, while giving the AI helpful context on your story world. Sudowrite uses the relevant context from your Worldbuilding cards when writing for you.
 
-Need to backup your entire project or share all of the documents with a collaborator? The Project Export feature is perfect for these scenarios. It allows you to export all of your documents at once as a bundled .zip file.
+🌐 _N.B._ Completing the Worldbuilding section is optional, and you don’t _need_ to add any Worldbuilding cards in order to use the Draft tool. That said, you’ll get better results from the AI if you give it the additional context of frequently-referenced elements—for example, describing a core setting.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be176-9b23-76b4-9eed-c7b0a079678d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=dedc620d167abd24cb5c364280cd4a5259062361847a45cf12302bd23ce1a92f)
+> When generating Worldbuilding elements, the Worldbuilding section is influenced by the Synopsis. Meanwhile, Worldbuilding directly informs your story’s Outline, Scenes, and Prose Generation (in Draft).
 
-**Project Export Purpose:** Export every document in a project at once.
+The Worldbuilding section is very open-ended. It provides a wide range of templates. No matter what you select, your Worldbuilding entry will be tracked on a collapsible, customizable card.
 
-**How to use:**
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-6ac0-7e03-b35c-a321bf878c72/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0583f610e4d854e4f17cf1b97386920ec795f5f3e2a541709780e5b64fb8b1d9)
 
-1.  On the Sudowrite home page ([sudowrite.com](http://sudowrite.com)) or within the appropriate folder, locate the project card you want to export.
+### Worldbuilding Cards
+
+**Each individual Worldbuilding entry gets a card of its own in the Worldbuilding section of your Story Bible.**
+
+Cards are how you keep track of each entry, meaning that **a card may represent a clue, magic system, setting, or something else altogether**. You can select from the card templates available, or create an entirely custom entry using **\+ Custom** when creating a card (or in the trait customization).
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-c76e-7a8a-b1d5-bc96e0e5dc07/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7339f926a3a24112c5d36e687849032afd39895af07496e211a323c29424893a)
+
+As with Characters, Worldbuilding entry cards can be collapsed using the arrow next to the element name, and dragged to your preferred order with the six-dot handle in the upper left.
+
+The dropdown next to the card Title allows you to toggle the Worldbuilding entry Type from the available options. You can see previous versions of that card in the card history—accessed from the clock icon up top—and you can delete a Worldbuilding card using the three dots on the right.
+
+### Creating Worldbuilding Entries
+
+You can create Worldbuilding entries with or without the AI’s help. If you click the purple **\+ Add Element** button, you’ll be able to select from **Blank Element**, **Generate Element**, or **Surprise Me**.
+
+If you’d like to manually complete the card, just select Blank Element. Choose what type of Worldbuilding element you’re creating a card for, and then fill in the associated trait fields. Generate Element will let the AI do all the work—you just give a brief description of what it is you’re looking for and Sudowrite will get to work. This is a great option if you already have notes available, and you want the AI to structure and flesh out those notes. Surprise Me will instantly generate a random element that fits the vibe of your story, based on an analysis of the story you’re trying to tell and what you’ve already got documented.
+
+### Worldbuilding Traits & Trait Customization
+
+Each type of Worldbuilding element has a slightly different set of default traits for you (or the AI) to complete. For example, the **Clue** template includes a _Implications_ trait, whereas the **Item** template includes a _Who owns this item_ trait. These traits offer a helpful starting point, but you can add to or change them as desired.
+
+Individual traits can be added at the card level—say for example if you have a specific setting that needs to include HOA details—by clicking **\+ Add Trait** at the bottom of that card. Title the trait, and fill it it as desired.
+
+If you’d prefer to add something that should exist across all Setting cards you create, you’ll want to update the Default Traits for all Setting elements by clicking the **More menu (•••)** in the Worldbuilding section header and choosing **Customize Traits**. The process is the same for all the element templates—just select a different element from the drop down.
+
+As with Characters, traits are there both for _your_ reference, _and_ that of the AI. **Traits inform how the AI will write about an entry when it is referenced (either directly, or using one of the defined “Other Names”).** This is good to keep in mind when you’re titling and populating traits. A general rule is that if a junior writer or copy editor could make sense of your traits, the AI should be able to handle it well.
+
+### Generating Traits
+
+After adding new default traits to pre-existing Character cards or Worldbuilding elements, you may wind up with a bunch of empty trait fields. Traits can always be filled in manually, but sometimes you want the AI’s help with that, so you have the ability to generate traits individually as well.
+
+**When a trait field is empty, just put your cursor inside of the field and click _Generate_.** You’ll have the option to provide custom instructions, but you can also just click _Go_. The AI will then populate that trait field with something contextually appropriate. The AI takes the rest of your Worldbuilding elements, and Story Bible context into consideration when generating those traits individually. You also have the option to Rewrite trait fields that you’re not satisfied with. Just **click Rewrite from within the trait field**, provide custom instructions (if desired), and click Go. The AI looks at the current version of the trait, then rewrites it either according to provide instructions or (if blank) its own intuition and context.
+
+---
+
+### Characters
+
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 1726763-characters
+**ID:** 1726763
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+The Characters section is where you define the characters in your story. This affects how the characters are described, how their dialogue is written, what choices they make, and how they interact with each other. Once you’ve completed your synopsis, Story Bible can create all of your characters for you.
+
+**To tell Story Bible to create your Characters, click the Generate All Characters button.**
+
+When you generate characters, Story Bible will take what you’ve written in your Synopsis and use it to generate the main characters in your story. Characters explicitly mentioned in your Synopsis will automatically be included. If you don’t mention any specific characters in your Synopsis, or if you only mention a few, Story Bible will create additional characters for your consideration. You can leave these characters as-is, or ideally, change the substance of their character cards.
+
+🧠 Characters are generated based on the Synopsis. Meanwhile, the Characters section directly influences the generation of your story’s Outline, Scenes, and Prose Generation (in Draft).
+
+### Character Cards
+
+**Each character receives their own card in the Characters section of your Story Bible.**
+
+Cards are how you keep track of each individual character and their details. Cards can be collapsed with the arrow next to the characters name, and dragged to your preferred order with the six-dot handle in the upper left.
+
+The dropdown in the upper right allows you to set a Characters role (for example, protagonist, supporting character, etc.). You can see previous versions of the character in the card history—accessed from the clock icon up top—and you can delete a character card using the three dots on the right.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be192-8b27-7da9-b739-f8ce854a9fe4/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMDkuMjIgMkAyeC5wbmc.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=beb575a5a2d109f32f4c78c5df3934dcd0345db2ed834d9b77d78a197ffe8073)
+
+By default, each Character card created includes the following traits: Pronouns, Groups, Other Names, Personality, Background, Physical Description, and Dialogue Style.
+
+### Adding Characters
+
+There are three ways to add characters. Click **\+ Add Character** in the Characters header section of Story Bible, and choose from:
+
+**Blank Character -** This creates a blank character card (with either the default traits, or the custom defaults you’ve assigned) for you to manually complete.
+
+**Generate Character** - This option opens a small prompt window that allows you to ask for a certain _type_ of character. This field is very flexible, and you can be as vague or as specific as you’d like.
+
+**Try this:** Ask for a mentor character, or an antagonist to your existing protagonist, in the Generate Character box. You can even paste a lengthy character braindump here for a character you already have notes on. Sudowrite’s AI will further develop the character based on your notes, and refine it so that it fits your default card traits.
+
+**Surprise Me** - This option will instantly generate a random character to round out your cast. Your existing Characters and storyline are taken into consideration and the AI will try to create something that compliments the existing cast. You can add or generate as many characters as you’d like.
+
+### Character Traits
+
+Most of the default traits are pretty self-explanatory. Personality, Background, Physical Description, and Dialogue Style all help an author distinguish characters from one another and add richer detail to their writing.
+
+But traits are there both for _your_ reference, _and_ that of the AI. **Traits inform how the AI will write a character anywhere that character appears.** And since AI depends on specificity, some traits are _primarily_ for the benefit of the AI.
+
+If your character belongs to a group—say for example that they’re in a D&D group called The Hellfire Club—you’d want to include that group name under **Groups**. That way, if you reference The Hellfire Club in a scene, the AI knows which characters may be involved.
+
+The same goes for **Other Names**. Be sure to include any of your character’s nicknames, pet names, or pseudonyms in Other Names, so that the AI understands who you’re referring to at all times (—for example, when you write Tommy in Chapter 6 and you’re actually referring to the character card for Thomas Culligan).
+
+### Trait Customization
+
+Traits aren’t set in stone. You can retitle existing traits, or even **create custom traits at the individual character level _or_ at the default level**.
+
+**Need to add a one-off trait to a character?** (For example, maybe you need a “Bat Form Physical Description” for your vampiric protagonist.) Just click **\+ Add Trait** at the bottom of that character card, title the trait, and then fill out the empty field with details.
+
+**Want all of your characters—or even a specific character type—to have additional traits?** Click the **Customize** button under the **More menu (•••)** at the top of the Characters section and you can edit and rearrange your default traits for each Character type. You can even create brand new custom Character types with specific trait sets!
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be193-2662-7686-a246-9e905018fdd8/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMjQuMTdAMngucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f3a9835b44b2cad74f282e76351a33d04c3090cf4ce45c6f63e10eef5dee1057)
+
+Just click **\+ Add** to add a new default trait, and all future characters will be created with that default trait included. This is ideal if you’d like to add your characters’ Enneagram types, core wounds, or story-specific details (like shifter form, for example).
+
+When adding new defaults, you have the option to create fields for those traits across all existing characters. Just note that if you choose to add them on every existing character card, the newly created fields will need to be manually filled out. Freshly-generated characters on the other hand will include the updated defaults, with those trait fields populated on generation.
+
+### Generating Traits
+
+After adding new default traits to pre-existing Character cards or Worldbuilding elements, you may wind up with a bunch of empty trait fields. Traits can always be filled in manually, but sometimes you want the AI’s help with that, so you have the ability to generate traits individually as well.
+
+**When a trait field is empty, just put your cursor inside of the field and click _Generate_.** You’ll have the option to provide custom instructions, but you can also just click **_Go_**. The AI will then populate that trait field with something contextually appropriate.
+
+The AI takes the rest of your Characters, Worldbuilding elements, and Story Bible context into consideration when generating those traits individually.
+
+You also have the option to Rewrite trait fields that you’re not satisfied with. Just **click Rewrite from within the trait field**, provide custom instructions (if desired), and click Go. The AI looks at the current version of the trait, then rewrites it either according to provide instructions or (if blank) its own intuition and context.
+
+### Character Data
+
+Story Bible’s updated characters section has more structured character data than ever. But **which of Sudowrite’s features make use of your Character data**?
+
+Your characters section is referenced by the Draft tool for the creation of both Scenes and prose generation. Characters are also referenced by the Write button’s Auto and Guided Write modes. And both Quick Edit and Chat can see your characters as well—try asking Chat about any of your character details.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-0304-7672-880f-e153ebb1247d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8fa73a995e2444015f05852f7fe50f6d82b9e8182f667c4485aafa6df8e344db)
+
+You can fit an absurd amount of data on each Character card, and Story Bible won’t ever stop you from adding new Characters. You may see the Characters section referred to as unlimited—but that’s not _entirely_ true. **If you try to add more than 2,000 different characters to your Story Bible you’ll actually hit the limit!** But if you have more than 2,000 characters… well, have you considered you may actually be writing _a phone book_?
+
+### Importing or Exporting Characters
+
+Sometimes you want to pick up on a work in progress, or just create character cards using the notes you’ve already assembled on your characters.
+
+The smart import feature in Story Bible’s Characters section can be used to instantly create Character cards from an existing text.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-4862-72bf-b271-36b9b017a0b2/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=32bf40d476df5e5cb65e09d6c7c4b32da5d258e05891164e1a8941a2001a1850)
+
+To use the smart import feature, navigate to the header of the Characters section of Story Bible and click the Import button in the three dots (•••) menu. Doing so opens the Import window.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-8967-74b8-a93c-9eb046a141e9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0adf860675b367572656c78ccb9bd549254a721a841b60f108f796a00c99d6d4)
+
+You have the option of importing characters from text or a file. This might be a list of characters, a chapter of your work, or in some cases an entire manuscript.
+
+The raw text pasted in or file uploaded should be no more than 60,000 words. Sudowrite will review that, identify, and import up to 30 characters at a time. Before doing so there is a brief validation step where you can tell Sudowrite not to bother bringing a character in (for example, where it identifies a pseudonym or nickname as a distinct character).
+
+ℹ️ The Characters section smart import will accept any of the following file types: .txt, .doc, .docx, .rtf, .odt, .csv
+
+Importing characters does not use credits.
+
+### How will Characters be created using the Smart Import?
+
+For "unstructured text" that you paste in or upload by file, Sudowrite will use AI to first identify the characters, and then figure out how best to complete the defined default trait fields.
+
+However, when uploading a CSV, you’re actually not subject to the limits outlined above—you could import more than 30 characters in one shot, if desired. That’s because Sudowrite skips AI if you upload structured data via CSV. It makes the following assumptions:
+
+-   Each row represents a character
     
-2.  Click the More menu (•••) in the upper right corner of the project card.
+-   Each column represents a character trait
     
-3.  Select "Export (.zip)" from the dropdown menu.
-    
-
-**Project Export Features:**
-
--   Exports all documents within the project
-    
-    -   Note that the export does not include the Story Bible
-        
--   Creates a .zip file for easy storage and sharing
+-   The first row of the CSV is assumed to be column headers representing field names
     
 
-**Use cases:**
+If you’d like complete control over the import, you can complete this CSV template manually:
 
--   Backing up your entire project
-    
--   Sharing your complete work with collaborators or editors
-    
+[https://editor.sudowrite.com/assets/sudowrite-characters-import-template.csv](https://editor.sudowrite.com/assets/sudowrite-characters-import-template.csv)
 
-## Export Project as One Document
+### Exporting Your Characters
 
-We added the ability to export your entire project as a single document rather than a .zip file of every document.
-
-Now when you click the **More menu (•••)** on your project, you have the option to export all of that project’s documents _either_ as a bundled .zip _or_ as one merged document.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be176-fa87-7f21-919e-9843287dc3c7/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=454290e2c4780c1aa5c7965b97df2a0904d2280de54c0dfaf0b652dbfcdeaaea)
-
-If you choose **Export as 1 doc**, the resulting .docx file will include all of your documents in the order that they appear in your project’s left bar (from top to bottom). Documents inside of folders and subfolders are included too, following that sequence. As with the .zip-based export, your Story Bible is not included in the resulting file.
-
-## Document Export
-
-Sometimes you only need to export a specific chapter or single document from your project. The Document Export option allows you to do just that, giving you flexibility in sharing or backing up individual pieces of your work.
-
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be177-526d-7797-ba77-ab46f4fb4d6e/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a32f18f7809187880df10ab3952c0fcbfd0c6dd4088d785eda92c59c55e05dea)
-
-**Document Export Purpose:** Export a single document or chapter from your project.
-
-**How to use:**
-
-1.  Open the desired project in Sudowrite.
-    
-2.  Select the document you want to export in the left sidebar.
-    
-3.  Click the three dot (•••) menu next to the document name.
-    
-4.  Select "Export (.docx)" from the dropdown menu.
-    
-
-**Features:**
-
--   Exports a single document as a .docx file
-    
--   Generally preserves formatting and content of the selected document
-    
--   Quick and easy way to share specific portions of your work
-    
-
-**Use cases:**
-
--   Sharing a single chapter with beta readers
-    
--   Creating a standalone copy of a document for offline editing
-    
-
-🤲 Note that if you’re primarily looking to export a document in order to share it with a collaborator, you may be better served by using Sudowrite’s Document Sharing functionality. Details on Document Sharing, and the collaboration feature we call Clean Copy, are available here: [Collaboration Options](https://www.notion.so/Collaboration-Options-1a07975fa0ec8074a65dc02f25d4540e?pvs=21)
-
-## Story Bible Export
-
-Neither Project Export nor Document Export include your Story Bible contents by default. Some authors choose to copy and paste those fields into a document manually in order to export them, but three sections of the Story Bible each have their own Export functionalities.
-
-**Outline Export:**
-
--   Click the **More menu (•••)** option in the Outline section header of your Story Bible
-    
--   You’ll be presented an Export option
-    
--   Once Exported, you’ll receive a two-column .CSV file with your chapter names in the left column and corresponding chapter summaries in the right column
-    
+While your Story Bible is not included during a typical project export, the Characters section of Story Bible has its own Export feature available, allowing you to download the entirety of the Characters section. That file will include all of your Characters, and all of their traits. Here’s how to use it.
 
 **Characters Export:**
 
@@ -3848,181 +3947,248 @@ Neither Project Export nor Document Export include your Story Bible contents by 
     
 -   Once Exported, you’ll receive a .CSV file with all of your characters represented as rows, and all of your default and custom traits represented as columns
 
+---
+
+### Synopsis
+
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 0063553-synopsis
+**ID:** 0063553
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+Synopsis establishes the characters, their goals, the central conflict, how your story begins and how it ends. It also conveys your story's tone, themes, and unique elements.
+
+**To tell Story Bible to create your Synopsis, just click the Generate button.**
+
+If your Braindump is missing crucial elements, Story Bible will have to get more creative in order to fill in the blanks in your Synopsis. So be sure to include anything of vital importance to your story in the Braindump!
+
+### Improving your Synopsis
+
+Once Story Bible has generated your Synopsis, you’ll likely want to make changes. These changes can be small, like changing a character name or setting, or big, like restructuring the entire ending. As with Braindump, it’s good to provide as much detail as you can in your Synopsis, because the AI will use this information later on in other sections.
+
+There are two ways to make these changes:
+
+1.  **Make changes manually.**
+    
+
+Do this by editing the text of your Synopsis directly in the text box.
+
+1.  **Use AI to rewrite your Synopsis.**
+    
+
+When your cursor is in the Synopsis field, you’ll see a “Rewrite” button below the text. Click it to offer the AI some instructions on rewriting your Synopsis, the same way you might give a junior writer feedback.
+
+Once you’ve typed the changes you want made, just click the **Go** button.
+
+🕓 **QUICK TIP**
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cb45b069893d4fb8adc/019be18e-847d-7e21-b126-5c4f01a16159/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=67aa1b4f864ca8c8db6d59a9806c92c2b35ea3d731740f23a12b25a262c31495)
+
+✏️ **Rewrite Examples**
+
+-   _Add more tension in the beginning of the story_
+    
+-   _Make the antagonist more likable_
+    
+-   _Change the ending to be sad_ </aside>
+    
+
+The generation of Synopsis is informed by both Braindump and Genre. The Synopsis influences the generation of Characters, Worldbuilding, Outline, and Scenes. As mentioned previously, in the event the Synopsis field is empty, the fields that rely on Synopsis would instead defer to the Braindump.
 
 ---
 
-### Importing Files
+### Style
 
-**Collection:** Using Sudowrite > Workflows
-**Slug:** 5186529-importing-files
-**ID:** 5186529
-**Last Updated:** 2026-01-21T16:49:02.355Z
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 8450925-style
+**ID:** 8450925
+**Last Updated:** 2026-04-17T17:10:35.246Z
 
-Sudowrite offers several different ways to import your existing work or works-in-progress. Each method serves a different purpose and has its own unique features. Let’s explore the available options to help you choose the best one for your needs.
+Style affects the tone, word choice, and sentence structure that Sudowrite uses anywhere the Style is included. What you put here has the most significant style influence on Prose written with Draft or the Write button.
 
-## 1\. Import Novel
+✏️ **Examples**
 
-Do you have a work-in-progress that you’re excited to bring into Sudowrite to continue? Or perhaps you're gearing up to write a sequel and need a comprehensive Story Bible based on your previous work? The Import Novel feature is perfect for these scenarios. It's a one-stop solution that brings your entire manuscript into Sudowrite and fills in your Story Bible for you in the process.
-
-**Import Novel Purpose:** Create an entirely new project with a pre-populated Story Bible based on your partial or complete manuscript (or even a less-than-organized pile of notes).
-
-**How to use Import Novel:**
-
-1.  Click the "Import" button in the upper left corner of your Sudowrite home page.
+-   _Lush prose_
     
-2.  Drag a file into the Import modal or click "Browse" to select a file from your computer.
+-   _Spare and haunting. Written in short sentences with lots of menacing dialogue._
     
-3.  Wait for the import process to complete (typically a few minutes, but may take up to 10 minutes for complex manuscripts).
+-   _Whimsical and dense_
+    
+-   _Action-packed and violent_ </aside>
     
 
-**Import Novel Features:**
+✨ **Pro-tip!** While not _necessary_, Sudowrite experts recommend tweaking both your Genre and Style boxes in advance of generating a particular chapter, so that you can really dial-in a specific tone. Style in particular has a big impact on prose.
 
--   Automatically creates a new Sudowrite project
-    
--   Populates the Story Bible with the essential components, including characters, world-building elements, and a detailed outline
-    
--   Optimized for documents up to 120,000 words
-    
--   Focuses on importing 5-7 primary characters
-    
--   Supports .txt, .doc, .docx, .rtf, and .odt file types
-    
-
-**Import Novel Limitations:**
-
--   Always creates a new project to avoid conflicts with existing Story Bible data
-    
--   May generate placeholder names for unnamed characters
-    
--   Very long outlines may be saved as separate documents (though we’re working on improving the Outline section of Story Bible to better support long outlines)
-    
-
-## 2\. Import Scrivener
-
-You can now import your Scrivener projects directly into Sudowrite! Your documents and folder structure will be preserved, making it easy to pick up right where you left off.
-
-Bringing in your work is simple:
-
-1.  In Scrivener, go to File → Back Up → Back Up To… and save your project as a `.zip` file.
-    
-2.  In Sudowrite, click **Import Novel** from the homepage and select **Import Scrivener**.
-    
-3.  Select your `.zip` file and let Sudowrite do the rest.
-    
-
-Your entire project structure—folders, documents, and organization—will be recreated in Sudowrite, ready for you to start writing with all the powerful AI tools you know and love.
-
-## 3\. Document Import
-
-Sometimes all you need is to get your document into an existing Sudowrite project so you can get straight to work. Maybe you've written a few chapters already, or just want to use Sudowrite for the powerful editing tools. The simple Document Import is ideal for these situations, allowing you to bring in content without affecting your existing Story Bible or project structure.
-
-**Document Import Purpose:** Add an existing document to your project without affecting the Story Bible.
-
-**How to use:**
-
-1.  In an existing project, click the "Import" button in the editor's left bar.
-    
-2.  Select the file you want to import.
-    
-
-**Features:**
-
--   Creates a single document in your project containing the full imported text
-    
--   No limit on document size
-    
--   Preserves any existing Story Bible content
-    
--   Allows for manual Story Bible creation or editing after import
-    
-
-By choosing the appropriate import method, you can efficiently bring your existing work into Sudowrite while maintaining control over how it integrates with your project structure and Story Bible. Whether you're starting fresh with a completed manuscript, populating your character list, or simply adding content to an existing project, Sudowrite has an import option tailored to your needs.
-
-## 4\. Outline Import
-
-Already have a full or partial Outline for your book? The Outline section of Story Bible allows you to bring that Outline in—whether it’s formatted tidily or not.
-
-**Outline Import Purpose:** Bring in a pre-existing Outline to your Story Bible.
-
-**How to use Outline Import:**
-
-1.  Navigate to the Outline section of your Story Bible.
-    
-2.  Click the three dots (•••) menu in the right corner of the header and select "Import Outline".
-    
-3.  Paste in your Outline or select a file. The default Outline Import will pull in what you provide as closely as possible, only making light changes required to fit Story Bible’s requirements.
-    
-
-**Outline Import Features:**
-
--   Accepts text input or file upload
-    
--   Supports .txt, .doc, .docx, .rtf, .odt, and .csv file types
-    
--   Does not use credits
-    
-
-**CSV Import Option**
-
-If you want to bring in your Outline _exactly_ as-is, and ensure the AI does not make any tweaks in the process, you can download the Outline CSV template and fill it out. Simply title Chapters as desired in the left column, and provide chapter details in the right. This rigid structure ensures that Sudowrite will take in your Outline without making any edits.
-
--   You can also get that template here: [Outline Import Template](https://editor.sudowrite.com/assets/sudowrite-outline-template.csv)
-
+Style is filled in manually—or by using the Match My Style feature—and is not informed by any other Story Bible fields. Style directly influences both Scene and Chapter generation.
 
 ---
 
-### Organizing Your Projects
+### Genre
 
-**Collection:** Using Sudowrite > Workflows
-**Slug:** 6639290-organizing-your-projects
-**ID:** 6639290
-**Last Updated:** 2026-01-21T16:47:58.662Z
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 7291201-genre
+**ID:** 7291201
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
-Everyone has their own system when it comes to organizing their work, and now you can bring yours to Sudowrite. **Project** **Folders** can be used to track your project status, group your work by series or pen name, or just keep your desktop tidy.
+## Genre
 
-You can create folders from the **\+ New** button in the upper lefthand corner, just like you would a new project. **Drag and drop** projects directly onto a folder to move them, or use the **Move to** option available in the **More (•••) menu**. A few things to know about folders:
+This is where you specify the genre of the story you’re writing, which affects the tropes, tone, and style of the outlines and prose that’s generated by Sudowrite. Rather than jotting down a literal genre, we recommend you unpack some of the themes and thematic elements you’re looking for in your story.
 
--   Hover over any folder to **preview your 3 most recent projects** in that folder
+✏️ **Examples**
+
+-   _Space opera, science fiction_
     
--   **Click on a preview to go directly into that project** without opening the folder!
+-   _Historical Romance_
     
--   You can **create or move folders inside of folders**
+-   _Literary Realism_
     
--   Navigate easily with the **file path** provided at the top of your screen in folders
-    
--   **Projects can be dragged over that file path** to relocate them
+-   _Alt history timeloop_ </aside>
     
 
-When you delete a folder, all its contents move to trash together. Don't worry—you can restore entire folders (and their contents) from the **Deleted projects** page, available via the Settings menu (⚙️) in the upper right, if you need them back.
+✨ **Pro-tip!** Is the AI writing romance that’s a little _tired_? Change it to _friends to lovers romance_, or _small town cozy romance_, or avoid the term _romance_ altogether. In general, you’ll get the best (least tropey) results if you can unpack the thematic elements you’re actually looking for.
 
-🗂️ **Folders transcript**
-
-While the visuals in the video above help illustrate the workflows outlined here, a transcript of the Folders video above is available by expanding this toggle.
-
-Project folders are a new way to keep yourself focused and organized on Sudowrite. Here's how they work: First, click "New" in the upper left and select "Folder" to create a new folder. You can name that folder by selecting the name and typing - just hit return when you're done. Then you can move projects into that folder by just clicking and dragging. You'll be presented with a little preview of the projects that that folder contains. You can hover over the preview to flip through the projects, and you can even click straight into one of those projects from here without even opening the folder.
-
-If there's a project that's a little bit far for clicking and dragging, you can use the three dots in the upper right and select "Move to" from the drop-down menu that appears. That will allow you to move it into any available folder. Folders can also contain other folders for even greater organization - just click "New" again inside of a folder to create a folder right there. Here I can drag something one layer deeper, and then inside of that folder, I have a file path appear up top so I know exactly where I am. If I want to move something back out to another folder, I could use "Move to," or I can actually just drag on top of that file path and it will move where I drop it.
-
-If I'm done with a folder, I can delete it from the three-dot menu. In tidying up the homepage, we've also moved deleted projects, so those now live here in the settings gear. You can click into "Deleted Projects" to see both projects and folders that you've deleted, and you can also restore them from the three-dot menu.
-
-That's it! We hope these changes help you create a more organized workspace that lets you get more done.
-
+Genre is filled in manually, and thus is not informed by any other Story Bible fields. Meanwhile, the Genre influences Synopsis, Outline, Scenes, and Prose Generation (in Draft).
 
 ---
+
+### Braindump
+
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 9784768-braindump
+**ID:** 9784768
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+## Setting up your story
+
+good news: You don't have to stress out about your brain dump. You can put absolutely anything you want in this field, but here are a few pointers on what you may want to include to get the most out of it:.
+
+## Braindump
+
+Imagine that you’re meeting with another writer who will collaborate with you on your story.
+
+You’re meeting them for the first time, and they have zero context. The Braindump section is what you’d tell this writer in order to introduce them to the core elements on your story. It’s part elevator pitch, part “everything I know for sure.”
+
+This could be a sentence, a paragraph, a snippet of a scene, or any free-form passage of text. The more information you put in Braindump, the better picture the AI will have of your vision.
+
+**We recommend writing at least a few hundred words here**. You can always revise Braindump later as story elements change.
+
+🧠 Braindump directly influences the generation of Synopsis. Otherwise, if the Synopsis is never filled in or generated, fields that are typically informed by Synopsis will defer to the Braindump.
+
+---
+
+### What is Story Bible
+
+**Collection:** Using Sudowrite > Story Bible
+**Slug:** 1671191-what-is-story-bible
+**ID:** 1671191
+**Last Updated:** 2026-04-17T17:10:06.516Z
+
+Story Bible gathers the core elements of your story in one place so that you and Sudowrite’s AI can reference them as you develop your work. As a feature, it has two purposes:
+
+1.  **Keeps you organized:** Story Bible gives you a way to develop your narrative, beginning with something as simple as a Braindump. If you step through it sequentially you’ll create all the core components of your story, including (eventually) Scenes and even Chapter Prose.
+    
+2.  **Keep the AI on track:** Story Bible works as a source of truth that both you and the AI can refer back to later. Even if you don’t want to use it to generate your story, it’s a great place to park anything you know for sure about your narrative.
+    
+
+Each project on Sudowrite has its own Story Bible, and it can be toggled on or off depending on just how you like to work.
+
+# Overview
+
+Working with Story Bible lets you build a long-form narrative from just the seed of an idea. You’ll be guided through the various stages of writing a novel, from synopsis to outline to fully-realized scenes.
+
+Like any other Sudowrite tool, the resulting story is only as good as the writer directing it. Think of it like an improv act: pay attention to what Story Bible writes, then edit and respond with words that are true to your vision. In the end, you will have a first draft of scenes that you can develop further.
+
+You’ll find your Story Bible in the left bar of your Project, beneath your document list.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c7f628c454516ad35e2/019be187-fedb-725b-bb70-37bee4f3d785/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=760cc79a702510d0431ad265a1bd9ead0864e48589c8008337ee269013d362ea)
+
+## How to move through Story Bible
+
+Story Bible works a little differently from other parts of Sudowrite. Here are the basics:
+
+-   When Story Bible is toggled on, the individual Story Bible fields will be displayed beneath the prose section of your document.
+    
+-   Story Bible is persistent—that means as you jump from document to document in your left Project management bar, the same Story Bible contents will remain visible _beneath_ the prose section. (Only the document’s body will be toggled.)
+    
+-   Click into a field for details and examples of how exactly a given section of the Story Bible works. This will reveal context on what it influences down the line in regards to generation.
+    
+-   Any section can be manually populated to any degree—but some sections also feature a **Generate** button. Click the **Generate** button and Story Bible will make a suggestion for that section. You can always revise or rewrite these generations to your liking.
+    
+-   As an alternative to manually editing the generation, whenever you see a **Rewrite** button in a field, you can use that to give Story Bible specific instructions on how you’d like _it_ to modify the generation you’d produced.
+    
+
+## How are the Story Bible fields connected?
+
+A common question when it comes to Story Bible is: Which boxes or steps of Story Bible influence _other_ steps of the process. It’s a little complicated, but here’s an explanation. (Don’t worry, you won’t be quizzed on this, and you don’t need to remember it to get great results!)
+
+**Braindump:**
+
+This is the starting point of Story Bible, where you’ll capture your initial ideas for the story. It’s filled in manually, and since it can’t be generated it is not influenced by any of the other fields.
+
+Braindump directly influences the generation of Synopsis. Otherwise, if the Synopsis is never filled in or generated, fields that are typically influenced by Synopsis will defer instead to the Braindump.
+
+**Genre:**
+
+Genre is filled in manually, and thus is not informed by any other Story Bible fields.
+
+Meanwhile, the Genre influences Synopsis, Outline, Scenes, and Prose Generation in Draft.
+
+**Style:**
+
+Style is filled in manually—or by using the Match My Style feature—and is not informed by any other Story Bible fields.
+
+Style directly influences both Scene and Prose Generation in Draft.
+
+**Synopsis:**
+
+The generation of Synopsis is informed by both Braindump and Genre.
+
+The Synopsis influences the generation of Characters, Worldbuilding, Outline, and Scenes.
+
+As mentioned previously, in the event the Synopsis field is empty, the fields that rely on Synopsis would instead defer to the Braindump.
+
+**Characters:**
+
+Characters are generated based on the Synopsis.
+
+Meanwhile, Characters directly influences the generation of your story’s Outline, Scenes, and Draft.
+
+**Worldbuilding:**
+
+Worldbuilding is influenced by the Synopsis, when generating random Worldbuilding elements.
+
+Meanwhile, Worldbuilding directly informs your story’s Outline, Scenes, and Prose Generation in Draft.
+
+**Outline:**
+
+Outline is influenced by Genre, Synopsis, Characters, and Worldbuilding.
+
+Meanwhile, Outline directly informs Scene generation.
+
+**Scenes:**
+
+Scene generation considers the most Story Bible context, taking into account Genre, Style, Synopsis, Outline, Characters, and Worldbuilding.
+
+Scenes directly influence Prose Generation in Draft.
+
+**Draft:**
+
+When generating chapter prose, the Draft tool is informed by Style, Genre, Characters, Worldbuilding, and Scenes.
+
+📌 **Note:** Scene and Prose Generation (in Draft) will only look at explicitly mentioned Characters and Worldbuilding elements.
+
+---
+
+## Workflows
 
 ### Using the Sudowrite Mobile App
 
 **Collection:** Using Sudowrite > Workflows
 **Slug:** 8875915-using-the-sudowrite-mobile-app
 **ID:** 8875915
-**Last Updated:** 2026-01-20T23:30:00.000Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
-
-# Using the Sudowrite Mobile App
-
-> **Note:** This article has been split into multiple detailed articles. For comprehensive mobile app documentation, please see the **Sudowrite's Mobile App** section.
-
-Sudowrite's iOS app is a companion app for iPhone that lets you work on your stories whenever and wherever inspiration strikes. Access your projects, write on the go, and even dictate new ideas with our mobile-exclusive feature: Smart Dictation.
+Sudowrite’s iOS app is a companion app for iPhone that lets you work on your stories whenever and wherever inspiration strikes. Access your projects, write on the go, and even dictate new ideas with our mobile-exclusive feature: Ramble mode.
 
 ## Getting Started
 
@@ -4195,54 +4361,349 @@ We built the iOS app for momentum—so you can keep writing even when you’re a
 
 Got feedback? Tap the **Feedback** button in Settings. We’re all ears.
 
+---
+
+### Collaboration Options
+
+**Collection:** Using Sudowrite > Workflows
+**Slug:** 7364030-collaboration-options
+**ID:** 7364030
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+Whether you're working with a collaborator, an editor, or you just want to share your work, Sudowrite offers powerful collaboration features to help you get feedback on your writing. You can effortlessly create and share links to your work and even collect comments from readers, all while maintaining control over the sharing process.
+
+## Document Sharing
+
+Share your writing directly from Sudowrite with beta readers and collaborators. Whether it's a single chapter or a complete manuscript, you can generate shareable links that present your work beautifully.
+
+To share a document:
+
+1.  Click the **Share** icon in the upper right corner of your screen (next to the ⚙️ settings gear).
+    
+2.  Click the Share button to generate a link for your current document
+    
+3.  Alternatively, use the dropdown arrow beside the Share button to share a different document from your project
+    
+
+The link will be automatically copied to your clipboard, and you can always click the Copy button to grab that URL again. Anyone with that link can view your document. Meanwhile, you can click on the project in that Share menu to open the version of your document published to the web.
+
+A few things to know about document sharing:
+
+-   You can track all of your project’s shared documents in the Share menu
+    
+-   Unpublish shared documents anytime from that Share menu using the **More menu (•••)**
+    
+-   Changes you make to your document in the editor are automatically reflected in the shared version (though readers may need to refresh)
+    
+-   You can share multiple versions of your story by duplicating your document and generating different share links </aside>
+    
+
+## Clean Copy and Comments
+
+Clean Copy is a feature of Sudowrite’s document sharing functionality that transforms how you collect and manage reader feedback. Share your document, distribute the URL, and each reader gets their own clean copy to comment on if they wish—keeping feedback both organized and private.
+
+Here's how Clean Copy works:
+
+-   Each reader can comment on the document you’ve shared with them by highlighting a passage and leaving their comment in the box that appears.
+    
+-   If they’re logged into Sudowrite, their display name will appear automatically. If they’re not, they can either log in, set a display name (only necessary once on the first comment they leave), or remain anonymous.
+    
+-   Readers never see one another’s comments—keeping your feedback unbiased. They will however see any responses that you, as the author, make to their comment.
+    
+-   Comments will appear along your document's right side. And of course, you can also now comment on your own document from the selection menu, which is super handy for revision workflows and situations where you'd just like to leave yourself notes. If you want to hide comments, just click the comment icon in the document toolbar to toggle them on/off.
+    
+-   With Comment Mode enabled, you will see all comments you’ve received along the right side of your document.
+    
+-   As the author, you can also leave yourself comments! No need to do so on a shared document either—you’ll see a **New Comment** option in the selection menu when you highlight a passage in your editor.
+    
+
+## Best Practices for Collaboration
+
+-   Unpublish old shared versions when you want to direct readers to newer drafts
+    
+-   Use your own comments to track revision ideas while reviewing reader feedback
+    
+-   Share different drafts with different groups of readers by creating multiple share links
+    
+-   Check that readers are viewing the latest version by having them refresh occasionally
+    
+
+Clean Copy and document sharing make it easy to maintain a smooth feedback process with your readers while keeping your work organized within Sudowrite.
+
+---
+
+### Exporting Files
+
+**Collection:** Using Sudowrite > Workflows
+**Slug:** 0052666-exporting-files
+**ID:** 0052666
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+Sudowrite offers a few different ways to export your work, allowing you to easily save individual files, projects, or Story Bible sections.
+
+## Project Export
+
+Need to backup your entire project or share all of the documents with a collaborator? The Project Export feature is perfect for these scenarios. It allows you to export all of your documents at once as a bundled .zip file.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be176-9b23-76b4-9eed-c7b0a079678d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9283481dc04fe2deee2bf1488b542c68700a1a561c335778defc58e53cb6676b)
+
+**Project Export Purpose:** Export every document in a project at once.
+
+**How to use:**
+
+1.  On the Sudowrite home page ([sudowrite.com](http://sudowrite.com)) or within the appropriate folder, locate the project card you want to export.
+    
+2.  Click the More menu (•••) in the upper right corner of the project card.
+    
+3.  Select "Export (.zip)" from the dropdown menu.
+    
+
+**Project Export Features:**
+
+-   Exports all documents within the project
+    
+    -   Note that the export does not include the Story Bible
+        
+-   Creates a .zip file for easy storage and sharing
+    
+
+**Use cases:**
+
+-   Backing up your entire project
+    
+-   Sharing your complete work with collaborators or editors
+    
+
+## Export Project as One Document
+
+We added the ability to export your entire project as a single document rather than a .zip file of every document.
+
+Now when you click the **More menu (•••)** on your project, you have the option to export all of that project’s documents _either_ as a bundled .zip _or_ as one merged document.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be176-fa87-7f21-919e-9843287dc3c7/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2f4948403a573bfe5fdfe083c0070b95af4d1393eb6035d8a1b2134539e56ba0)
+
+If you choose **Export as 1 doc**, the resulting .docx file will include all of your documents in the order that they appear in your project’s left bar (from top to bottom). Documents inside of folders and subfolders are included too, following that sequence. As with the .zip-based export, your Story Bible is not included in the resulting file.
+
+## Document Export
+
+Sometimes you only need to export a specific chapter or single document from your project. The Document Export option allows you to do just that, giving you flexibility in sharing or backing up individual pieces of your work.
+
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be177-526d-7797-ba77-ab46f4fb4d6e/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=dee2d463583c30d24dfa920dc3d6b121a89cda54abd580e18afcc982d5f86d06)
+
+**Document Export Purpose:** Export a single document or chapter from your project.
+
+**How to use:**
+
+1.  Open the desired project in Sudowrite.
+    
+2.  Select the document you want to export in the left sidebar.
+    
+3.  Click the three dot (•••) menu next to the document name.
+    
+4.  Select "Export (.docx)" from the dropdown menu.
+    
+
+**Features:**
+
+-   Exports a single document as a .docx file
+    
+-   Generally preserves formatting and content of the selected document
+    
+-   Quick and easy way to share specific portions of your work
+    
+
+**Use cases:**
+
+-   Sharing a single chapter with beta readers
+    
+-   Creating a standalone copy of a document for offline editing
+    
+
+🤲 Note that if you’re primarily looking to export a document in order to share it with a collaborator, you may be better served by using Sudowrite’s Document Sharing functionality. Details on Document Sharing, and the collaboration feature we call Clean Copy, are available here: [Collaboration Options](https://www.notion.so/Collaboration-Options-1a07975fa0ec8074a65dc02f25d4540e?pvs=21)
+
+## Story Bible Export
+
+Neither Project Export nor Document Export include your Story Bible contents by default. Some authors choose to copy and paste those fields into a document manually in order to export them, but three sections of the Story Bible each have their own Export functionalities.
+
+**Outline Export:**
+
+-   Click the **More menu (•••)** option in the Outline section header of your Story Bible
+    
+-   You’ll be presented an Export option
+    
+-   Once Exported, you’ll receive a two-column .CSV file with your chapter names in the left column and corresponding chapter summaries in the right column
+    
+
+**Characters Export:**
+
+-   Click the **More menu (•••)** option in the Characters section header of your Story Bible
+    
+-   You’ll be presented an Export option
+    
+-   Once Exported, you’ll receive a .CSV file with all of your characters represented as rows, and all of your default and custom traits represented as columns
+
+---
+
+### Importing Files
+
+**Collection:** Using Sudowrite > Workflows
+**Slug:** 5186529-importing-files
+**ID:** 5186529
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+Sudowrite offers several different ways to import your existing work or works-in-progress. Each method serves a different purpose and has its own unique features. Let’s explore the available options to help you choose the best one for your needs.
+
+## 1\. Import Novel
+
+Do you have a work-in-progress that you’re excited to bring into Sudowrite to continue? Or perhaps you're gearing up to write a sequel and need a comprehensive Story Bible based on your previous work? The Import Novel feature is perfect for these scenarios. It's a one-stop solution that brings your entire manuscript into Sudowrite and fills in your Story Bible for you in the process.
+
+**Import Novel Purpose:** Create an entirely new project with a pre-populated Story Bible based on your partial or complete manuscript (or even a less-than-organized pile of notes).
+
+**How to use Import Novel:**
+
+1.  Click the "Import" button in the upper left corner of your Sudowrite home page.
+    
+2.  Drag a file into the Import modal or click "Browse" to select a file from your computer.
+    
+3.  Wait for the import process to complete (typically a few minutes, but may take up to 10 minutes for complex manuscripts).
+    
+
+**Import Novel Features:**
+
+-   Automatically creates a new Sudowrite project
+    
+-   Populates the Story Bible with the essential components, including characters, world-building elements, and a detailed outline
+    
+-   Optimized for documents up to 120,000 words
+    
+-   Focuses on importing 5-7 primary characters
+    
+-   Supports .txt, .doc, .docx, .rtf, and .odt file types
+    
+
+**Import Novel Limitations:**
+
+-   Always creates a new project to avoid conflicts with existing Story Bible data
+    
+-   May generate placeholder names for unnamed characters
+    
+-   Very long outlines may be saved as separate documents (though we’re working on improving the Outline section of Story Bible to better support long outlines)
+    
+
+## 2\. Import Scrivener
+
+You can now import your Scrivener projects directly into Sudowrite! Your documents and folder structure will be preserved, making it easy to pick up right where you left off.
+
+Bringing in your work is simple:
+
+1.  In Scrivener, go to File → Back Up → Back Up To… and save your project as a `.zip` file.
+    
+2.  In Sudowrite, click **Import Novel** from the homepage and select **Import Scrivener**.
+    
+3.  Select your `.zip` file and let Sudowrite do the rest.
+    
+
+Your entire project structure—folders, documents, and organization—will be recreated in Sudowrite, ready for you to start writing with all the powerful AI tools you know and love.
+
+## 3\. Document Import
+
+Sometimes all you need is to get your document into an existing Sudowrite project so you can get straight to work. Maybe you've written a few chapters already, or just want to use Sudowrite for the powerful editing tools. The simple Document Import is ideal for these situations, allowing you to bring in content without affecting your existing Story Bible or project structure.
+
+**Document Import Purpose:** Add an existing document to your project without affecting the Story Bible.
+
+**How to use:**
+
+1.  In an existing project, click the "Import" button in the editor's left bar.
+    
+2.  Select the file you want to import.
+    
+
+**Features:**
+
+-   Creates a single document in your project containing the full imported text
+    
+-   No limit on document size
+    
+-   Preserves any existing Story Bible content
+    
+-   Allows for manual Story Bible creation or editing after import
+    
+
+By choosing the appropriate import method, you can efficiently bring your existing work into Sudowrite while maintaining control over how it integrates with your project structure and Story Bible. Whether you're starting fresh with a completed manuscript, populating your character list, or simply adding content to an existing project, Sudowrite has an import option tailored to your needs.
+
+## 4\. Outline Import
+
+Already have a full or partial Outline for your book? The Outline section of Story Bible allows you to bring that Outline in—whether it’s formatted tidily or not.
+
+**Outline Import Purpose:** Bring in a pre-existing Outline to your Story Bible.
+
+**How to use Outline Import:**
+
+1.  Navigate to the Outline section of your Story Bible.
+    
+2.  Click the three dots (•••) menu in the right corner of the header and select "Import Outline".
+    
+3.  Paste in your Outline or select a file. The default Outline Import will pull in what you provide as closely as possible, only making light changes required to fit Story Bible’s requirements.
+    
+
+**Outline Import Features:**
+
+-   Accepts text input or file upload
+    
+-   Supports .txt, .doc, .docx, .rtf, .odt, and .csv file types
+    
+-   Does not use credits
+    
+
+**CSV Import Option**
+
+If you want to bring in your Outline _exactly_ as-is, and ensure the AI does not make any tweaks in the process, you can download the Outline CSV template and fill it out. Simply title Chapters as desired in the left column, and provide chapter details in the right. This rigid structure ensures that Sudowrite will take in your Outline without making any edits.
+
+-   You can also get that template here: [Outline Import Template](https://editor.sudowrite.com/assets/sudowrite-outline-template.csv)
+
+---
+
+### Organizing Your Projects
+
+**Collection:** Using Sudowrite > Workflows
+**Slug:** 6639290-organizing-your-projects
+**ID:** 6639290
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+Everyone has their own system when it comes to organizing their work, and now you can bring yours to Sudowrite. **Project** **Folders** can be used to track your project status, group your work by series or pen name, or just keep your desktop tidy.
+
+You can create folders from the **\+ New** button in the upper lefthand corner, just like you would a new project. **Drag and drop** projects directly onto a folder to move them, or use the **Move to** option available in the **More (•••) menu**. A few things to know about folders:
+
+-   Hover over any folder to **preview your 3 most recent projects** in that folder
+    
+-   **Click on a preview to go directly into that project** without opening the folder!
+    
+-   You can **create or move folders inside of folders**
+    
+-   Navigate easily with the **file path** provided at the top of your screen in folders
+    
+-   **Projects can be dragged over that file path** to relocate them
+    
+
+When you delete a folder, all its contents move to trash together. Don't worry—you can restore entire folders (and their contents) from the **Deleted projects** page, available via the Settings menu (⚙️) in the upper right, if you need them back.
+
+🗂️ **Folders transcript**
+
+While the visuals in the video above help illustrate the workflows outlined here, a transcript of the Folders video above is available by expanding this toggle.
+
+Project folders are a new way to keep yourself focused and organized on Sudowrite. Here's how they work: First, click "New" in the upper left and select "Folder" to create a new folder. You can name that folder by selecting the name and typing - just hit return when you're done. Then you can move projects into that folder by just clicking and dragging. You'll be presented with a little preview of the projects that that folder contains. You can hover over the preview to flip through the projects, and you can even click straight into one of those projects from here without even opening the folder.
+
+If there's a project that's a little bit far for clicking and dragging, you can use the three dots in the upper right and select "Move to" from the drop-down menu that appears. That will allow you to move it into any available folder. Folders can also contain other folders for even greater organization - just click "New" again inside of a folder to create a folder right there. Here I can drag something one layer deeper, and then inside of that folder, I have a file path appear up top so I know exactly where I am. If I want to move something back out to another folder, I could use "Move to," or I can actually just drag on top of that file path and it will move where I drop it.
+
+If I'm done with a folder, I can delete it from the three-dot menu. In tidying up the homepage, we've also moved deleted projects, so those now live here in the settings gear. You can click into "Deleted Projects" to see both projects and folders that you've deleted, and you can also restore them from the three-dot menu.
+
+That's it! We hope these changes help you create a more organized workspace that lets you get more done.
 
 ---
 
 
 
 # Resources
-
----
-
-## Classes
-
-### Curriculum Details
-
-**Collection:** Resources > Classes
-**Slug:** 4321134-curriculum-details
-**ID:** 4321134
-**Last Updated:** 2026-01-21T18:19:41.309Z
-
-Sudowrite offers **free live classes** almost every day of the week. We cover a wide variety of topics, genres, and workflows, with sessions ranging from working with Sudowrite to writing craft in general.
-
-### How the curriculum is structured
-
--   **Quick Start sessions** (zero Sudowrite experience required)
-    
-    Quick Start sessions are beginner-friendly classes that don’t assume you have a handle on Sudowrite yet. These are perfect as your first class, or if you’re returning to Sudowrite after a break.
-    
--   **Deep Dive sessions** (you already know the basics)
-    
-    Deep Dive sessions go into more granular detail around certain workflows or processes. These sessions are able to cover more complex topics because they assume you’re already comfortable with Sudowrite fundamentals. Great for those who want to get “in the weeds” on specific tools.
-    
--   **Workshops** (hands-on, create alongside an instructor)
-    
-    Workshops are practical, creative sessions where you can actively work on your writing with guidance—often centered on a theme (e.g., planning/goal setting, writing diverse stories, etc.).
-    
-
-### Regular weekly sessions you can always rely on
-
--   **Weekly Welcome Session**: a “zero to one” onboarding that walks brand-new users through the essentials and gives you the foundation to navigate Sudowrite confidently.
-    
--   **Office Hours**: a looser, unstructured help session where attendees bring questions, troubleshoot workflows, and learn by watching others’ problems get solved.
-    
-
-Missed a live session? Class recordings are routinely shared in the Sudowrite Discord #**course-videos** channel.
-
-### Why attend?
-
-As Octavia E. Butler said, "Forget talent. If you have it, fine. Use it. If you don’t have it, it doesn’t matter. As habit is more dependable than inspiration, continued learning is more dependable than talent."
-
 
 ---
 
@@ -4253,7 +4714,7 @@ As Octavia E. Butler said, "Forget talent. If you have it, fine. Use it. If you 
 **Collection:** Resources > Community
 **Slug:** 3568979-ambassadors
 **ID:** 3568979
-**Last Updated:** 2026-01-21T18:23:02.977Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 Sudowrite’s Ambassador program is a way for our most active and passionate authors to shape, support, and grow our community alongside us. If you’re already one of the more active voices in the community and feel like you have exciting ideas for the future of Sudowrite, this may be for you!
 
@@ -4305,7 +4766,6 @@ We love your ambition! The first step to becoming an Ambassador is simply being 
 
 When you’re ready to apply, you can [**fill out this Ambassador application form**](https://airtable.com/appzYmPFcz9Wxzn0X/shrmqE2y2snfRhd5N). We review all applicants on a quarterly cycle, at the beginning of February, May, August, and November.
 
-
 ---
 
 ### Community Guidelines
@@ -4313,7 +4773,7 @@ When you’re ready to apply, you can [**fill out this Ambassador application fo
 **Collection:** Resources > Community
 **Slug:** 4486684-community-guidelines
 **ID:** 4486684
-**Last Updated:** 2026-01-21T18:21:34.040Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 The [**Sudowrite Discord community**](https://discord.gg/sudowrite) is a place for authors and writers working with AI to hang out, share ideas, and learn from one another. There are people from all over the world and people of all ages in our community. Every day they’re experimenting and making discoveries that push the boundaries of just what you can do with AI—and the written word.
 
@@ -4353,7 +4813,6 @@ We encourage you attend and participate in these events, but we do have some bas
 
 **📕 Listen to teacher** - Different instructors may have different rules for their sessions—raised hands only, queue up questions in the chat, etc.—depending on the format, topic, and attendance. We expect that, in those situations, you will defer to your instructor’s preferences.
 
-
 ---
 
 ### Discord Server
@@ -4361,7 +4820,7 @@ We encourage you attend and participate in these events, but we do have some bas
 **Collection:** Resources > Community
 **Slug:** 7032025-discord-server
 **ID:** 7032025
-**Last Updated:** 2026-01-21T18:20:46.743Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 Sudowrite has a community Discord server available. You can join the server to get your questions answered and connect with other curious and friendly, forward-thinking authors.
 
@@ -4369,6 +4828,46 @@ Sudowrite has a community Discord server available. You can join the server to g
 
 We know that not everyone is on Discord, and new tools can be overwhelming—so we hosted a Discord open house to try and demystify both the tool, and the unique setup of our server. It’s hosted on our YouTube, but you can watch it right here.
 
+---
+
+## Classes
+
+### Curriculum Details
+
+**Collection:** Resources > Classes
+**Slug:** 4321134-curriculum-details
+**ID:** 4321134
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+Sudowrite offers **free live classes** almost every day of the week. We cover a wide variety of topics, genres, and workflows, with sessions ranging from working with Sudowrite to writing craft in general.
+
+### How the curriculum is structured
+
+-   **Quick Start sessions** (zero Sudowrite experience required)
+    
+    Quick Start sessions are beginner-friendly classes that don’t assume you have a handle on Sudowrite yet. These are perfect as your first class, or if you’re returning to Sudowrite after a break.
+    
+-   **Deep Dive sessions** (you already know the basics)
+    
+    Deep Dive sessions go into more granular detail around certain workflows or processes. These sessions are able to cover more complex topics because they assume you’re already comfortable with Sudowrite fundamentals. Great for those who want to get “in the weeds” on specific tools.
+    
+-   **Workshops** (hands-on, create alongside an instructor)
+    
+    Workshops are practical, creative sessions where you can actively work on your writing with guidance—often centered on a theme (e.g., planning/goal setting, writing diverse stories, etc.).
+    
+
+### Regular weekly sessions you can always rely on
+
+-   **Weekly Welcome Session**: a “zero to one” onboarding that walks brand-new users through the essentials and gives you the foundation to navigate Sudowrite confidently.
+    
+-   **Office Hours**: a looser, unstructured help session where attendees bring questions, troubleshoot workflows, and learn by watching others’ problems get solved.
+    
+
+Missed a live session? Class recordings are routinely shared in the Sudowrite Discord #**course-videos** channel.
+
+### Why attend?
+
+As Octavia E. Butler said, "Forget talent. If you have it, fine. Use it. If you don’t have it, it doesn’t matter. As habit is more dependable than inspiration, continued learning is more dependable than talent."
 
 ---
 
@@ -4383,7 +4882,7 @@ We know that not everyone is on Discord, and new tools can be overwhelming—so 
 **Collection:** Frequently Asked Questions
 **Slug:** 5578433-can-i-hide-information-from-the-ai
 **ID:** 5578433
-**Last Updated:** 2026-01-21T18:27:54.491Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 Sometimes, you want to keep the AI in the dark about your Characters or Worldbuilding elements. For that, we’ve introduced **visibility settings** at both the card and trait level.
 
@@ -4391,34 +4890,17 @@ If you’ve added a character that doesn’t appear until later in your story, a
 
 **When the eyeball is clicked (and appears struck-through), Sudowrite’s AI will ignore that card or trait altogether.**
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fb9bd18c364828017b5/019be1cf-6600-7edf-93b2-b627b19560a0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b601d1bc0bcb763da72a69c65c4b3377aa930cf7aeb6dc708681d03e56367881)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fb9bd18c364828017b5/019be1cf-6600-7edf-93b2-b627b19560a0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=53a40780c2cf4ada2d4927bcf26bb134b52aa04248e13802ce28fb50eb3cc7ac)
 
 Alternatively, lets say you want to include a Motive trait on the Character Card for the murderer in your mystery. Saliency Engine _may_ consider a motive relevant to a scene, leading to an AI generation that spills the beans prematurely. You can prevent this by hiding the Motive from Sudowrite’s AI, which you’d do by toggling the visibility of the trait field itself.
 
 Just hover over a trait field and click the eyeball. Once the eyeball appears struck-through, the trait is hidden from Sudowrite’s AI.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fb9bd18c364828017b5/019be1cf-b251-7c8b-9288-687708c2c745/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2266c6250680c497f885faa6c7b46d4204298a30b51d8cf0713896e2c2ed2b2b)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fb9bd18c364828017b5/019be1cf-b251-7c8b-9288-687708c2c745/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6250c91cafdec1d7c86e464b1bf819fa8abaf7fe063f391b3e24976642169215)
 
 All Character and Worldbuilding cards and traits are visible to the AI by default. That means, unless you say otherwise by dictating what is visible, Sudowrite’s Saliency Engine will decide whether or not those bits of story context are relevant to the task at hand.
 
 You can toggle the visibility settings as often as necessary.
-
-
----
-
-### Can I use Sudowrite in other languages?
-
-**Collection:** Frequently Asked Questions
-**Slug:** 2487986-can-i-use-sudowrite-in-other-languages
-**ID:** 2487986
-**Last Updated:** 2026-01-21T18:23:30.302Z
-
-You can write text in almost any language, and Sudowrite’s Write button will (usually!) automatically match your language in its suggestions. When using other features, like the Draft tool or Plugins, you may have found that Sudowrite sometimes falls back on English.
-
-While there's currently no single "Language" setting for your Sudowrite account, Sudowrite users all around the world have managed to get the tool to consistently generate prose in languages like German, Italian, French, Danish, and more. One way to do so is by simply including a line in your instructions—whether that’s the Plugin prompt field, the Extra Instructions field, or even just in your document/highlight—that says `[Write all output in X]` _in_ your preferred language.
-
-If you’re looking for other tips on how to get Sudowrite to consistently write in your preferred language, you should join our community Discord server and ask folks in the Multilingual channel for their advice! You can find our Discord server here: [discord.gg/sudowrite](https://discord.gg/sudowrite)
-
 
 ---
 
@@ -4427,7 +4909,7 @@ If you’re looking for other tips on how to get Sudowrite to consistently write
 **Collection:** Frequently Asked Questions
 **Slug:** 0904575-does-sudowrite-have-a-status-page
 **ID:** 0904575
-**Last Updated:** 2026-01-21T18:26:15.695Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 Yes! You can keep track of Sudowrite’s current status at [https://status.sudowrite.com/](https://status.sudowrite.com/).
 
@@ -4437,19 +4919,6 @@ You can sign up for email notifications to stay current, or join our Discord com
 
 Here’s an embedded preview of the Sudowrite status page:
 
-
----
-
-### Is there a mobile app?
-
-**Collection:** Frequently Asked Questions
-**Slug:** 4862190-is-there-a-mobile-app
-**ID:** 4862190
-**Last Updated:** 2026-01-21T18:23:48.531Z
-
-Yes! We’ve just launched a mobile iOS app—and we’re currently in beta with our Android app as well. This app is a companion app rather than a replacement for Sudowrite’s web editor. That means it does not include all of the AI functions you’d have on the web (but it does have one really neat mobile-specific feature). You can learn more about Sudowrite for iOS here: [Using the Sudowrite Mobile App](/1ea7975fa0ec800cbf78e8ffcb4d3b2c)
-
-
 ---
 
 ### What accessibility options are available?
@@ -4457,20 +4926,19 @@ Yes! We’ve just launched a mobile iOS app—and we’re currently in beta with
 **Collection:** Frequently Asked Questions
 **Slug:** 2943388-what-accessibility-options-are-available
 **ID:** 2943388
-**Last Updated:** 2026-01-21T18:25:32.305Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 We think that every writer should be empowered to tell their story, so there are a handful of features on Sudowrite intended to help make that possible.
 
 First, Sudowrite’s Settings (⚙️) include a number of accessibility options. One of those is the OpenDyslexic font which is intended to reduce some of the more common reading errors associated with dyslexia. Another is our Themes, which is how and where you would enable Dark Mode (try _Charcoal_ for that)—but Themes also provide a range of color palettes so you can select something that works best for your vision.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fa95b069893d402d3d1/019be1cd-d71a-7312-bbb7-2c07a735f4d1/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260121T190000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260121%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=99394cfeee70a03218f7cd993d764ded044090666c91105410ac32329ee20d82)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fa95b069893d402d3d1/019be1cd-d71a-7312-bbb7-2c07a735f4d1/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=16f62546e67660dae1220fc794df615a0983f37f70dea8daf158baf00a4d6c51)
 
 We’ve also recently made some big improvements to the way that Sudowrite works with screen readers—so if you’re a screen reader user, you should now have an easier time navigating Sudowrite
 
 While not _explicitly_ an accessibility tool, several users have flagged that Plugins—our versatile build-your-own-AI-feature toolkit—have improved their Sudowrite experience. There are even tools such as the [Disability sensitivity reader](https://www.sudowrite.com/app/plugin/j3dQ5j6Ia/sensitivity-reader-disability) that have been built as a result.
 
 For more on accessibility, we’d recommend connecting with other members of our community—especially our Ambassadors—in the Sudowrite community Discord server here: [https://discord.gg/sudowrite](https://discord.gg/sudowrite). And for feature requests in particular, you can flag those to our attention in the Discord, use [our feedback board here](https://feedback.sudowrite.com/), or email us at: [hi@sudowrite.com](mailto:hi@sudowrite.com).
-
 
 ---
 
@@ -4479,7 +4947,7 @@ For more on accessibility, we’d recommend connecting with other members of our
 **Collection:** Frequently Asked Questions
 **Slug:** 7573110-where-do-i-submit-feedback-or-feature-requests
 **ID:** 7573110
-**Last Updated:** 2026-01-21T18:24:36.486Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 Have some feedback for us, or a feature you’d love to see in Sudowrite? You can suggest a feature (or upvote an existing suggestion) at [**our Feedback page here**](https://feedback.sudowrite.com/). That’s also where you can find out changelog.
 
@@ -4487,6 +4955,31 @@ If you’re already a member of our community Discord server, we also have a **#
 
 Your feedback and suggestions are super helpful as we chart the future of Sudowrite, and we super appreciate them. Keep them coming!
 
+---
+
+### Is there a mobile app?
+
+**Collection:** Frequently Asked Questions
+**Slug:** 4862190-is-there-a-mobile-app
+**ID:** 4862190
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+Yes! We’ve just launched a mobile iOS app—and we’re currently in beta with our Android app as well. This app is a companion app rather than a replacement for Sudowrite’s web editor. That means it does not include all of the AI functions you’d have on the web (but it does have one really neat mobile-specific feature). You can learn more about Sudowrite for iOS here: [Using the Sudowrite Mobile App](/1ea7975fa0ec800cbf78e8ffcb4d3b2c)
+
+---
+
+### Can I use Sudowrite in other languages?
+
+**Collection:** Frequently Asked Questions
+**Slug:** 2487986-can-i-use-sudowrite-in-other-languages
+**ID:** 2487986
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+You can write text in almost any language, and Sudowrite’s Write button will (usually!) automatically match your language in its suggestions. When using other features, like the Draft tool or Plugins, you may have found that Sudowrite sometimes falls back on English.
+
+While there's currently no single "Language" setting for your Sudowrite account, Sudowrite users all around the world have managed to get the tool to consistently generate prose in languages like German, Italian, French, Danish, and more. One way to do so is by simply including a line in your instructions—whether that’s the Plugin prompt field, the Extra Instructions field, or even just in your document/highlight—that says `[Write all output in X]` _in_ your preferred language.
+
+If you’re looking for other tips on how to get Sudowrite to consistently write in your preferred language, you should join our community Discord server and ask folks in the Multilingual channel for their advice! You can find our Discord server here: [discord.gg/sudowrite](https://discord.gg/sudowrite)
 
 ---
 
@@ -4498,34 +4991,12 @@ Your feedback and suggestions are super helpful as we chart the future of Sudowr
 
 ## The Fine Print
 
-### Intellectual Property and Ownership
-
-**Collection:** Legal Stuff > The Fine Print
-**Slug:** 4567979-intellectual-property-and-ownership
-**ID:** 4567979
-**Last Updated:** 2026-01-21T18:31:30.358Z
-
-### Ownership Rights
-
-We understand it's super important for you to retain ownership over the content you create, so whether you use Sudowrite to brainstorm, enhance your ideas, or fine-tune your writing, all the writing you generate remains yours. When you input text into Sudowrite and use its features to generate or improve content, the output is based on your initial input and creative direction. This means that the resulting content, enriched or transformed by Sudowrite, is considered your intellectual property. You have initiated the creative process, and therefore, the contributions made by Sudowrite in response to your inputs are yours to own, use, and distribute as you see fit.
-
-### Plagiarism
-
-You may have heard of concerns regarding plagiarism where AI is concerned. Sudowrite won't plagiarize unless you _force it_ to plagiarize, which is against our Terms of Service.
-
-AI works by guessing one word at a time, based on general concepts it has learned from billions of samples of text. That means it's _extremely unlikely_ to produce the same words verbatim, or even ever again. It does not copy and paste chunks of text, it guesses each word—technically, _parts_ of words—one at a time.
-
-The only way to potentially get unoriginal content out of Sudowrite is to use text the AI has seen a lot before verbatim, like the lyrics of a popular song, or the first paragraph of an extremely popular book like Harry Potter. As long as your input is original, you'll get original writing out of Sudowrite. Of course, we encourage you to try plagiarism checkers to verify your results.
-
-
----
-
 ### Privacy Policy
 
 **Collection:** Legal Stuff > The Fine Print
 **Slug:** 8944320-privacy-policy
 **ID:** 8944320
-**Last Updated:** 2026-01-21T18:33:08.353Z
+**Last Updated:** 2026-03-31T13:56:20.275Z
 
 This privacy policy ("Policy") describes how the personally identifiable information ("Personal Information") you may provide on the [sudowrite.com](https://www.sudowrite.com/) website ("Website" or "Service") and any of its related products and services (collectively, "Services") is collected, protected and used. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy is a legally binding agreement between you ("User", "you" or "your") and this Website operator ("Operator", "we", "us" or "our"). By accessing and using the Website and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
@@ -4674,10 +5145,9 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 ## Contacting us
 
-If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to [privacy@sudowrite.com](mailto:privacy@sudowrite.com).
+If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to [hi@sudowrite.com](mailto:hi@sudowrite.com).
 
 _This document was last updated on October 6, 2020_
-
 
 ---
 
@@ -4686,7 +5156,7 @@ _This document was last updated on October 6, 2020_
 **Collection:** Legal Stuff > The Fine Print
 **Slug:** 5765112-terms-and-conditions
 **ID:** 5765112
-**Last Updated:** 2026-01-21T18:32:20.432Z
+**Last Updated:** 2026-02-15T19:27:10.222Z
 
 These terms and conditions ("Agreement") sets forth the general terms and conditions of your use of the [sudowrite.com](http://sudowrite.com) website ("Website" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and this Website operator ("Operator", "we", "us" or "our"). By accessing and using the Website and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Website and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Website and Services.
 
@@ -4750,6 +5220,26 @@ If you would like to contact us to understand more about this Agreement or wish 
 
 _This document was last updated on April 11, 2025_
 
+---
+
+### Intellectual Property and Ownership
+
+**Collection:** Legal Stuff > The Fine Print
+**Slug:** 4567979-intellectual-property-and-ownership
+**ID:** 4567979
+**Last Updated:** 2026-02-15T19:27:10.222Z
+
+### Ownership Rights
+
+We understand it's super important for you to retain ownership over the content you create, so whether you use Sudowrite to brainstorm, enhance your ideas, or fine-tune your writing, all the writing you generate remains yours. When you input text into Sudowrite and use its features to generate or improve content, the output is based on your initial input and creative direction. This means that the resulting content, enriched or transformed by Sudowrite, is considered your intellectual property. You have initiated the creative process, and therefore, the contributions made by Sudowrite in response to your inputs are yours to own, use, and distribute as you see fit.
+
+### Plagiarism
+
+You may have heard of concerns regarding plagiarism where AI is concerned. Sudowrite won't plagiarize unless you _force it_ to plagiarize, which is against our Terms of Service.
+
+AI works by guessing one word at a time, based on general concepts it has learned from billions of samples of text. That means it's _extremely unlikely_ to produce the same words verbatim, or even ever again. It does not copy and paste chunks of text, it guesses each word—technically, _parts_ of words—one at a time.
+
+The only way to potentially get unoriginal content out of Sudowrite is to use text the AI has seen a lot before verbatim, like the lyrics of a popular song, or the first paragraph of an extremely popular book like Harry Potter. As long as your input is original, you'll get original writing out of Sudowrite. Of course, we encourage you to try plagiarism checkers to verify your results.
 
 ---
 
@@ -4766,14 +5256,13 @@ _This document was last updated on April 11, 2025_
 **Collection:** About Sudowrite > More About Us
 **Slug:** 6704145-contact-us
 **ID:** 6704145
-**Last Updated:** 2026-01-21T18:35:06.282Z
+**Last Updated:** 2026-04-28T16:19:37.061Z
 
 Our support team is available seven days a week. You can reach out to us at any time, for any reason at: [hi@sudowrite.com](mailto:hi@sudowrite.com)
 
-We also have [an experimental AI phone support agent](https://elevenlabs.io/app/talk-to?agent_id=gHbVQk6ZMRvPTCeoZVHT), which can be a big help with basic troubleshooting. If you prefer a “live chat” experience, you can open a Support ticket in our community Discord server, which you can join at: [https://discord.gg/sudowrite](https://discord.gg/sudowrite)
+We also have [an experimental AI phone support agent](https://elevenlabs.io/app/talk-to?agent_id=agent_3501kj894yg4f9vteh7xr813nckc), which can be a big help with basic troubleshooting. If you prefer a “live chat” experience, you can open a Support ticket in our community Discord server, which you can join at: [https://discord.gg/sudowrite](https://discord.gg/sudowrite)
 
-And we also host weekly Office Hours and monthly Community Hangouts, which are published to [our events calendar](https://lu.ma/sudowrite) and promoted in our Discord. We hope to see you at the next one!
-
+And we also host weekly Office Hours and monthly Community Hangouts, which are published to [our events calendar](https://luma.com/sudowrite) and promoted in our Discord. We hope to see you at the next one!
 
 ---
 
@@ -4781,5 +5270,4 @@ And we also host weekly Office Hours and monthly Community Hangouts, which are p
 
 # End of Documentation
 
-Total sections: 8
-Total articles: 78
+Total articles: 79
