@@ -1,6 +1,6 @@
 # Sudowrite Documentation - Complete Knowledge Base
 
-> Generated: 2026-04-30T15:20:46.595Z
+> Generated: 2026-04-30T17:30:33.268Z
 > Total Articles: 79
 
 ---
@@ -148,7 +148,7 @@ Sudowrite’s main writing interface inside of a project is divided into 3 colum
 
 In the left column you have the Project’s Document organization. The primary writing area, your text editor, comprises the middle section. Finally, to the right is the Chat bar, where you’ll also find a History section that stores results from AI tools as “cards.”
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be120-f4e4-7999-883a-0dbf2414e258/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=68966fbb70b4e6a1b6a2915b5b39b08f1bd88e0bf788e24abff410d7b66a03c7)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be120-f4e4-7999-883a-0dbf2414e258/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d1f59372171104802f0e1045854cdca7ce6cee01c9b7b8f8cdbe4518689df784)
 
 ## Projects, Docs and Folders
 
@@ -160,11 +160,11 @@ Meanwhile, each of Sudowrite’s AI functions (highlighted below) outputs result
 
 Most Sudowrite features will place your responses into a **Card** in the History section on the right side of the screen. (First Draft, and Quick Edit do not.)
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be122-935a-742c-94f8-47a75865580e/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c14677e70ec3c797ead2e1167f748283d31d99e83665f5107a7e061cb91b91d9)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be122-935a-742c-94f8-47a75865580e/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=810a53da5dfea1eaf9ad264fcc970ae9538304ab0a0e7e2b4614587883e4ea4b)
 
 Click anywhere on the white card to collapse the response, and click again to expand it and view the full context of the prompt and response. The top of every card pile will have the _Prompt_ in italics: this is what Sudowrite took into consideration in order to generate the cards. You’ll also get “chiclets” which showcase the context the AI took into consideration while doing its work. The card will be labeled with the name of the feature you used. In the example below, it was Write.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be123-c0b4-7b25-bab6-02cfe949b256/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ef4d396b1b8217ef05637a414382cdd223e1294fcc39233fd11d8467320bb84e)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6859b8261546fe601b93/019be123-c0b4-7b25-bab6-02cfe949b256/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=67ab4762fd2644de0998405bb062c582a3e53c757b1bee03fd9bcbfd7e620677)
 
 The last part of the interface to be aware of is the Toolbar that sits along the top of those three columns. The Toolbar is where you’ll find several of Sudowrite’s core AI features, which you can read more about next.
 
@@ -193,7 +193,7 @@ When you first sign up for Sudowrite you’re dropped directly into a product to
 
 To do so, just click on the question mark icon (❓) up in the top right corner of the interface to access your **Resources**, then select **Quickstart Tour**.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6817df8d39c440bbcaf4/019be11b-48ff-7512-9ccf-ae3edb10f89c/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7ecf75c9143f2a30c4a7e797c2727862003cb6b9a31ecc9f7e4e3a8b40a587dc)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6817df8d39c440bbcaf4/019be11b-48ff-7512-9ccf-ae3edb10f89c/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8701005be344e4cdf393245c4addfe1ff378cb375cd720df10c51a9efb0d53e7)
 
 The upper right corner of Sudowrite on your homepage. The question mark icon reveals resources, and the gear icon is your Account Settings.
 
@@ -455,11 +455,11 @@ Where it gets complicated is… there’s no way to predict how many credits fea
 
 Here’s an example using the Write button. I’ve asked Sudowrite to generate 200 words that continue my story, once with Muse, once with Claude 4.1 Opus, and once with GPT-5 Nano.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f696667df40e13a88b842/019be12e-beec-78e0-8133-9c5757b8c9ca/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b726fc5190627eb4fa723923b1bab58f75a8a5df307a41462521c9b8d8e6a864)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f696667df40e13a88b842/019be12e-beec-78e0-8133-9c5757b8c9ca/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=af5ba69295e15c2f969d50bfb6c9246b8ecbc0ae3e3ce94ae113c978cae18c82)
 
 Each time, Sudowrite read the exact same stuff—some context from Story Bible, including Character and Worldbuilding details, as well as a chapter and a half of my existing work. But the credits used varied wildly. I can view my credit use by clicking the gear icon (⚙️) in the upper right and choosing “**Show Recent Activity**.”
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f696667df40e13a88b842/019be12f-1eda-7a10-9d5f-e630833de169/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=da4e6e0cd22c2faa33c4a2bde0cfceb9318dc88c728c2dd905f5dd0825669fa0)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f696667df40e13a88b842/019be12f-1eda-7a10-9d5f-e630833de169/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=00f0ae29d692360dfaa6e447d5b913bb3871113694a7cf94d4098747831e00f2)
 
 In this case, the super efficient GPT 5 Nano model used only about 70 credits, whereas the costly Claude 4.1 Opus model used over 8,000 credits—that’s over a 100x difference to Write the same number of words! Whether it’s “worth it” is ultimately a matter of taste. Do you prefer the voice of one AI model over another?
 
@@ -506,7 +506,7 @@ And don’t worry—you’ll always be able to access and export your documents,
 
 To pause or cancel your account, click on the Settings (⚙️) gear icon in the top right corner of Sudowrite, and select "Manage Membership." From there, you'll find options to either pause or cancel your subscription, manage your billing, or contact us.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6931c3bf18c3d82300a8/019be12c-3711-7b62-aa14-d7b5448c4cb0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3f7089659298be3a6f5b220c37d6e4942278d84f7c6ac68ef00e15b8748d1220)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6931c3bf18c3d82300a8/019be12c-3711-7b62-aa14-d7b5448c4cb0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ec9003c1c04d815bf277e8f02a5128608616b84ad3ad56e1a23c22f7244c6b72)
 
 ## **What’s the difference between “pausing” and “canceling”?**
 
@@ -535,7 +535,7 @@ We recognize that sometimes things come up that require special consideration! I
 
 We make it easy to pause, cancel or switch plans. If you decide to change plans, your billing will be adjusted accordingly. If moving to a higher-tier plan, you’ll receive a prorated refund for the unused portion of your current plan, and your billing cycle will restart immediately under the new plan.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6903ad16f2bb98ef5dcb/019be12a-73f7-77a7-9f16-d307da75c737/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9526d5f7720ca1c7478eb22a30731d6a6d21b1c8d7b12de351b1bb15159ec1d3)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6903ad16f2bb98ef5dcb/019be12a-73f7-77a7-9f16-d307da75c737/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=eef0e626d42d89eb8eda75bace049dc52214c9b98f1ac60e744f08e78f499937)
 
 To change your plan, click on the Settings (⚙️) gear icon in the upper right of Sudowrite. Then just select Manage Membership, and you’ll be presented with the plan options available to you.
 
@@ -693,7 +693,7 @@ Ever wish it was easier to make prose sound more like _you_?
 
 Avoid using AI-generated text as your training data; it can reduce the quality of the resulting model.
 
-![Notion Image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b8fb7a5382a87e11257/0198f1a0-def8-7b08-a8a4-d32d6a2d96f6/b64u-MDE5OGYxYTAtZGU0Yi03ZDgxLTkzYTQtMzU2NGIxMmFmNTcx.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1a27e74f8e5ff279ebd6f0d082bff3fb877eb3397da5272223053dae636e54c3)
+![Notion Image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b8fb7a5382a87e11257/0198f1a0-def8-7b08-a8a4-d32d6a2d96f6/b64u-MDE5OGYxYTAtZGU0Yi03ZDgxLTkzYTQtMzU2NGIxMmFmNTcx.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c4964587007217d2071ffa91aca2509c1de13b7bd930ae937e67a5ca22b05294)
 
 ## How to train your My Voice model
 
@@ -733,7 +733,7 @@ Think of My Voice primarily as an **editing** tool that helps you take a first d
         
 3.  A card will appear in the History section on the right with your rewritten prose.
     
-    ![Notion Image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b8fb7a5382a87e11257/0198f1a1-22a8-71c1-9f02-10b94c76b694/b64u-MDE5OGYxYTEtMjBjOS03YzliLTg2ZGItYmZlYWE4ZDdlOTM1.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=823e000a2576d4674ab3ad86dc8668dd960250b45ea4f1f28ec8a16577e09cfe)
+    ![Notion Image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b8fb7a5382a87e11257/0198f1a1-22a8-71c1-9f02-10b94c76b694/b64u-MDE5OGYxYTEtMjBjOS03YzliLTg2ZGItYmZlYWE4ZDdlOTM1.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=cf83122fa8de5ba30309098c05858a44bae7fc46926a136b727f5fe7ec214042)
 
 ## Controlling the My Voice intensity
 
@@ -788,7 +788,7 @@ You may find that the first time you use My Voice to rewrite a passage, the styl
 **Collection:** Using Sudowrite > Features
 **Slug:** 6204120-chat
 **ID:** 6204120
-**Last Updated:** 2026-03-31T13:55:45.343Z
+**Last Updated:** 2026-04-30T16:08:51.403Z
 
 There’s a new chat in town, and it lives in your project’s right bar. To use it, simply toggle your right bar from History (which is where all your “cards” are generated and stored) to Chat.
 
@@ -827,7 +827,7 @@ Whether you currently write a book series or you aspire to, you can take advanta
 
 Create a new Series in Sudowrite by clicking the **\+ New** button in the upper lefthand corner of the homepage and selecting **Series** from the dropdown menu. This will create a project folder with a special Series icon and label. Name it as you would with any other folder.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16a-d2f6-7fd9-910d-fc60ede921e5/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=075111e29947834fab9e879b5bc4e42e9c1eb19147cb8e4f09e2cd4e88f372bb)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16a-d2f6-7fd9-910d-fc60ede921e5/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a45df9dc1ade02f734a2b2c0349ac176fc9443589cf26abcd8ec5a1c85fd96c6)
 
 Series folders can be created either on the main homepage or within another folder.
 
@@ -841,17 +841,17 @@ Series folders can be created either on the main homepage or within another fold
 
 Further, changes made to Characters and Worldbuilding elements will be reflected across all books in that Series Folder. This is not just for your reference either; Sudowrite’s AI also has access to all of your Characters and Worldbuilding elements in a Series. Plus, it will remember (and show you!) which book your characters were originally created in.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16c-254a-7ee3-a4f5-6173f8cded53/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6621181b1b8c37062e98e35f5e3d87e09d657fe93139543ec9120a2212bb0165)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16c-254a-7ee3-a4f5-6173f8cded53/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=57ae73831b2925f314f9cddb428440018c97dafd4f51905b43f7486e1641bc83)
 
 ### **Best Practices**
 
 Because Sudowrite’s AI has access to all of your Characters and Worldbuilding elements in a Series, it’s a good idea to keep them up to date for whichever volume you’re currently working on. For example, if I have a character Liam who is the protagonist of Book 1, but more of a supporting character in Book 2, I can change his type to reflect whichever Book I am working on.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16c-8102-7729-bf08-41af988ae508/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c3b66a410a2f3174b9f5b2ed03dfbf0e4ee2e76b4a690a133f33c441f0d03184)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16c-8102-7729-bf08-41af988ae508/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5dc83ab146ef3f2dfa5a1d70736c8f748b9d4c566c41267909f7adf07a8b464c)
 
 If you have characters that only appear in one book, and you don’t want them showing up in others, it may be a good idea to “hide” them from the AI when working on a volume in which they do not play a part. Toggle the eyeball icon that appears when hovering over a Character or Worldbuilding card, and that card is hidden from Sudowrite entirely. (You can always change it back.)
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16d-340b-79df-a796-0349bafce978/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d8c8e8d9284aa85ba6c78f8357b48da2959eb589e27dbe36830d7cb4b990d8ea)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16d-340b-79df-a796-0349bafce978/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=cb479021601c5cf112caf32fee19f8dac8f90d5fb05131aeb6aab073f0a11d97)
 
 For more complex character arcs or development of Worldbuilding elements, it may be beneficial to create multiple versions of a card—one for each book, or at least for dramatic milestones—and simply hide/show the most relevant version as your work progresses across a series. Alternatively, you can have a single canonical Character card or Worldbuilding element that is shared and used across the series, updating it as you go, or using the visibility settings on individual traits.
 
@@ -861,7 +861,7 @@ Projects in a Series automatically use Sudowrite’s Outline Unlimited. The stru
 
 To access Outlines from different projects, use the dropdown menu in the Outline header section of Story Bible to select the outline you wish to view.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16d-8ed7-7279-91c5-c161537ac274/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f330b3c5431bd65ba2d1bc3f61e3fb774c1cb7aeb6067ada89257654b435b77d)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16d-8ed7-7279-91c5-c161537ac274/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b80f99d589423521c53ff06d69ebbb0799c0521e58a2b4c4109bb6223bc13ca0)
 
 When viewing an Outline from a different project than the currently open project, **you can both make edits and generations with that Outline**. These changes will persist and be reflected in that project’s Outline moving forward.
 
@@ -899,7 +899,7 @@ When you add an existing project to a Series Folder:
 
 Every Series Folder has a collapsible Series Timeline section at the top. As projects are added to the Series Folder, they will always be added to the “end” of the Series Timeline. (You can always grab the little handles beside the project title to drag it into its proper sequence.) Sudowrite uses this sequence information to assemble a timeline based on your project outlines, which will be used in subsequent generations inside of the series.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16e-1dc2-7072-865a-c1326eec78ef/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a9aabc1a15d690339c7970deb270290d67da56aed20f57cc6898c34f6a9b8c17)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16e-1dc2-7072-865a-c1326eec78ef/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7e74bec7c7cef52a10e6b060b3415a0167003e2b9f79d683ef339c72fd91638d)
 
 You should only have to set this order once. Sudowrite will remember this order when generating content thereafter.
 
@@ -907,7 +907,7 @@ You should only have to set this order once. Sudowrite will remember this order 
 
 To remove a project from a Series simply move it out of the Series Folder, using the ••• menu and selecting the Move to… option. Alternatively, just drag the project up to the word Home (or the preferred folder name) in the File Path that appears above the series title.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16e-6002-77a1-b7d8-dece67514ca4/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8f1fea0e85774cd6e7b57021b8f015908f5040834d608c000c7bba4a7ed0d016)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6b3fa9e01a9ad78c9518/019be16e-6002-77a1-b7d8-dece67514ca4/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=33ad5d98bf262abe9e7741ffd160b7be85877dd3bffc5660937025660adf0519)
 
 When a project is removed from a Series, it loses real-time access to the shared Story Bible information… but we want to make sure that you don’t lose any hard work you’ve done, either in that Project or the rest of the series. So removing a project from a series works like this:
 
@@ -1189,7 +1189,7 @@ If you’re the type of author that works visually—say using index cards to ma
 
 To access Canvas, find the **Canvas** option in the **More Tools** dropdown at the right of the top toolbar. Doing so will bring you into a fresh Canvas, where you’ll see the orientation information represented in the screenshot below. You can click and drag to select these cards in order to delete them all at once, or select something and delete it individually.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6abf75ca99492c5a3dbe/019be157-d870-7104-8e93-b909e208b141/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1ef925d5706a63ac1c9d37cbe374850cd6b7ac05ec91a0145538c15d89498c2b)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6abf75ca99492c5a3dbe/019be157-d870-7104-8e93-b909e208b141/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0a8b5615d075e78b370b7cde7380fb6f5450749f29a730900d46266d79d82126)
 
 The menu at the bottom of Canvas allows you to add a card, add text, or add an outline.
 
@@ -1328,7 +1328,7 @@ Some common use cases include:
 **ID:** 7767950
 **Last Updated:** 2026-03-31T13:55:45.343Z
 
-![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a8875ca99492c59ba6a/0198aeb8-7cc6-7808-8dbf-5813734a7e1d/b64u-MDE5OGFlYjgtN2M5MS03YzljLThkNDQtNjIxYTkyMWEwMWQ4.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2949bec7d7e67fe2f75e1f5d340324d9eccbc91c40cc2d2f71ea90704e83192c)
+![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a8875ca99492c59ba6a/0198aeb8-7cc6-7808-8dbf-5813734a7e1d/b64u-MDE5OGFlYjgtN2M5MS03YzljLThkNDQtNjIxYTkyMWEwMWQ4.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2e8286eb822ecd01fcb0bbe670f70f0ff0dc25bd12a9a4b5fec6f1cb4ee5a850)
 
 # Brainstorm
 
@@ -1361,7 +1361,7 @@ To get started, click the Brainstorm button, and choose from:
 
 Then enter your seed. Maybe it’s “Names and descriptions of spaceships”
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a8875ca99492c59ba6a/019be152-d3b8-7340-98e7-7558ca88b3e8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=220a1a96d969bce97823f8e204b9b4c8022c5eb9d57ec44f548fcbe7868f1a63)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a8875ca99492c59ba6a/019be152-d3b8-7340-98e7-7558ca88b3e8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1f00800c7761d3dc05bf24c84e97be09c85c27e9da9a4030d6ef78d2b57a66dd)
 
 Click Start and you’ll have a fresh list of spaceship concepts generated for you. You can use the Thumbs Up (👍) to save the ones you like to your Keepers List, and the Thumbs Down (👎) to clear that suggestion from your list (to make space for a new one). When you’re satisfied with your choices, click Save & Exit, and your Keepers List will be saved to a card in your History panel on the right.
 
@@ -1400,7 +1400,7 @@ There is actually one other way you may go about brainstorming on Sudowrite… b
 **ID:** 5156739
 **Last Updated:** 2026-03-31T13:55:45.343Z
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a71647f8c5b22973cb5/019be14f-e3bd-7b5b-bf58-a375d618ee9f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e18e3cbd73ba95c3ef6336ca02587f2d37feb69b58d80bed8f227c9f6054e906)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a71647f8c5b22973cb5/019be14f-e3bd-7b5b-bf58-a375d618ee9f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5d56b3590bb8b25b2f8cd6a1ab78252d8c80542be5b5852750e8630fabe4624e)
 
 # Describe
 
@@ -1441,7 +1441,7 @@ That about covers it for Describe. Let us know what questions you have in the co
 **ID:** 0618507
 **Last Updated:** 2026-03-31T13:55:45.343Z
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a5567df40e13a8b270b/019be149-0add-7626-93b8-62364966934f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=12aa2cbe7e6a5b33d7b3ae0fd8adfc566657ef7c864be97d9d790c322439e6d0)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a5567df40e13a8b270b/019be149-0add-7626-93b8-62364966934f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e79e9f8455981ad8478b69e43864eb61931b794b896908fb56c899426df3757b)
 
 # Rewrite
 
@@ -1511,7 +1511,7 @@ That covers it for Rewrite. Drop your questions in the comments, and stay tuned 
 **ID:** 8378195
 **Last Updated:** 2026-03-31T13:55:45.343Z
 
-![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/0198aeb7-16a6-7e2a-b6ef-6b8aefda57b6/b64u-MDE5OGFlYjctMTVhNC03NjQ0LWFjMDUtZmRiMDY1N2FhZjA5.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1cbd505d139fea64777864e19bad4415101cfc4d480890643553fb038a6e3d90)
+![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/0198aeb7-16a6-7e2a-b6ef-6b8aefda57b6/b64u-MDE5OGFlYjctMTVhNC03NjQ0LWFjMDUtZmRiMDY1N2FhZjA5.jpeg?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=cd29afcb10b32d0153de071842e0adf77baf03149f527992ac1f4fbc7cfc1e96)
 
 # **Write**
 
@@ -1523,7 +1523,7 @@ Write works best with a _minimum_ of 20 words (not counting the document’s tit
 
 Click the 🔽 toggle to the right of Write to expand the Write menu. There you’ll find three different versions of Write— ✨ Auto, ↔️ Guided, and 🥸 Tone Shift—and the Write settings, which is where you’ll control settings for these features.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be134-2e7f-7331-a6fd-929e19580e41/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=402857868c680191f84f62e77c98096d5de7527a7d553cc077f41d92bdb14de0)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be134-2e7f-7331-a6fd-929e19580e41/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c8400650e8f1ed9b6fd31dfad9efb6262d759bdc0db79a257906525b96f208fb)
 
 Once you’ve selected which Write mode you’d prefer, click the Write button within the text to use it. The suggestions will appear in the History column on the right. If you see a suggestion you like, click Insert to bring that prose into your document. This text will appear in **purple** until it's been edited by you. You’ll get the best results by regularly editing the purple text to make it your own, and fully incorporate it into your work.
 
@@ -1543,7 +1543,7 @@ Let’s keep the setting on ✨ **Auto** and click **Write.**
 
 Sudowrite created 2 cards on the right side. They begin unstacked, so you can read the possible paths available, but if you click on the top (prompt portion) of the card, Sudowrite will collapse them down into a stack.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be135-9823-7c2e-899d-e1bb1c5fcb36/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=65e05597d9da3b9357253a4f7d2946817b29f09c7097d1e4aa7a0dcd3a47ed4b)Advanced Tool Techniques
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be135-9823-7c2e-899d-e1bb1c5fcb36/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9c9e4ad39218c26536cd17d231600f725f10ac85c28e69eacb0d9bac1fdfaea9)Advanced Tool Techniques
 
 Write looks at what you've written and _continues_ it in the same style, voice, and format. Taking this into account, Write can help you with a number of creative tasks in your writing, including outlining, suggesting character traits, story themes, and much more. (These techniques work best in **Auto** mode.)
 
@@ -1621,23 +1621,23 @@ Here is what we’ve entered into the editor:
 
 Click on the 🔽 down arrow next to **Write** in the top left corner and Select **Guided**.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13e-bf58-77c8-8cb7-9e5b8007bb76/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=cafe19dbb626e97c1a73bcc1e8dc603475cf6d398862ae92cc522a3acb0ed3c4)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13e-bf58-77c8-8cb7-9e5b8007bb76/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4a7502a44776b41c6333da84db9f7675327b3e4379d2cbc355aaba250fe6bfcf)
 
 The Write button will then instead say Write Guided. Now place your cursor at the end of your text, and click **Write Guided** in the top left corner.
 
 **Guided Write** can offer 3 Suggestions of what could come next in the story. You turn on the Suggestions slider if you want Sudowrite to generate those Suggestions.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13f-18d4-793d-84dd-0f92d560bb42/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ddddccf72a9e3d24c59c5b8cdc1cf4aeb838f291eaf5022db73789cc11080220)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be13f-18d4-793d-84dd-0f92d560bb42/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3709ac1e1037556feace94910d55eabb669b0d0d11f5d2c4704cf99240dfd077)
 
 If you click on one of the suggestions, Sudowrite will create the number of cards and approximate lengths you chose in **Write Settings**.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be141-9881-70ef-88eb-21623352f416/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzEuMzgucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0a41373d21f80222a66a415df2b66798a0ebe7de0ce2d36279f9e8239014db28)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be141-9881-70ef-88eb-21623352f416/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzEuMzgucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a99ad52e39d056971ba7f509ae968d48c3b24b6874781ee04ab379b6c4e80e6e)
 
 Here is the prompt for the “Write you own” box in the image below:
 
 > there’s a bright flash, and then a loud, apocalyptic explosion outside
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be142-e463-79d5-8b01-722942651c43/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c6b0375af11755df778ab246f28bb1dacb4a3f041dc4ae5e6302c1ced5bad670)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be142-e463-79d5-8b01-722942651c43/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e17c5714214820dac1737bad721791222c028ee5091f05e46b0e558faeed7989)
 
 ### Getting the most from Write’s Guided mode
 
@@ -1667,13 +1667,13 @@ Tone Shift works a lot like Write’s Auto setting with one key difference—it 
 
 After clicking the Write 🔽 toggle, choose Tone Shift and then select from any of the following tones: Ominous, Fantastical, Fast-Paced, Upbeat, Authoritative, Conflicted, Romantic, Sensual. Then just put the cursor where you’d like to pick up the story from, and click the Write button. You’ll see the story continues along the vibes of what you’d selected.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be143-d30b-70b6-9abe-a46c2ad8b965/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4946e4ac725a74fb02a2c3bbf7436982043b9b344baf0edb0e62a26a84d669e7)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be143-d30b-70b6-9abe-a46c2ad8b965/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=33db5791895a0f3b01d75c5bf0c0b3e12a99e7ba5e3b46fe8536a8b84f3061dd)
 
 ## **Write Settings**
 
 The last button under Write is for the Write Settings, which let you dictate how each Write feature should work.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be144-e24e-7989-a104-dd2aa5fca297/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzguMTEucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c24d7f61ffb9289304f20da7f03867efaba3d2f5f49a4fffe3cc0e70b8f27cba)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6a0e65f1223af33e0090/019be144-e24e-7989-a104-dd2aa5fca297/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMDggYXQgMTEuMzguMTEucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0c174c0d8375440015939c69fef367127b8f534dce66213ea1c9aaac8dea67d5)
 
 ### Creativity
 
@@ -2612,7 +2612,7 @@ You can view the list of prohibited uses here.
 
 As you discover and experiment with Plugins, you may encounter Plugins that don’t work as described. If you’re able to find the creator in Discord, let them know so they have the opportunity to fix it up. Otherwise, you can let _us_ know, and we can toggle it to Unlisted until we can get in touch with them.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f2435fa13de851a1465/019be1c7-10c6-7ae1-b25c-f5cd2fbd6949/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2874a482e63baa4a51771ddfc2d6491455f53cb92d50ff68fe83701b740dae16)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f2435fa13de851a1465/019be1c7-10c6-7ae1-b25c-f5cd2fbd6949/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5f0a8f8ef53200bed8396c282597a0ea987ee6f8668c501e44db910783848c1e)
 
 Meanwhile, if you find a Plugin that you feel weird about—maybe you’re concerned it’s in violation of our rules above—feel free to use the Report button (the little flag icon) on the Plugin description page, or even drop us a note and we’ll give it a look. Contact us at [hi@sudowrite.com](mailto:hi@sudowrite.com) or reach out to our Community Lead, Michael Stewart, on Discord.
 
@@ -2641,7 +2641,7 @@ To get started, click on the **Create Plugin** button in the **More Tools** drop
 
 We’ve simplified the plugin creation flow so that you can just describe what exactly you’d like a plugin to do.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1bc-c65b-76d3-aa84-99000686be31/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f31a4c16a95043fd5197bccd2b4ffbd92ca7b7e00cf7eea5d22dc0f6089ce746)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1bc-c65b-76d3-aa84-99000686be31/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b49f5650150a262817983a7500c1f7ed3045655d4675a0305e541b86e826171e)
 
 To use it, enter a plain text description of what sort of writing tool you’re looking for and click Generate Plugin. Remember that plugins can do any of three things: generate, analyze, or transform text. (The Magic Plugin Builder won’t create multi-stage plugins by default, but it’s worth noting that you can create a 2-stage plugin in case you’d like to do any of those things in sequence too!)
 
@@ -2692,7 +2692,7 @@ Here’s a look at some of the essential fields (some of which will be populated
 > 
 > Once you start changing the AI model and experimenting with your own variables, credit costs may vary. Be sure to test your Plugins for a sense of how much they’ll cost to use!
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c0-da21-7280-80c6-2d9fe92f8048/b64u-Q2xlYW5TaG90IDIwMjUtMDUtMjkgYXQgMTIuNDYuNDQoMykucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=38eb3ca79f666706f4bf67b6b0ce4cf802c656e724f48b841399363e324f0aea)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c0-da21-7280-80c6-2d9fe92f8048/b64u-Q2xlYW5TaG90IDIwMjUtMDUtMjkgYXQgMTIuNDYuNDQoMykucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=59e54d2dd63156c47091402cea17bd7737bf7e23da319bcffd2b2d8fff468633)
 
 Here’s what each of the areas in the screenshot above controls:
 
@@ -2779,7 +2779,7 @@ Here’s what each of the areas in the screenshot above controls:
 
 At the bottom of the Plugin creation page, you will see a testing area:
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c2-dd67-720a-ba57-51f1317b3af8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ca28b80596771b3742108a5ca90fd0bea68cbc0cdeef117126882bde8e054e64)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c2-dd67-720a-ba57-51f1317b3af8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=74e7edcd3d133b652ff798e2fc2d15a0746856e3fe6ac5cf2f54b5084dced227)
 
 This lets you easily and quickly test your Plugin without publishing it. It’s essential that you test your plugin to make sure it works with a diverse set of inputs—and that you’re getting the results you want out of it. We suggest that you have a bank of inputs along with an idea what your expected output is. This way, as you iterate on the design of your plugin, you can make sure that the functionality matches your expectations.
 
@@ -2789,7 +2789,7 @@ Toggling Additional Variables exposes fields to populate Preceding Text as well 
 
 You can edit what name shows up for your Plugins by clicking on the small “Edit” link in the Settings (⚙️) menu in top right of your Sudowrite interface:
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c3-1db8-74dd-9099-141561098fc6/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=11e84d300122f6077d1b951b77f93544df97050fa52a36f90416c06f9950d9b5)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6f0e94da8fb2bf6c0296/019be1c3-1db8-74dd-9099-141561098fc6/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=28eccd7e32577ed02d0c4c528560f20f68eff22843720bf7f2a1f2357563df6a)
 
 By default, if you’ve logged in via Google, that will be set to your Google display name.
 
@@ -2830,19 +2830,19 @@ We make sure to give specific instructions so that the AI knows what kind of out
 
 The Plugins Directory is available under the **More Tools** dropdown menu in your toolbar.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b8-2ef5-734e-9593-6666d04b5db4/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=44dbe23bbf3d805f57715c029b923f6502a4f78b981f8674a2f4b4cd2126e430)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b8-2ef5-734e-9593-6666d04b5db4/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4411e560699399d44e50a99251fe611fc35a9864152c32805b86e80eccaf9639)
 
 ## Adding Plugins
 
 The Plugins Directory page lists all of the available Plugins.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b8-76f4-79a1-bd10-607934ed3558/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c470c3f6959bf61f3262bec25bab3acece810ef762e3da8c404e4bf3812fe505)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b8-76f4-79a1-bd10-607934ed3558/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bf7cbd3518daf71d01d68cfb54df53317cd36bf4dec91769362d7eacf9d23ca4)
 
 You can select Categories along the left to view Plugins according to their category, and you can use the filter views available to sort by Popular (most installed) or Newest (most recently published). Note that you also have filter views available for Plugins you’ve added or built.
 
 To add a plugin, just click the **Add** button on the Plugin’s info card. You can also click into the card to visit the Plugin’s detailed description page and read more about it, before choosing to **Add** it from there.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b9-16b4-768c-8f29-c061d977c42f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a504b76240ac14d85a4fc839beecc08855dfec88967d358c7ffba977ed719b06)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b9-16b4-768c-8f29-c061d977c42f/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=587ab437d5549e4613161d175934c5adef2fc1eeb030625bd37d606e66bca9d5)
 
 The Description page includes details on the creator, how many users it has, an estimation of how many credits it might use, and a Description written by the creator. The Description should give you a good idea of what the Plugin is intended to do, and ideally how to use it.
 
@@ -2852,7 +2852,7 @@ In the upper right, you’ll see a **Copy Link** button (if you’d like to shar
 
 Once you’ve added a Plugin, you will see it available in all of your projects under the **More Tools** dropdown in the top right of your toolbar.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b9-8780-7755-b13f-02ff94198234/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5885a005de29df4d8081cc72300ac72e1d21ae3a941513fa6671404ca0a49a23)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6ecb8b51ae828dc18f95/019be1b9-8780-7755-b13f-02ff94198234/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4ae2881ca675d2c371b06a91f55f329e02b91fb1fc39b26f3c15a4ba37b3504d)
 
 To use a Plugin, just select it from this dropdown.
 
@@ -3225,17 +3225,17 @@ This is what the model selector window looks like. Click “Use Muse” to selec
 
 Open the Draft tool in the text editor’s top toolbar and scroll to the bottom. Click on the dropdown arrow to the right of Generate, and select Muse from the Prose Mode selector that appears.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be170-7838-71f5-974a-8743f04c5de8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b24e8c38e2d539eeb79541fd7fa70318bf6e8748d2fd038534eea19eee2cff2d)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be170-7838-71f5-974a-8743f04c5de8/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=33031b95674d95071ad117a517b78b614ba6b712d8f7af0116e9ee1208e97f4e)
 
 ### Here’s how to select Muse in Write
 
 Click the dropdown arrow next to the Write button in your toolbar and select Write Settings from the list that appears. In your Write Settings, select Prose Mode and choose Muse from the available options.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-08f0-7bbb-907c-6b17c60a93a6/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9109d1d8f569863a9b0aa719166bdf0f97595662ff4fdc6ae249dd38c3752bea)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-08f0-7bbb-907c-6b17c60a93a6/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1b357b5611ab90adfff62425fa6f0544a67b0180d8f49c1448986ba915b9b117)
 
 ## Creativity
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-884e-7f61-9c99-d1203c0d1eab/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=21022c9f939aeaf867038f2098eb7f30b28fb862493a4c9ab92f40e81b926957)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-884e-7f61-9c99-d1203c0d1eab/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=69a5d8f77dd550ca60f8b031f6539d2868a320604cf3f2367058b1f5a41d8f51)
 
 Sudowrite Muse is different from other Prose Modes and models in that it also has a Creativity setting in the **Draft** tool\*\*.\*\*
 
@@ -3252,7 +3252,7 @@ Creativity is document-by-document, in case different chapter different settings
 
 Style Examples are an optional tool in **Draft**—exclusive to Muse and Excellent—that makes Muse write more like you. You can enter up to 1,000 words of examples.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-de78-7cf8-9d34-369ddfd03567/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=942c73cd12df6caf59f8f60c8a4436ff1094e9283e0bb2796f3d5be6acf930d3)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e3ee290301d501beb42/019be171-de78-7cf8-9d34-369ddfd03567/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6453c6d7d9d3df1499d3b16dfd9b3e52dbff53641a9f7dc0203a44a137b43070)
 
 For best results, if you include multiple samples from different sources, format them like this:
 
@@ -3285,7 +3285,7 @@ The first thing to know about Saliency Engine is that you won’t find a button 
 
 You may have hundreds of Characters or Worldbuilding Elements in your Story Bible, but it’s rare that all of those will be relevant when you want to generate the prose for a specific beat. Saliency Engine reviews the task at hand, as well as all of the story information you’ve provided, in order to expose the most relevant information to the AI for prose generation purposes.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-0f3c-7f76-8893-1db9644a8349/b64u-aW1hZ2UuZ2lm.gif?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1923d1a7f61d4f5ab422984217cd3e4abe142fff0f5a3fd0d97b57360f43eaa3)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-0f3c-7f76-8893-1db9644a8349/b64u-aW1hZ2UuZ2lm.gif?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=28391f02b17d52e8c34d0732888e78ddde0a918fcd85e8ccb4a0220dc7a8bc33)
 
 Saliency Engine will **make sense of mountains of story context** in an instant, keeping anything you generate on track. That means, for example, if your shifter is in wolf form, the AI _won't_ reference the pleated khakis they might typically wear to work.
 
@@ -3301,11 +3301,11 @@ If you’ve added a character that doesn’t appear until later in your story, a
 
 **When the visibility of a Character, Worldbuilding element, or trait is toggled off, Sudowrite’s AI will ignore it altogether.**
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-a1fc-754d-a803-34a7c5f12215/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=245a845a47ae46bdb4c6f03396cdd5a3cdc3a041e64fd2ed8a60a220774745ef)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-a1fc-754d-a803-34a7c5f12215/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5cdb064eba4ae8f1b6258fc1327832781cba947f4a8b0d1c932c4e5f0e678224)
 
 Alternatively, lets say you want to include a Motive trait on the Character card for the murderer in your mystery. Saliency Engine _may_ consider a motive relevant to a scene, leading to an AI generation that spills the beans prematurely. To hide the Motive from Sudowrite, toggle the visibility setting within the Motive trait field from the eyeball icon in the upper right.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-f8f0-76db-ba79-806c3b65a516/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0dd88cd8b43fd6e98adff20d41e12ee0818c70a0b65b4227d8992114ee0d1699)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e2123b373be38049bd4/019be1a1-f8f0-76db-ba79-806c3b65a516/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9266212eece3fc5b78e123fff5c5e2d40acfa592a8f27fc84c434db2e4126509)
 
 Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.
 
@@ -3349,11 +3349,11 @@ If you’ve added a character that doesn’t appear until later in your story, a
 
 **When the visibility of a Character, Worldbuilding element, or trait is toggled off, Sudowrite’s AI will ignore it altogether.**
 
-![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e09266214e17734edfa/0198aec6-2b61-748d-a749-553e39dd4a91/b64u-MDE5OGFlYzYtMmI0My03NzU4LTg1OWYtNjAwOTgyMzdhNWVl.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e88582fd2319df8a53b211cee4279d7aa68df4c6e8c9ab1e7ca7cc349607c4be)
+![Notion image](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e09266214e17734edfa/0198aec6-2b61-748d-a749-553e39dd4a91/b64u-MDE5OGFlYzYtMmI0My03NzU4LTg1OWYtNjAwOTgyMzdhNWVl.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=91ff1f494c9f6b8e82f252b46caf3ed3265641f734a8438885f4eb4daebb4cc1)
 
 Alternatively, lets say you want to include a Motive trait on the Character card for the murderer in your mystery. Saliency Engine _may_ consider a motive relevant to a scene, leading to an AI generation that spills the beans prematurely. To hide the Motive from Sudowrite, toggle the visibility setting within the Motive trait field from the eyeball icon in the upper right.
 
-![Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e09266214e17734edfa/0198aec6-2b89-79b2-a06d-5fa25ba63eaa/b64u-MDE5OGFlYzYtMmIzZC03MmVhLWEzMGYtYTYyOWEzNzNlNjli.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ec8511ea2c5e46c3c5aba3468f235b9395cd9e0a15dc02f02710e3dc2136f5fe)
+![Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6e09266214e17734edfa/0198aec6-2b89-79b2-a06d-5fa25ba63eaa/b64u-MDE5OGFlYzYtMmIzZC03MmVhLWEzMGYtYTYyOWEzNzNlNjli.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=49b85f68f1c50cd1367ef479b46af1ea29a6267c0e877fa8465f592db3a45558)
 
 Click the eyeball icon from within the trait field to toggle that trait’s visibility. When the icon is set to a struck-through eye, the trait is hidden and Sudowrite will ignore it.
 
@@ -3395,7 +3395,7 @@ All Plugins that predate the Saliency Engine use the standard `{{ characters }}`
 
 When you define preceding documents in the document linking tool, those documents will be included as additional context for the AI when using certain AI features. Our AI tools—especially Write and Draft—work best when they can draw on previous events, tone, and story structure. Linking your documents ensures that context from earlier chapters helps shape what comes next.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1a8-64a5-7768-873d-c9fd39de4261/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=00d1ff834b19b98764b0a3c2ff6d296319142512a9a8491d810258e033cedaf4)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1a8-64a5-7768-873d-c9fd39de4261/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e012a7a5548213df7f70f45085394143709f5db5823c2b216a60234a815ead42)
 
 ## How to Link Chapters
 
@@ -3412,7 +3412,7 @@ Once you’ve made these selections, the relationships are saved and will remain
 
 You can continue a document from any other document in your project, whether or not those documents are linked to your Story Bible’s Outline. That said, linking documents _and_ Outline chapter summaries will give Sudowrite even richer context.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1a8-bd66-7328-948b-03192b92374c/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=fbab7543c93b6072664d854e0e2d3a3c89d68634f9d996c852e2e6785cdc748b)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1a8-bd66-7328-948b-03192b92374c/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=097d14b1787dda2f66a995310145278c92bb14729f86b4f7e4b08281cec465b4)
 
 ## Automatic Linking from the Outline
 
@@ -3430,7 +3430,7 @@ Write also pulls in up to 20,000 words from the current document—again, starti
 
 This allows Write to stay grounded in the events, characters, and voice of your earlier chapters, with a bias towards the more recent/relevant developments when there’s too much context. Your Write card will include a set of **chiclets** that shows which documents were included, and how many words of each.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1aa-8418-713a-b8cf-25600d08bdb3/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8dd784ab45a806062d9a65ea6296531e5b44c5d13f16ee34037882edfe3ff269)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6dcf04f5d5e47045c14e/019be1aa-8418-713a-b8cf-25600d08bdb3/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6439b63b5677f5d969975e0e169dffae42774c8d05ea156720242496b286050e)
 
 ## Chapter Continuity in Draft
 
@@ -3485,7 +3485,7 @@ Defining the Point of View and Tense of your story helps make sure that assistan
 
 **The POV and Tense settings are located in Outline section of Story Bible.** They also appear in (and can be changed from) the Draft tool when opened.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ad-d6b0-7dbd-9363-4c2a226f9cc5/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0686d16184b21f17c4d14b983610a395436e853d96b312b8ff20ae441dc8e0a3)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ad-d6b0-7dbd-9363-4c2a226f9cc5/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=286c7190dae280e3a777bfc43cf24543573e615ef71ce3da3091eae96125ad3a)
 
 These settings tell the AI how it should write in the Draft tool, Write button (both Auto and Guided), and Expand, helping to ensure consistency in narrative voice and tense. You have the option of setting a global POV and Tense for your entire novel, or defining them on a per-chapter basis.
 
@@ -3523,7 +3523,7 @@ If you disagree with an AI-defined POV and Tense you can just change it. Once yo
 
 If you want your story to be written in first person from your protagonist’s perspective, you can select that character from the Characters section of the POV dropdown menu. All named characters from the Characters section of your project’s Story Bible will automatically appear there.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ae-bbb7-7b64-9d00-ac108fea7d68/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7e98472d563890d150187e0f1fd2ce62d291a0efb4aed67f6477e140be861839)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ae-bbb7-7b64-9d00-ac108fea7d68/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d505e388bfe7df3319b823cfb0b70043cf4af529097412073d7fd8e47020face)
 
 You can actually assign more than one character to a chosen narrative perspective. When a single character is selected, the AI will write with _that_ character’s perspective in mind. If multiple characters are selected, the AI will use the context of the scene (Draft) or the highlighted or previous text (Write and Expand buttons) to determine the most appropriate character to use.
 
@@ -3531,7 +3531,7 @@ You can actually assign more than one character to a chosen narrative perspectiv
 
 You have two options when it comes to setting your POV and Tense.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ae-fa54-785b-a056-38b6c1b922aa/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=aebfd757c535f3415ee18d7d7477549020d42d945991e0631e456c87f43d2ba9)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1ae-fa54-785b-a056-38b6c1b922aa/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4dcf0041561085d9fc96821831af57c5d6d95d19f50bd1072459c758af4ecc67)
 
 **Same for all chapters (Default):** A single POV and tense setting are applied to the entire novel, ensuring a consistent narrative voice throughout.
 
@@ -3543,7 +3543,7 @@ Choose your preferred mode in the **Outline section of the Story Bible.**
 
 When you link a document to a chapter in your Outline (or create a linked chapter from it), the POV and Tense settings from the linked Outline’s chapter are automatically synced to the Draft box.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1af-9763-799f-b3f1-e40d22d0abc9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5b0a59007279ed71c081798af5126311ec6c84c19ce6a08483f34615cb1f66b0)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d8cc3bf18c3d82dcb28/019be1af-9763-799f-b3f1-e40d22d0abc9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6155bc634c89895c9ebe95ef2a0029818617d55bad90384812ed9577e6df37b9)
 
 Any changes made to the POV or Tense within the Draft section will be automatically synchronized with the corresponding chapter's settings in the Outline, and vice versa. This ensures that your entire project remains consistent.
 
@@ -3651,7 +3651,7 @@ Scenes let you guide Sudowrite to write your chapter exactly the way you imagine
 
 Think of Scenes as the natural atomic units of storytelling—aligned with how writers already plan and think about narrative flow.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d37b929a1bb6c0a2689/019be1a5-4efe-7d6d-ad55-bf186ee744b7/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2eae8b2a144fe8c562511e63c45ed543658c18b48eb4cfd75ea229de01fe8851)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d37b929a1bb6c0a2689/019be1a5-4efe-7d6d-ad55-bf186ee744b7/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=03d6639778ba0204d25ff56f8b9d8dfbd97abb59dbfa9ddd0d9414dd63b80b1d)
 
 ### **How do I generate chapter prose from Scenes?**
 
@@ -3742,7 +3742,7 @@ Once you have a generated outline that you’re happy with, make sure the detail
 
 At any point in the Outlining process, you can also Add individual chapter summaries. This can be helpful if you want to insert a chapter after-the-fact or extend your Outline. Click the **\+ Add Chapter** button in the section header to create a new blank chapter summary field—then just drag it into place. Alternatively, you can just hover _between_ the chapters where you’d like to insert the new chapter summary and an + Add button will appear.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d1f04f5d5e47043fcfc/019be199-09ab-7bb3-a255-11e5d39065af/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f538e20d4f37ec87485fcf11a82dbc47e64e696ca2f51a70d9449702bac09fba)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d1f04f5d5e47043fcfc/019be199-09ab-7bb3-a255-11e5d39065af/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4dc402b6b6ded387698dc5f3a6ce2db744095be95474934b9dc0225cbe9e7c0a)
 
 Your chapters can be named anything you’d like—“Chapter 1, Epilogue, Scene” etc.
 
@@ -3777,7 +3777,7 @@ The Worldbuilding section of Story Bible is the place to create and store all of
 
 The Worldbuilding section is very open-ended. It provides a wide range of templates. No matter what you select, your Worldbuilding entry will be tracked on a collapsible, customizable card.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-6ac0-7e03-b35c-a321bf878c72/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0583f610e4d854e4f17cf1b97386920ec795f5f3e2a541709780e5b64fb8b1d9)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-6ac0-7e03-b35c-a321bf878c72/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1b7c4184871757d9099d3ecfc15a70457107517f2ebdca69d9471515492ebc57)
 
 ### Worldbuilding Cards
 
@@ -3785,7 +3785,7 @@ The Worldbuilding section is very open-ended. It provides a wide range of templa
 
 Cards are how you keep track of each entry, meaning that **a card may represent a clue, magic system, setting, or something else altogether**. You can select from the card templates available, or create an entirely custom entry using **\+ Custom** when creating a card (or in the trait customization).
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-c76e-7a8a-b1d5-bc96e0e5dc07/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7339f926a3a24112c5d36e687849032afd39895af07496e211a323c29424893a)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6d00b929a1bb6c09aaf5/019be19c-c76e-7a8a-b1d5-bc96e0e5dc07/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1abc46e9085df914c76fd72bf8829e0dbaadb42860bee06fadc006483a8d61bb)
 
 As with Characters, Worldbuilding entry cards can be collapsed using the arrow next to the element name, and dragged to your preferred order with the six-dot handle in the upper left.
 
@@ -3838,7 +3838,7 @@ Cards are how you keep track of each individual character and their details. Car
 
 The dropdown in the upper right allows you to set a Characters role (for example, protagonist, supporting character, etc.). You can see previous versions of the character in the card history—accessed from the clock icon up top—and you can delete a character card using the three dots on the right.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be192-8b27-7da9-b739-f8ce854a9fe4/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMDkuMjIgMkAyeC5wbmc.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=beb575a5a2d109f32f4c78c5df3934dcd0345db2ed834d9b77d78a197ffe8073)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be192-8b27-7da9-b739-f8ce854a9fe4/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMDkuMjIgMkAyeC5wbmc.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a772c112dbef105d0917b50a24fd47a50c801a5b114de2415f94f70b4e3fe094)
 
 By default, each Character card created includes the following traits: Pronouns, Groups, Other Names, Personality, Background, Physical Description, and Dialogue Style.
 
@@ -3872,7 +3872,7 @@ Traits aren’t set in stone. You can retitle existing traits, or even **create 
 
 **Want all of your characters—or even a specific character type—to have additional traits?** Click the **Customize** button under the **More menu (•••)** at the top of the Characters section and you can edit and rearrange your default traits for each Character type. You can even create brand new custom Character types with specific trait sets!
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be193-2662-7686-a246-9e905018fdd8/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMjQuMTdAMngucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f3a9835b44b2cad74f282e76351a33d04c3090cf4ce45c6f63e10eef5dee1057)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be193-2662-7686-a246-9e905018fdd8/b64u-Q2xlYW5TaG90IDIwMjYtMDEtMTMgYXQgMTguMjQuMTdAMngucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8a5a8cb5b68f7c246347096d9770e3bbb676a0750536fa5328d52970efd0b15c)
 
 Just click **\+ Add** to add a new default trait, and all future characters will be created with that default trait included. This is ideal if you’d like to add your characters’ Enneagram types, core wounds, or story-specific details (like shifter form, for example).
 
@@ -3894,7 +3894,7 @@ Story Bible’s updated characters section has more structured character data th
 
 Your characters section is referenced by the Draft tool for the creation of both Scenes and prose generation. Characters are also referenced by the Write button’s Auto and Guided Write modes. And both Quick Edit and Chat can see your characters as well—try asking Chat about any of your character details.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-0304-7672-880f-e153ebb1247d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8fa73a995e2444015f05852f7fe50f6d82b9e8182f667c4485aafa6df8e344db)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-0304-7672-880f-e153ebb1247d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7e9e0ee9cc7e67eb54e47bf57ac35ac43bf4eb94d52a4603e71a58cc547ad509)
 
 You can fit an absurd amount of data on each Character card, and Story Bible won’t ever stop you from adding new Characters. You may see the Characters section referred to as unlimited—but that’s not _entirely_ true. **If you try to add more than 2,000 different characters to your Story Bible you’ll actually hit the limit!** But if you have more than 2,000 characters… well, have you considered you may actually be writing _a phone book_?
 
@@ -3904,11 +3904,11 @@ Sometimes you want to pick up on a work in progress, or just create character ca
 
 The smart import feature in Story Bible’s Characters section can be used to instantly create Character cards from an existing text.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-4862-72bf-b271-36b9b017a0b2/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=32bf40d476df5e5cb65e09d6c7c4b32da5d258e05891164e1a8941a2001a1850)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-4862-72bf-b271-36b9b017a0b2/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c73e09a8cecbde4bc2e7d2071d63a3715f993ee3a5f7857225c048a21b811141)
 
 To use the smart import feature, navigate to the header of the Characters section of Story Bible and click the Import button in the three dots (•••) menu. Doing so opens the Import window.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-8967-74b8-a93c-9eb046a141e9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0adf860675b367572656c78ccb9bd549254a721a841b60f108f796a00c99d6d4)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cbe42d0d96d59b26850/019be195-8967-74b8-a93c-9eb046a141e9/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=30dfcdf7be2b75ed2c091850cc3675a51458f718e37bcabb6916b97dc4fc762a)
 
 You have the option of importing characters from text or a file. This might be a list of characters, a chapter of your work, or in some cases an entire manuscript.
 
@@ -3982,7 +3982,7 @@ Once you’ve typed the changes you want made, just click the **Go** button.
 
 🕓 **QUICK TIP**
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cb45b069893d4fb8adc/019be18e-847d-7e21-b126-5c4f01a16159/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=67aa1b4f864ca8c8db6d59a9806c92c2b35ea3d731740f23a12b25a262c31495)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6cb45b069893d4fb8adc/019be18e-847d-7e21-b126-5c4f01a16159/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3373f4eab0933004e8bc40c4130c8406e8ef7ba0c0d2855f271c395e4b97fc36)
 
 ✏️ **Rewrite Examples**
 
@@ -4100,7 +4100,7 @@ Like any other Sudowrite tool, the resulting story is only as good as the writer
 
 You’ll find your Story Bible in the left bar of your Project, beneath your document list.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c7f628c454516ad35e2/019be187-fedb-725b-bb70-37bee4f3d785/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=760cc79a702510d0431ad265a1bd9ead0864e48589c8008337ee269013d362ea)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c7f628c454516ad35e2/019be187-fedb-725b-bb70-37bee4f3d785/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2ece11dbd87a0fd121f99b66677ab0ffd63f5e377f5a97a737036deb4ee6e4bc)
 
 ## How to move through Story Bible
 
@@ -4445,7 +4445,7 @@ Sudowrite offers a few different ways to export your work, allowing you to easil
 
 Need to backup your entire project or share all of the documents with a collaborator? The Project Export feature is perfect for these scenarios. It allows you to export all of your documents at once as a bundled .zip file.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be176-9b23-76b4-9eed-c7b0a079678d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9283481dc04fe2deee2bf1488b542c68700a1a561c335778defc58e53cb6676b)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be176-9b23-76b4-9eed-c7b0a079678d/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b24b7cfcd70dec71dbe823ab67903defd2568a2bfb4a8f6df5cb9e2cc3974cb0)
 
 **Project Export Purpose:** Export every document in a project at once.
 
@@ -4480,7 +4480,7 @@ We added the ability to export your entire project as a single document rather t
 
 Now when you click the **More menu (•••)** on your project, you have the option to export all of that project’s documents _either_ as a bundled .zip _or_ as one merged document.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be176-fa87-7f21-919e-9843287dc3c7/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2f4948403a573bfe5fdfe083c0070b95af4d1393eb6035d8a1b2134539e56ba0)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be176-fa87-7f21-919e-9843287dc3c7/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=47106b60c12c6cd673541b99e12c7b476450daef674c5011b5b063272ae2ed5f)
 
 If you choose **Export as 1 doc**, the resulting .docx file will include all of your documents in the order that they appear in your project’s left bar (from top to bottom). Documents inside of folders and subfolders are included too, following that sequence. As with the .zip-based export, your Story Bible is not included in the resulting file.
 
@@ -4488,7 +4488,7 @@ If you choose **Export as 1 doc**, the resulting .docx file will include all of 
 
 Sometimes you only need to export a specific chapter or single document from your project. The Document Export option allows you to do just that, giving you flexibility in sharing or backing up individual pieces of your work.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be177-526d-7797-ba77-ab46f4fb4d6e/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=dee2d463583c30d24dfa920dc3d6b121a89cda54abd580e18afcc982d5f86d06)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6c07628c454516abf706/019be177-526d-7797-ba77-ab46f4fb4d6e/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9404ab72f63be768bf0198bbf3f324a8ec49a665c44b8d8a363389040108bb06)
 
 **Document Export Purpose:** Export a single document or chapter from your project.
 
@@ -4890,13 +4890,13 @@ If you’ve added a character that doesn’t appear until later in your story, a
 
 **When the eyeball is clicked (and appears struck-through), Sudowrite’s AI will ignore that card or trait altogether.**
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fb9bd18c364828017b5/019be1cf-6600-7edf-93b2-b627b19560a0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=53a40780c2cf4ada2d4927bcf26bb134b52aa04248e13802ce28fb50eb3cc7ac)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fb9bd18c364828017b5/019be1cf-6600-7edf-93b2-b627b19560a0/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e79d97e387c2f789410815891969f11a078914c6a2c8a8c4324ff8e77e78e18c)
 
 Alternatively, lets say you want to include a Motive trait on the Character Card for the murderer in your mystery. Saliency Engine _may_ consider a motive relevant to a scene, leading to an AI generation that spills the beans prematurely. You can prevent this by hiding the Motive from Sudowrite’s AI, which you’d do by toggling the visibility of the trait field itself.
 
 Just hover over a trait field and click the eyeball. Once the eyeball appears struck-through, the trait is hidden from Sudowrite’s AI.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fb9bd18c364828017b5/019be1cf-b251-7c8b-9288-687708c2c745/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6250c91cafdec1d7c86e464b1bf819fa8abaf7fe063f391b3e24976642169215)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fb9bd18c364828017b5/019be1cf-b251-7c8b-9288-687708c2c745/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=dba71755ee1b44dde01c76dd9931314f6e7294c115f8718a72f92da8796d82f2)
 
 All Character and Worldbuilding cards and traits are visible to the AI by default. That means, unless you say otherwise by dictating what is visible, Sudowrite’s Saliency Engine will decide whether or not those bits of story context are relevant to the task at hand.
 
@@ -4932,7 +4932,7 @@ We think that every writer should be empowered to tell their story, so there are
 
 First, Sudowrite’s Settings (⚙️) include a number of accessibility options. One of those is the OpenDyslexic font which is intended to reduce some of the more common reading errors associated with dyslexia. Another is our Themes, which is how and where you would enable Dark Mode (try _Charcoal_ for that)—but Themes also provide a range of color palettes so you can select something that works best for your vision.
 
-![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fa95b069893d402d3d1/019be1cd-d71a-7312-bbb7-2c07a735f4d1/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T150000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=16f62546e67660dae1220fc794df615a0983f37f70dea8daf158baf00a4d6c51)
+![](https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/article/689f6fa95b069893d402d3d1/019be1cd-d71a-7312-bbb7-2c07a735f4d1/b64u-aW1hZ2UucG5n.png?X-Amz-Expires=3600&X-Amz-Date=20260430T180000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801TYC4FCVNNEKURKM%2F20260430%2Ffra1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0fe88950175ab1bf0d5e297ef1aa9f25c44960d131080e525670b66af9c8eecc)
 
 We’ve also recently made some big improvements to the way that Sudowrite works with screen readers—so if you’re a screen reader user, you should now have an easier time navigating Sudowrite
 

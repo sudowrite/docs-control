@@ -4,8 +4,8 @@ slug: 6204120-chat
 category: '5442133'
 collection_name: Features
 featurebase_id: '6204120'
-last_updated: '2026-04-30T16:05:43.107Z'
-synced_at: '2026-04-01T15:19:16.739Z'
+last_updated: '2026-04-30T16:08:51.403Z'
+synced_at: '2026-04-30T17:30:33.019Z'
 source: featurebase
 ---
 There’s a new chat in town, and it lives in your project’s right bar. To use it, simply toggle your right bar from History (which is where all your “cards” are generated and stored) to Chat.
@@ -20,7 +20,7 @@ Chat is **story aware**, which means it can see your existing work in order to b
 
 Specifically, when your Story Bible is turned on and filled in, **Chat can see your Genre, Synopsis, Characters, Worldbuilding, and Outline**. It also sees **the full text of the current document**, and it will focus on anything that you’ve **highlighted** in that document (while still seeing the full doc).
 
-Want to direct Chat’s attention to something or someone in particular? **Chat supports # mentions** that can provide additional context. You can tag a specific Character or Worldbuilding element by using the # tag. You can even use the # tag to reference another document in the same project—for example, if you wanted Chat’s help comparing different versions of a chapter, or creating an interstitial chapter.
+Want to direct Chat’s attention to something or someone in particular? **Chat supports @ mentions** that can provide additional context. You can tag a specific Character or Worldbuilding element by using the @ tag. You can even use the @ tag to reference another document in the same project—for example, if you wanted Chat’s help comparing different versions of a chapter, or creating an interstitial chapter.
 
 ### Are there limits?
 
