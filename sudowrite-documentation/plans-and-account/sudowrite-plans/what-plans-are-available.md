@@ -4,11 +4,11 @@ slug: 2690807-what-plans-are-available
 category: '6550900'
 collection_name: Sudowrite Plans
 featurebase_id: '2690807'
-last_updated: '2026-02-15T19:27:10.154Z'
-synced_at: '2026-04-01T15:19:16.806Z'
+last_updated: '2026-09-15T23:12:17.370Z'
+synced_at: '2026-09-15T23:12:17.370Z'
 source: featurebase
 ---
-Sudowrite offers three subscription tiers—so whether you’re a hobbyist or a working professional, there’s an appropriate option for you. All plans have full access to _all_ of Sudowrite’s features. The difference between them is simply the number of credits included each month, and whether or not those credits expire.
+Sudowrite offers three subscription tiers—so whether you’re a hobbyist or a working professional, there’s an appropriate option for you. Most Sudowrite features are available on all plans, but some features are plan-specific. Feedback is exclusive to Professional and Max plans. The plans also differ in the number of credits included each month and whether those credits expire.
 
 The plans are:
 
