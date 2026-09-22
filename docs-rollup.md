@@ -4163,25 +4163,45 @@ While your Story Bible is not included during a typical project export, the Char
 
 ## Character Portraits
 
-Want to put a face to a name? **Character Portraits lets you generate or upload images for the Characters in your Story Bible.** Whether you think of it as a portrait, avatar, or character illustration, you can keep a gallery of different looks, and choose a favorite as the thumbnail on your Character card. **Can Chat make a character portrait for me?** Chat can explain how Character Portraits works and point you to these controls, but it can’t generate, upload, view, select, or delete portraits for you yet. To work with portraits, use the portrait controls in **Story Bible → Characters** directly.
+Want to put a face to a name? **Character Portraits lets you generate or upload images for the Characters in your Story Bible.** Each Character card has its own gallery for exploring different looks, outfits, and art styles. Choose one portrait as the thumbnail beside the character’s name when the card is collapsed. **Can Chat generate a character portrait or avatar for me?** Chat can explain the feature and guide you through it, but it can’t generate, upload, view, select, or delete portraits for you yet. Use the portrait controls in **Story Bible → Characters** directly.
 
-Character Portraits is currently a beta feature available to accounts with access. If you don’t see the portrait controls on your Character cards, the feature may not be enabled for your account.
+Portraits appear at the top of an expanded Character card, above its written traits. If you don’t see the portrait controls, the feature may not be enabled for your account.
 
-**To generate a character portrait:**
+### Generating a Character Portrait
 
-1. Open **Story Bible → Characters** and find the Character card you’d like to illustrate.
-2. Click the character’s portrait placeholder to open the portrait window. If they already have portraits, use **Add a portrait** to create another.
-3. On the **Generate** tab, fill in **Appearance details**. Sudowrite uses the character’s **Physical Description** and **Pronouns** traits as a starting point, so this is a good place to add clothing, distinguishing features, or their current mood. You can also describe a setting to place them in a scene.
-4. Click **Styles** to choose up to four art styles, such as **Painterly**, **Cinematic Realism**, **Bright Editorial**, or **Storybook**. Each selected style produces a portrait. Want to describe your own art direction? Deselect all styles and use the **Appearance & style** field instead.
-5. Click **Generate**. Your generated portraits are saved to the character’s gallery automatically. Select a portrait and click **Set thumbnail** to use it on the Character card.
+1. Open **Story Bible → Characters** and expand the Character card you’d like to illustrate.
+2. Click the empty **Portraits** box. If the character already has portraits, click the blank **+** tile to add more.
+3. Leave **Generate** selected in the upper right of the portrait window. **Appearance details is optional**: Sudowrite uses the character’s **Physical Description** and **Pronouns** traits as a starting point. You can edit the Physical Description first or add instructions just for this portrait.
+4. Open **Styles** beside the Generate button and select the styles you’d like to try.
+5. Click **Generate** in the lower left. Generated portraits are saved to the character’s gallery automatically. Select a result and click **Set thumbnail** if you want it to be the character’s primary portrait.
 
-**Try this:** Add “Windblown hair, a worn leather jacket, standing on a rain-slick city street at night” to give your character a particular look and setting.
+**Saving and setting a thumbnail are separate actions.** All generated portraits are saved, including those you don’t choose as the thumbnail. Choosing a different thumbnail keeps the other images in the gallery; delete unwanted portraits separately.
 
-**Using a reference image:** Add an image under **Reference image**, then describe what you’d like Sudowrite to take from it—for example, “Match the hairstyle and outfit.” Those instructions are required when you attach a reference image. The reference image becomes the starting point for appearance instead of the character’s stored Physical Description and Pronouns, so use your instructions and appearance details to make your intent clear.
+**Portrait styles:** Choose from these four built-in styles.
+| Character portrait styles | Look |
+| --- | --- |
+| Painterly | Rich brushwork and bold color. |
+| Cinematic Realism | Dramatic, film-style lighting. |
+| Bright Editorial | Bold, modern character art. |
+| Storybook | Warm illustration with classic linework. |
 
-**Already have an image you love?** Choose the **Upload** tab, add your images, and click **Save** to add them to the character’s gallery. Uploading a finished portrait is different from attaching a reference image, which guides a new generation.
+Select one style for one portrait, or select multiple styles to compare interpretations. Selecting all four generates **four portraits, one in each style**. Deselect every style to use **Appearance & style** instead of Appearance details and describe your own art direction, such as a charcoal sketch or watercolor illustration. With no preset selected, Sudowrite generates a single portrait. You can leave the field blank and let it use the character’s existing description without a preset style.
 
-You can revisit saved portraits from the Character card. Open a portrait and use its **More menu (•••)** to **Set thumbnail** or **Delete** it. Generating portraits uses credits; generating again creates new images and uses additional credits.
+**Portrait appearance details limit:** Use **Appearance details** (or **Appearance & style**) for clothing, props, expression, pose, or setting. This field accepts up to **2,500 characters**. Portraits currently use a **head-and-shoulders (bust) composition**, so setting and pose instructions guide the portrait rather than switching it to a full-body image.
+
+**Try this:** Add “A green velvet coat, round glasses, and a curious smile, with a sunlit library behind them.” You don’t need to repeat everything already in the character’s Physical Description.
+
+**Portrait reference image:** In **Generate**, click the image control beside **Reference image** to attach an image. Then use the accompanying instruction field to explain which elements to incorporate—for example, “Use the coat and glasses from this image.” Reference-image instructions are required when an image is attached. Choose your styles and other settings, then click **Generate**.
+
+A reference image can guide an outfit, hairstyle, or atmosphere. When one is attached, the stored **Physical Description** and **Pronouns** are not used as the appearance starting point, so include any important appearance details in your instructions. **Reference image** guides a new generation; it does not add that existing image directly to the character’s gallery. Use **Upload** for that.
+
+**Uploading your own portraits:** Choose **Upload** in the upper right of the portrait window. Drag images into the upload area, or click **Drop or click to select images** to choose files from your computer. Then click **Save** to add them to the character’s portrait gallery. You can keep uploaded images alongside generated portraits.
+
+**Change a portrait thumbnail or delete a portrait:** Open a portrait from the Character card’s gallery. Use the gallery arrows to find the image you want, then open its **More menu (•••)** and choose **Set thumbnail**. The thumbnail appears beside the character’s name when you collapse the card; changing it does not remove other portraits. To remove an unwanted portrait, open it, choose **Delete** from the image’s **More menu (•••)**, and confirm the deletion. This removes that image from the character card.
+
+**Portrait credit usage:** Character portrait generation uses **5,000 credits per image**. One portrait costs 5,000 credits; two selected styles cost 10,000; all four styles cost **20,000 credits**. With no preset style selected, the single generated portrait costs 5,000 credits. Generating again creates new images and uses additional credits.
+
+For the illustrated walkthrough, see [Portraits in the Sudowrite guide](https://docs.sudowrite.com/using-sudowrite/1ow1qkGqof9rtcyGnrWUBS/portraits/8FB59VFrbbhcmBRYNicXis).
 
 ---
 
