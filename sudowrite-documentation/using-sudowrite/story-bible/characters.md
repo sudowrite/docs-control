@@ -135,9 +135,9 @@ While your Story Bible is not included during a typical project export, the Char
 
 ## Character Portraits
 
-Want to put a face to a name? **Character Portraits lets you generate or upload images for the Characters in your Story Bible.** Whether you think of it as a portrait, avatar, or character illustration, you can keep a gallery of different looks, and choose a favorite as the thumbnail on your Character card. **Can Chat make a character portrait for me?** Chat can explain how Character Portraits works and point you to these controls, but it can’t generate, upload, view, select, or delete portraits for you yet. To work with portraits, use the portrait controls in **Story Bible → Characters** directly.
+Want to put a face to a name? **Character Portraits lets you generate or upload images for the Characters in your Story Bible.** You can keep a gallery of different looks and choose a favorite as the thumbnail on your Character card. **Can Chat make a character portrait for me?** Chat can explain how Character Portraits works and point you to these controls, but it can’t generate, upload, view, select, or delete portraits for you yet. To work with portraits, use the portrait controls in **Story Bible → Characters** directly.
 
-Character Portraits is currently a beta feature available to accounts with access. If you don’t see the portrait controls on your Character cards, the feature may not be enabled for your account.
+Character Portraits is currently rolling out to accounts over the next week. If you don’t see the portrait controls on your Character cards, the feature may not be enabled for your account.
 
 **To generate a character portrait:**
 
@@ -153,4 +153,4 @@ Character Portraits is currently a beta feature available to accounts with acces
 
 **Already have an image you love?** Choose the **Upload** tab, add your images, and click **Save** to add them to the character’s gallery. Uploading a finished portrait is different from attaching a reference image, which guides a new generation.
 
-You can revisit saved portraits from the Character card. Open a portrait and use its **More menu (•••)** to **Set thumbnail** or **Delete** it. Generating portraits uses credits; generating again creates new images and uses additional credits.
+You can revisit saved portraits from the Character card. Open a portrait and use its **More menu (•••)** to **Set thumbnail** or **Delete** it. Generating portraits uses credits.
