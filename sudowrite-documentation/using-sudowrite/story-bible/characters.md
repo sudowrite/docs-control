@@ -132,3 +132,25 @@ While your Story Bible is not included during a typical project export, the Char
 -   You’ll be presented an Export option
     
 -   Once Exported, you’ll receive a .CSV file with all of your characters represented as rows, and all of your default and custom traits represented as columns
+
+## Character Portraits
+
+Want to put a face to a name? **Character Portraits lets you generate or upload images for the Characters in your Story Bible.** Whether you think of it as a portrait, avatar, or character illustration, you can keep a gallery of different looks, and choose a favorite as the thumbnail on your Character card. **Can Chat make a character portrait for me?** Chat can explain how Character Portraits works and point you to these controls, but it can’t generate, upload, view, select, or delete portraits for you yet. To work with portraits, use the portrait controls in **Story Bible → Characters** directly.
+
+Character Portraits is currently a beta feature available to accounts with access. If you don’t see the portrait controls on your Character cards, the feature may not be enabled for your account.
+
+**To generate a character portrait:**
+
+1. Open **Story Bible → Characters** and find the Character card you’d like to illustrate.
+2. Click the character’s portrait placeholder to open the portrait window. If they already have portraits, use **Add a portrait** to create another.
+3. On the **Generate** tab, fill in **Appearance details**. Sudowrite uses the character’s **Physical Description** and **Pronouns** traits as a starting point, so this is a good place to add clothing, distinguishing features, or their current mood. You can also describe a setting to place them in a scene.
+4. Click **Styles** to choose up to four art styles, such as **Painterly**, **Cinematic Realism**, **Bright Editorial**, or **Storybook**. Each selected style produces a portrait. Want to describe your own art direction? Deselect all styles and use the **Appearance & style** field instead.
+5. Click **Generate**. Your generated portraits are saved to the character’s gallery automatically. Select a portrait and click **Set thumbnail** to use it on the Character card.
+
+**Try this:** Add “Windblown hair, a worn leather jacket, standing on a rain-slick city street at night” to give your character a particular look and setting.
+
+**Using a reference image:** Add an image under **Reference image**, then describe what you’d like Sudowrite to take from it—for example, “Match the hairstyle and outfit.” Those instructions are required when you attach a reference image. The reference image becomes the starting point for appearance instead of the character’s stored Physical Description and Pronouns, so use your instructions and appearance details to make your intent clear.
+
+**Already have an image you love?** Choose the **Upload** tab, add your images, and click **Save** to add them to the character’s gallery. Uploading a finished portrait is different from attaching a reference image, which guides a new generation.
+
+You can revisit saved portraits from the Character card. Open a portrait and use its **More menu (•••)** to **Set thumbnail** or **Delete** it. Generating portraits uses credits; generating again creates new images and uses additional credits.
